@@ -10,45 +10,46 @@ PlayResY: 1080
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: Futurama.S01E01.1080p.WEBRip.x265-RARBG.mp4
-Video File: Futurama.S01E01.1080p.WEBRip.x265-RARBG.mp4
+Last Style Storage: Default
+Audio File: Futurama.S01E01.Space.Pilot.3000.mkv
+Video File: Futurama.S01E01.Space.Pilot.3000.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.375000
-Scroll Position: 43
-Active Line: 48
-Video Position: 5456
+Video Zoom Percent: 0.500000
+Scroll Position: 16
+Active Line: 19
+Video Position: 2034
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Leelawadee UI,83,&H0000EAEA,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.75,0,2,38,38,38,1
+Style: Default,思源黑体 Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00858585,0,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.86,0:00:03.68,Default,,0,0,0,,{\bord0\b1\fs112.5\pos(693.75,693.75)\1c&0xFFFFFF\fad(1000,500)}1999 年 12 月 31 日
 Dialogue: 0,0:00:06.99,0:00:08.50,Default,,0,0,0,,宇宙\N{\bord3\shad0\fs52.5\1c&FFFFFF}Space,
-Dialogue: 0,0:00:08.50,0:00:11.09,Default,,0,0,0,,看似无边无际\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}it seems to go on and on forever.
-Dialogue: 0,0:00:11.09,0:00:12.09,Default,,0,0,0,,但走到最后\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}But then you get to the end,
-Dialogue: 0,0:00:12.09,0:00:14.29,Default,,0,0,0,,总有一只大猩猩朝你扔水桶\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}and a gorilla start to throw barrels at you.
-Dialogue: 0,0:00:19.79,0:00:20.55,Default,,0,0,0,,{\blur3.75\bord0\b1\pos(675,750)\fs131.25\b1\1c&0x0DCA2E}游戏结束
-Dialogue: 0,0:00:20.49,0:00:22.78,Default,,0,0,0,,这游戏就是这么打的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's how you play the game.
-Dialogue: 0,0:00:22.78,0:00:25.16,Default,,0,0,0,,你太菜了 渣渣\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You stink, loser.
-Dialogue: 0,0:00:25.16,0:00:27.76,Default,,0,0,0,,喂 弗莱 送披萨了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Hey! Fry, Pizza going out.
-Dialogue: 0,0:00:27.76,0:00:29.33,Default,,0,0,0,,赶紧的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come on!
+Dialogue: 0,0:00:08.50,0:00:11.09,Default,,0,0,0,,看似无边无际\N{\fnArial\fs40\bord2}it seems to go on and on forever.
+Dialogue: 0,0:00:11.09,0:00:12.09,Default,,0,0,0,,但走到最后\N{\fnArial\fs40\bord2}But then you get to the end,
+Dialogue: 0,0:00:12.09,0:00:14.29,Default,,0,0,0,,就会有一只大猩猩朝你扔水桶\N{\fnArial\fs40\bord2}and a gorilla start to throw barrels at you.
+Dialogue: 0,0:00:19.79,0:00:20.55,Default,,0,0,0,,{\an5\blur2\b1\fs192\b1\1c&0x0DCA2E}游戏结束
+Dialogue: 0,0:00:20.49,0:00:22.78,Default,,0,0,0,,这游戏就是这么打的\N{\fnArial\fs40\bord2}That's how you play the game.
+Dialogue: 0,0:00:22.78,0:00:25.16,Default,,0,0,0,,你太菜了 渣渣\N{\fnArial\fs40\bord2}You stink, loser.
+Dialogue: 0,0:00:25.16,0:00:27.76,Default,,0,0,0,,喂 弗莱 送披萨了\N{\fnArial\fs40\bord2}Hey! Fry, Pizza going out.
+Dialogue: 0,0:00:27.76,0:00:29.33,Default,,0,0,0,,赶紧的\N{\fnArial\fs40\bord2}Come on!
 Dialogue: 0,0:00:29.90,0:00:31.51,Default,,0,0,0,,{\blur2.625\fs52.5\bord0\shad0\frz23\pos(558.75,656.25)\1c&000000}不要给小费
-Dialogue: 0,0:00:40.12,0:00:42.55,Default,,0,0,0,,米切尔 宝贝 你去哪儿\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Michelle! Baby! Where you going?
-Dialogue: 0,0:00:42.98,0:00:44.86,Default,,0,0,0,,咱俩没戏了 弗莱\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's not working out, Fry.
-Dialogue: 0,0:00:44.86,0:00:47.88,Default,,0,0,0,,我把你的东西扔在走廊了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I put your stuff out on the sidewalk!
-Dialogue: 0,0:00:48.51,0:00:51.14,Default,,0,0,0,,我讨厌我的生活\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I hate my life. I hate my life.
-Dialogue: 0,0:01:00.85,0:01:02.45,Default,,0,0,0,,新年快乐\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Happy New Year!
+Dialogue: 0,0:00:40.12,0:00:42.55,Default,,0,0,0,,米切尔 宝贝 你去哪儿\N{\fnArial\fs40\bord2}Michelle! Baby! Where you going?
+Dialogue: 0,0:00:42.98,0:00:44.86,Default,,0,0,0,,咱俩没戏了 弗莱\N{\fnArial\fs40\bord2}It's not working out, Fry.
+Dialogue: 0,0:00:44.86,0:00:47.88,Default,,0,0,0,,我把你的东西扔在走廊了\N{\fnArial\fs40\bord2}I put your stuff out on the sidewalk!
+Dialogue: 0,0:00:48.51,0:00:51.14,Default,,0,0,0,,我讨厌我的生活\N{\fnArial\fs40\bord2}I hate my life. I hate my life.
+Dialogue: 0,0:01:00.85,0:01:02.45,Default,,0,0,0,,新年快乐\N{\fnArial\fs40\bord2}Happy New Year!
 Dialogue: 0,0:01:06.67,0:01:08.46,Default,,0,0,0,,{\fs90\pos(937.5,131.25)\1c&0x04083F\b1\shad0\bord3.75\3c&0x355D71}低温冷冻技术
 Dialogue: 0,0:01:09.78,0:01:11.92,Default,,0,0,0,,{\pos(937.5,750)\bord3.75\b1\shad0\fs67.5\1c&0x000405\3c&0x355D71}自1997年\N从未断电
-Dialogue: 0,0:01:21.25,0:01:24.60,Default,,0,0,0,,你好 你的外卖…\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Hello? Pizza delivery for. . .
-Dialogue: 0,0:01:24.60,0:01:26.69,Default,,0,0,0,,"冷·冻·香肠" 先生\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}"I. C. Wiener. "
-Dialogue: 0,0:01:26.69,0:01:28.19,Default,,0,0,0,,噢 该死\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Oh, crud!
-Dialogue: 0,0:01:28.19,0:01:29.97,Default,,0,0,0,,我还以为在这个年纪\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I always thought by this point of my life,
-Dialogue: 0,0:01:29.97,0:01:32.65,Default,,0,0,0,,应该是我给别人打恶作剧电话才对\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'd be the one making my crank calls.
-Dialogue: 0,0:01:35.16,0:01:37.92,Default,,0,0,0,,敬又一个差劲的千禧年\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Here's to another lousy millennium.
+Dialogue: 0,0:01:21.28,0:01:24.80,Default,,0,0,0,,你好 你的外卖…\N{\fnArial\fs40\bord2}Hello? Pizza delivery for. . .
+Dialogue: 0,0:01:24.80,0:01:26.69,Default,,0,0,0,,"我见肠" 先生\N{\fnArial\fs40\bord2}"I. C. Wiener. "
+Dialogue: 0,0:01:26.69,0:01:28.19,Default,,0,0,0,,噢 该死\N{\fnArial\fs40\bord2}Oh, crud!
+Dialogue: 0,0:01:28.19,0:01:29.97,Default,,0,0,0,,我还以为在这个年纪\N{\fnArial\fs40\bord2}I always thought by this point of my life,
+Dialogue: 0,0:01:29.97,0:01:32.65,Default,,0,0,0,,应该是我给别人打恶作剧电话才对\N{\fnArial\fs40\bord2}I'd be the one making my crank calls.
+Dialogue: 0,0:01:35.16,0:01:37.92,Default,,0,0,0,,敬又一个差劲的千禧年\N{\fnArial\fs40\bord2}Here's to another lousy millennium.
 Dialogue: 0,0:01:39.71,0:01:41.01,Default,,0,0,0,,10
 Dialogue: 0,0:01:41.01,0:01:42.24,Default,,0,0,0,,9
 Dialogue: 0,0:01:42.24,0:01:43.49,Default,,0,0,0,,8
@@ -60,304 +61,304 @@ Dialogue: 0,0:01:48.41,0:01:49.71,Default,,0,0,0,,3
 Dialogue: 0,0:01:49.71,0:01:50.87,Default,,0,0,0,,2
 Dialogue: 0,0:01:50.87,0:01:52.34,Default,,0,0,0,,1
 Dialogue: 0,0:01:58.49,0:01:59.47,Default,,0,0,0,,{\blur3.75\bord0\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1}1000 年
-Dialogue: 0,0:01:59.94,0:02:01.61,Default,,0,0,0,,搞什么…\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What the--?
+Dialogue: 0,0:01:59.94,0:02:01.61,Default,,0,0,0,,搞什么…\N{\fnArial\fs40\bord2}What the--?
 Dialogue: 0,0:02:33.09,0:02:34.02,Default,,0,0,0,,{\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1\bord3.75}02 秒
 Dialogue: 0,0:02:34.02,0:02:35.02,Default,,0,0,0,,{\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1\bord3.75}01 秒
 Dialogue: 0,0:02:35.02,0:02:35.91,Default,,0,0,0,,{\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1\bord3.75}00 秒
-Dialogue: 0,0:02:54.07,0:02:56.45,Default,,0,0,0,,天哪 这里是未来\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My God. It's the future.
-Dialogue: 0,0:02:57.30,0:03:01.93,Default,,0,0,0,,我的父母 我的同事 我的女朋友\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My parents, my co-workers, my girlfriend.
-Dialogue: 0,0:03:01.93,0:03:05.12,Default,,0,0,0,,我再也见不到他们了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'll never see any of them again.
-Dialogue: 0,0:03:05.12,0:03:06.46,Default,,0,0,0,,好哎\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yahoo!
+Dialogue: 0,0:02:54.07,0:02:56.45,Default,,0,0,0,,天哪 这里是未来\N{\fnArial\fs40\bord2}My God. It's the future.
+Dialogue: 0,0:02:57.30,0:03:01.93,Default,,0,0,0,,我的父母 我的同事 我的女朋友\N{\fnArial\fs40\bord2}My parents, my co-workers, my girlfriend.
+Dialogue: 0,0:03:01.93,0:03:05.12,Default,,0,0,0,,我再也见不到他们了\N{\fnArial\fs40\bord2}I'll never see any of them again.
+Dialogue: 0,0:03:05.12,0:03:06.46,Default,,0,0,0,,好哎\N{\fnArial\fs40\bord2}Yahoo!
 Dialogue: 0,0:03:09.70,0:03:12.60,Default,,0,0,0,,{\fs112.5\1c&0x0000B2\3c&0x39E2E5\bord3.75\b1\pos(712.5,750)}飞出个未来
 Dialogue: 0,0:03:10.95,0:03:12.60,Default,,0,0,0,,{\fad(400,0)\1c&0x5AE5E6\b1\bord0\shad3}彩色的哟
-Dialogue: 0,0:03:13.00,0:03:15.00,Default,,0,0,0,,{\b1\shad3.75\bord1.875}3000年的船长\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Space Pilot 3000
-Dialogue: 0,0:03:41.40,0:03:44.97,Default,,0,0,0,,欢迎来到明日世界\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Welcome to the world of tomorrow!
-Dialogue: 0,0:03:45.33,0:03:47.52,Default,,0,0,0,,你为什么每次都要这样说话\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Why do you always have say it that way?
-Dialogue: 0,0:03:47.52,0:03:50.55,Default,,0,0,0,,你没听说过什么叫演技吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Haven't you ever heard of a little thing called showmanship?
-Dialogue: 0,0:03:50.55,0:03:54.05,Default,,0,0,0,,来吧 你的命运在等待你\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come, your destiny awaits!
+Dialogue: 0,0:03:13.00,0:03:15.00,Default,,0,0,0,,{\b1\shad3.75\bord1.875}3000年的船长\N{\fnArial\fs40\bord2}Space Pilot 3000
+Dialogue: 0,0:03:41.40,0:03:44.97,Default,,0,0,0,,欢迎来到明日世界\N{\fnArial\fs40\bord2}Welcome to the world of tomorrow!
+Dialogue: 0,0:03:45.33,0:03:47.52,Default,,0,0,0,,为什么你总是要这样说话\N{\fnArial\fs40\bord2}Why do you always have say it that way?
+Dialogue: 0,0:03:47.52,0:03:50.55,Default,,0,0,0,,你没听说过什么叫演技吗\N{\fnArial\fs40\bord2}Haven't you ever heard of a little thing called showmanship?
+Dialogue: 0,0:03:50.55,0:03:54.05,Default,,0,0,0,,来吧 你的命运在等待你\N{\fnArial\fs40\bord2}Come, your destiny awaits!
 Dialogue: 0,0:03:54.08,0:03:55.32,Default,,0,0,0,,{\pos(705,937.5)\fs105\1c&0x000000\3c0xC4FFFD\b1\bord7.5}命运分配部
-Dialogue: 0,0:03:57.56,0:04:00.03,Default,,0,0,0,,祝你前途顺利\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Have a nice future.
-Dialogue: 0,0:04:00.03,0:04:02.49,Default,,0,0,0,,酷 就像《星际迷航》一样\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Cool, just like in Star Trek. Ow!
-Dialogue: 0,0:04:03.57,0:04:05.29,Default,,0,0,0,,下午好 先生\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Good afternoon, sir.
-Dialogue: 0,0:04:08.66,0:04:10.23,Default,,0,0,0,,名字\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Name?
-Dialogue: 0,0:04:10.23,0:04:11.35,Default,,0,0,0,,弗莱\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Fry.
-Dialogue: 0,0:04:11.35,0:04:12.26,Default,,0,0,0,,我是丽拉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm Leela.
-Dialogue: 0,0:04:12.26,0:04:13.27,Default,,0,0,0,,马上就要过年了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's New Year's Eve. . .
-Dialogue: 0,0:04:13.27,0:04:16.30,Default,,0,0,0,,所以我只想尽快安排好你的命运 早点回家\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}so I'd like to decide your fate quickly and get out of here.
-Dialogue: 0,0:04:16.30,0:04:17.85,Default,,0,0,0,,我能问个问题吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can I ask you a question?
-Dialogue: 0,0:04:17.85,0:04:19.99,Default,,0,0,0,,只要不是关于我的眼睛\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}as long as it's not about my eye.
-Dialogue: 0,0:04:21.04,0:04:22.57,Default,,0,0,0,,是关于我的眼睛吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Is it about my eye?
-Dialogue: 0,0:04:22.57,0:04:23.58,Default,,0,0,0,,是的吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Sort of.
-Dialogue: 0,0:04:24.83,0:04:26.21,Default,,0,0,0,,问你的吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Just ask the question.
-Dialogue: 0,0:04:26.21,0:04:27.43,Default,,0,0,0,,你的眼睛是怎么回事\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What's with the eye?
-Dialogue: 0,0:04:27.43,0:04:30.18,Default,,0,0,0,,我是个外星人 行了吧 现在换个话题吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm an alien, all right? Let's drop the subject.
-Dialogue: 0,0:04:30.18,0:04:31.77,Default,,0,0,0,,酷啊 外星人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Cool! An alien!
-Dialogue: 0,0:04:31.77,0:04:33.70,Default,,0,0,0,,你们占领了地球吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Has your race taken over the Earth?
-Dialogue: 0,0:04:33.70,0:04:36.16,Default,,0,0,0,,不是 我只是在这里工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No, I just work here.
-Dialogue: 0,0:04:39.05,0:04:41.60,Default,,0,0,0,,等一下 那艘飞艇的时间准确吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Wait a minute. Is that blimp accurate?
-Dialogue: 0,0:04:41.60,0:04:45.23,Default,,0,0,0,,是的 现在是2999年12月31日\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yep. It's December 31 st, 2999.
-Dialogue: 0,0:04:45.51,0:04:48.49,Default,,0,0,0,,天哪 一千年了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My God! A million years!
-Dialogue: 0,0:04:48.49,0:04:51.70,Default,,0,0,0,,你一定觉得挺难过的吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm sure this must be upsetting for you.
-Dialogue: 0,0:04:51.70,0:04:54.31,Default,,0,0,0,,怎么说呢 应该是吧 但是\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You know, I guess it should be, but...
-Dialogue: 0,0:04:54.31,0:04:56.04,Default,,0,0,0,,实际上 我很高兴\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}actually, I'm glad.
-Dialogue: 0,0:04:56.04,0:04:58.19,Default,,0,0,0,,过去已经没有什么值得我留恋的了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I had nothing to live for in my old life.
-Dialogue: 0,0:04:58.19,0:05:01.27,Default,,0,0,0,,我破产了 我有份很丢人的工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I was broke, I had a humiliating job. . .
-Dialogue: 0,0:05:01.27,0:05:04.65,Default,,0,0,0,,还有好像我的女朋友也劈腿了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}and I'm beginning to suspect my girlfriend might be cheating on me.
-Dialogue: 0,0:05:04.65,0:05:07.32,Default,,0,0,0,,至少 在这里你会受到应有的尊重\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Well at least here you'll be treated with dignity.
-Dialogue: 0,0:05:07.32,0:05:09.72,Default,,0,0,0,,现在 把衣服脱光躺到操作台上去\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Now strip naked and get on the probulator.
-Dialogue: 0,0:05:19.20,0:05:21.53,Default,,0,0,0,,有意思 你的DNA检测表明\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Interesting. Your DNA test shows
-Dialogue: 0,0:05:21.53,0:05:23.15,Default,,0,0,0,,你还有一位活着的亲戚\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}one living relative.
-Dialogue: 0,0:05:23.15,0:05:28.21,Default,,0,0,0,,他是你的曾曾曾…曾曾曾侄子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}He's your great-great-great...great-great-nephew.
-Dialogue: 0,0:05:28.21,0:05:30.28,Default,,0,0,0,,太好了 这个小家伙叫什么名字\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's great! What's the little guy's name?
-Dialogue: 0,0:05:30.28,0:05:32.76,Default,,0,0,0,,休伯特·法斯沃斯教授\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Professor Hubert Farnsworth.
-Dialogue: 0,0:05:35.45,0:05:38.78,Default,,0,0,0,,你知道吗 我是整个未来最幸运的人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You know, I'm the luckiest guy in the whole future.
-Dialogue: 0,0:05:38.78,0:05:40.36,Default,,0,0,0,,我获得了新生\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I've been given a second chance,
-Dialogue: 0,0:05:40.36,0:05:43.12,Default,,0,0,0,,而这次 我不会再做一个失败者\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}and this time I am not gonna be a total loser.
-Dialogue: 0,0:05:44.12,0:05:44.82,Default,,0,0,0,,那是什么\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What's that?
-Dialogue: 0,0:05:44.82,0:05:47.19,Default,,0,0,0,,你的永久性职业安排\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Your permanent career assignment.
-Dialogue: 0,0:05:47.54,0:05:48.89,Default,,0,0,0,,送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Delivery boy?
-Dialogue: 0,0:05:48.89,0:05:51.03,Default,,0,0,0,,不 不要再这样\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No! Not again!
-Dialogue: 0,0:05:51.03,0:05:52.46,Default,,0,0,0,,随便换一个都好\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Please! Anything else.
-Dialogue: 0,0:05:52.46,0:05:53.68,Default,,0,0,0,,把你的手拿开\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Take your hands off me!
-Dialogue: 0,0:05:53.68,0:05:56.87,Default,,0,0,0,,每个人获得的工作都是他们最擅长的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You've been assigned the job you're best at, just like everyone else.
-Dialogue: 0,0:05:56.87,0:05:58.00,Default,,0,0,0,,如果我拒绝呢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What if I refuse?
-Dialogue: 0,0:05:58.00,0:05:59.14,Default,,0,0,0,,你会被开…\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You're fired.
-Dialogue: 0,0:05:59.14,0:05:59.84,Default,,0,0,0,,随便\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Fine.
-Dialogue: 0,0:05:59.84,0:06:01.91,Default,,0,0,0,,…开炮发射到太阳里去\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Out of a cannon into the sun.
-Dialogue: 0,0:06:01.91,0:06:04.28,Default,,0,0,0,,但是我不喜欢做送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}But I don't like being a delivery boy!
-Dialogue: 0,0:06:04.28,0:06:05.45,Default,,0,0,0,,那没办法\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Well that's tough.
-Dialogue: 0,0:06:05.45,0:06:07.14,Default,,0,0,0,,很多人都不喜欢自己的工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}lots of people don't like their jobs,
-Dialogue: 0,0:06:07.14,0:06:08.93,Default,,0,0,0,,但还是得继续工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but we do them anyway.
-Dialogue: 0,0:06:08.93,0:06:11.28,Default,,0,0,0,,人各有职 身不由己\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You gotta do what you gotta do.
-Dialogue: 0,0:06:11.28,0:06:12.58,Default,,0,0,0,,伸出手来\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Now, hold out your hand.
-Dialogue: 0,0:06:13.49,0:06:15.44,Default,,0,0,0,,我要给你植入职业芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm gonna implant your career chip.
-Dialogue: 0,0:06:15.44,0:06:18.09,Default,,0,0,0,,它会将你永久标记为送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It'll permanently label you as a delivery boy.
-Dialogue: 0,0:06:18.69,0:06:20.26,Default,,0,0,0,,把那个东西拿远点\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Keep that away from me!
-Dialogue: 0,0:06:27.76,0:06:28.97,Default,,0,0,0,,站好别动 该死\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Hold still ! Damn it.
-Dialogue: 0,0:06:28.97,0:06:30.94,Default,,0,0,0,,我的眼睛分不清远近\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't have good depth perception.
-Dialogue: 0,0:06:37.17,0:06:39.85,Default,,0,0,0,,给你五秒钟时间放我出来\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You've got till I count to five to let me out of here.
-Dialogue: 0,0:06:39.85,0:06:41.47,Default,,0,0,0,,一\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}One
-Dialogue: 0,0:06:42.22,0:06:44.29,Default,,0,0,0,,一千年后再见\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}See you in a thousand years.
-Dialogue: 0,0:06:50.01,0:06:51.52,Default,,0,0,0,,噢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Oh!
+Dialogue: 0,0:03:57.56,0:04:00.03,Default,,0,0,0,,祝你前途顺利\N{\fnArial\fs40\bord2}Have a nice future.
+Dialogue: 0,0:04:00.03,0:04:02.49,Default,,0,0,0,,酷 就像《星际迷航》一样\N{\fnArial\fs40\bord2}Cool, just like in Star Trek. Ow!
+Dialogue: 0,0:04:03.57,0:04:05.29,Default,,0,0,0,,下午好 先生\N{\fnArial\fs40\bord2}Good afternoon, sir.
+Dialogue: 0,0:04:08.66,0:04:10.23,Default,,0,0,0,,名字\N{\fnArial\fs40\bord2}Name?
+Dialogue: 0,0:04:10.23,0:04:11.35,Default,,0,0,0,,弗莱\N{\fnArial\fs40\bord2}Fry.
+Dialogue: 0,0:04:11.35,0:04:12.26,Default,,0,0,0,,我是丽拉\N{\fnArial\fs40\bord2}I'm Leela.
+Dialogue: 0,0:04:12.26,0:04:13.27,Default,,0,0,0,,马上就要过年了\N{\fnArial\fs40\bord2}It's New Year's Eve. . .
+Dialogue: 0,0:04:13.27,0:04:16.30,Default,,0,0,0,,所以我只想尽快安排好你的命运 早点回家\N{\fnArial\fs40\bord2}so I'd like to decide your fate quickly and get out of here.
+Dialogue: 0,0:04:16.30,0:04:17.85,Default,,0,0,0,,我能问个问题吗\N{\fnArial\fs40\bord2}Can I ask you a question?
+Dialogue: 0,0:04:17.85,0:04:19.99,Default,,0,0,0,,只要不是关于我的眼睛\N{\fnArial\fs40\bord2}as long as it's not about my eye.
+Dialogue: 0,0:04:21.04,0:04:22.57,Default,,0,0,0,,是关于我的眼睛吗\N{\fnArial\fs40\bord2}Is it about my eye?
+Dialogue: 0,0:04:22.57,0:04:23.58,Default,,0,0,0,,是的吧\N{\fnArial\fs40\bord2}Sort of.
+Dialogue: 0,0:04:24.83,0:04:26.21,Default,,0,0,0,,问你的吧\N{\fnArial\fs40\bord2}Just ask the question.
+Dialogue: 0,0:04:26.21,0:04:27.43,Default,,0,0,0,,你的眼睛是怎么回事\N{\fnArial\fs40\bord2}What's with the eye?
+Dialogue: 0,0:04:27.43,0:04:30.18,Default,,0,0,0,,我是个外星人 行了吧 现在换个话题吧\N{\fnArial\fs40\bord2}I'm an alien, all right? Let's drop the subject.
+Dialogue: 0,0:04:30.18,0:04:31.77,Default,,0,0,0,,酷啊 外星人\N{\fnArial\fs40\bord2}Cool! An alien!
+Dialogue: 0,0:04:31.77,0:04:33.70,Default,,0,0,0,,你们占领了地球吗\N{\fnArial\fs40\bord2}Has your race taken over the Earth?
+Dialogue: 0,0:04:33.70,0:04:36.16,Default,,0,0,0,,不是 我只是在这里工作\N{\fnArial\fs40\bord2}No, I just work here.
+Dialogue: 0,0:04:39.05,0:04:41.60,Default,,0,0,0,,等一下 那艘飞艇的时间准确吗\N{\fnArial\fs40\bord2}Wait a minute. Is that blimp accurate?
+Dialogue: 0,0:04:41.60,0:04:45.23,Default,,0,0,0,,是的 现在是2999年12月31日\N{\fnArial\fs40\bord2}Yep. It's December 31 st, 2999.
+Dialogue: 0,0:04:45.51,0:04:48.49,Default,,0,0,0,,天哪 一千年了\N{\fnArial\fs40\bord2}My God! A million years!
+Dialogue: 0,0:04:48.49,0:04:51.70,Default,,0,0,0,,你一定觉得挺难过的吧\N{\fnArial\fs40\bord2}I'm sure this must be upsetting for you.
+Dialogue: 0,0:04:51.70,0:04:54.31,Default,,0,0,0,,怎么说呢 应该是吧 但是\N{\fnArial\fs40\bord2}You know, I guess it should be, but...
+Dialogue: 0,0:04:54.31,0:04:56.04,Default,,0,0,0,,实际上 我很高兴\N{\fnArial\fs40\bord2}actually, I'm glad.
+Dialogue: 0,0:04:56.04,0:04:58.19,Default,,0,0,0,,过去已经没有什么值得我留恋的了\N{\fnArial\fs40\bord2}I had nothing to live for in my old life.
+Dialogue: 0,0:04:58.19,0:05:01.27,Default,,0,0,0,,我破产了 我有份很丢人的工作\N{\fnArial\fs40\bord2}I was broke, I had a humiliating job. . .
+Dialogue: 0,0:05:01.27,0:05:04.65,Default,,0,0,0,,还有好像我的女朋友也劈腿了\N{\fnArial\fs40\bord2}and I'm beginning to suspect my girlfriend might be cheating on me.
+Dialogue: 0,0:05:04.65,0:05:07.32,Default,,0,0,0,,至少 在这里你会受到应有的尊重\N{\fnArial\fs40\bord2}Well at least here you'll be treated with dignity.
+Dialogue: 0,0:05:07.32,0:05:09.72,Default,,0,0,0,,现在 把衣服脱光躺到操作台上去\N{\fnArial\fs40\bord2}Now strip naked and get on the probulator.
+Dialogue: 0,0:05:19.20,0:05:21.53,Default,,0,0,0,,有意思 你的DNA检测表明\N{\fnArial\fs40\bord2}Interesting. Your DNA test shows
+Dialogue: 0,0:05:21.53,0:05:23.15,Default,,0,0,0,,你还有一位活着的亲戚\N{\fnArial\fs40\bord2}one living relative.
+Dialogue: 0,0:05:23.15,0:05:28.21,Default,,0,0,0,,他是你的曾曾曾…曾曾曾侄子\N{\fnArial\fs40\bord2}He's your great-great-great...great-great-nephew.
+Dialogue: 0,0:05:28.21,0:05:30.28,Default,,0,0,0,,太好了 这个小家伙叫什么名字\N{\fnArial\fs40\bord2}That's great! What's the little guy's name?
+Dialogue: 0,0:05:30.28,0:05:32.76,Default,,0,0,0,,休伯特·法斯沃斯教授\N{\fnArial\fs40\bord2}Professor Hubert Farnsworth.
+Dialogue: 0,0:05:35.45,0:05:38.78,Default,,0,0,0,,你知道吗 我是整个未来最幸运的人\N{\fnArial\fs40\bord2}You know, I'm the luckiest guy in the whole future.
+Dialogue: 0,0:05:38.78,0:05:40.36,Default,,0,0,0,,我获得了新生\N{\fnArial\fs40\bord2}I've been given a second chance,
+Dialogue: 0,0:05:40.36,0:05:43.12,Default,,0,0,0,,而这次 我不会再做一个失败者\N{\fnArial\fs40\bord2}and this time I am not gonna be a total loser.
+Dialogue: 0,0:05:44.12,0:05:44.82,Default,,0,0,0,,那是什么\N{\fnArial\fs40\bord2}What's that?
+Dialogue: 0,0:05:44.82,0:05:47.19,Default,,0,0,0,,你的永久性职业安排\N{\fnArial\fs40\bord2}Your permanent career assignment.
+Dialogue: 0,0:05:47.54,0:05:48.89,Default,,0,0,0,,送货员\N{\fnArial\fs40\bord2}Delivery boy?
+Dialogue: 0,0:05:48.89,0:05:51.03,Default,,0,0,0,,不 不要再这样\N{\fnArial\fs40\bord2}No! Not again!
+Dialogue: 0,0:05:51.03,0:05:52.46,Default,,0,0,0,,随便换一个都好\N{\fnArial\fs40\bord2}Please! Anything else.
+Dialogue: 0,0:05:52.46,0:05:53.68,Default,,0,0,0,,把你的手拿开\N{\fnArial\fs40\bord2}Take your hands off me!
+Dialogue: 0,0:05:53.68,0:05:56.87,Default,,0,0,0,,每个人获得的工作都是他们最擅长的\N{\fnArial\fs40\bord2}You've been assigned the job you're best at, just like everyone else.
+Dialogue: 0,0:05:56.87,0:05:58.00,Default,,0,0,0,,如果我拒绝呢\N{\fnArial\fs40\bord2}What if I refuse?
+Dialogue: 0,0:05:58.00,0:05:59.14,Default,,0,0,0,,你会被开…\N{\fnArial\fs40\bord2}You're fired.
+Dialogue: 0,0:05:59.14,0:05:59.84,Default,,0,0,0,,随便\N{\fnArial\fs40\bord2}Fine.
+Dialogue: 0,0:05:59.84,0:06:01.91,Default,,0,0,0,,…开炮发射到太阳里去\N{\fnArial\fs40\bord2}Out of a cannon into the sun.
+Dialogue: 0,0:06:01.91,0:06:04.28,Default,,0,0,0,,但是我不喜欢做送货员\N{\fnArial\fs40\bord2}But I don't like being a delivery boy!
+Dialogue: 0,0:06:04.28,0:06:05.45,Default,,0,0,0,,那没办法\N{\fnArial\fs40\bord2}Well that's tough.
+Dialogue: 0,0:06:05.45,0:06:07.14,Default,,0,0,0,,很多人都不喜欢自己的工作\N{\fnArial\fs40\bord2}lots of people don't like their jobs,
+Dialogue: 0,0:06:07.14,0:06:08.93,Default,,0,0,0,,但还是得继续工作\N{\fnArial\fs40\bord2}but we do them anyway.
+Dialogue: 0,0:06:08.93,0:06:11.28,Default,,0,0,0,,人各有职 身不由己\N{\fnArial\fs40\bord2}You gotta do what you gotta do.
+Dialogue: 0,0:06:11.28,0:06:12.58,Default,,0,0,0,,伸出手来\N{\fnArial\fs40\bord2}Now, hold out your hand.
+Dialogue: 0,0:06:13.49,0:06:15.44,Default,,0,0,0,,我要给你植入职业芯片\N{\fnArial\fs40\bord2}I'm gonna implant your career chip.
+Dialogue: 0,0:06:15.44,0:06:18.09,Default,,0,0,0,,它会将你永久标记为送货员\N{\fnArial\fs40\bord2}It'll permanently label you as a delivery boy.
+Dialogue: 0,0:06:18.69,0:06:20.26,Default,,0,0,0,,把那个东西拿远点\N{\fnArial\fs40\bord2}Keep that away from me!
+Dialogue: 0,0:06:27.76,0:06:28.97,Default,,0,0,0,,站好别动 该死\N{\fnArial\fs40\bord2}Hold still ! Damn it.
+Dialogue: 0,0:06:28.97,0:06:30.94,Default,,0,0,0,,我的眼睛分不清远近\N{\fnArial\fs40\bord2}I don't have good depth perception.
+Dialogue: 0,0:06:37.17,0:06:39.85,Default,,0,0,0,,给你五秒钟时间放我出来\N{\fnArial\fs40\bord2}You've got till I count to five to let me out of here.
+Dialogue: 0,0:06:39.85,0:06:41.47,Default,,0,0,0,,一\N{\fnArial\fs40\bord2}One
+Dialogue: 0,0:06:42.22,0:06:44.29,Default,,0,0,0,,一千年后再见\N{\fnArial\fs40\bord2}See you in a thousand years.
+Dialogue: 0,0:06:50.01,0:06:51.52,Default,,0,0,0,,噢\N{\fnArial\fs40\bord2}Oh!
 Dialogue: 0,0:06:51.52,0:06:52.40,Default,,0,0,0,,{\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1\bord3.75}1000 年
 Dialogue: 0,0:06:52.40,0:06:53.56,Default,,0,0,0,,{\pos(1012.5,705)\1c&0x3336CA\3c&0x000000\b1\bord3.75}5 分钟
-Dialogue: 0,0:06:53.92,0:06:55.76,Default,,0,0,0,,你欠我一次\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You owe me one.
-Dialogue: 0,0:07:05.33,0:07:06.91,Default,,0,0,0,,哇哦\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Whoa!
-Dialogue: 0,0:07:25.30,0:07:27.38,Default,,0,0,0,,无线电城变异馆\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Radio City Mutant Hall.
-Dialogue: 0,0:07:27.93,0:07:29.66,Default,,0,0,0,,酷\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Cool!
-Dialogue: 0,0:07:30.40,0:07:33.33,Default,,0,0,0,,城际快车\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Cross-town express?
-Dialogue: 0,0:07:58.42,0:08:00.06,Default,,0,0,0,,外地人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Tourist.
-Dialogue: 0,0:08:05.12,0:08:08.03,Default,,0,0,0,,电话亭 我可以打电话给侄子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}A phone booth. I can call my nephew.
-Dialogue: 0,0:08:11.93,0:08:14.61,Default,,0,0,0,,哇哦 一个货真价实的机器人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Whoa! A real live robot.
-Dialogue: 0,0:08:14.61,0:08:17.68,Default,,0,0,0,,不然就是某种劣质的新年装扮\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Or is that some kind of cheesy New Year's costume?
-Dialogue: 0,0:08:17.68,0:08:20.38,Default,,0,0,0,,来咬我闪亮的屁股\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Bite my shiny metal ass.
-Dialogue: 0,0:08:20.38,0:08:22.11,Default,,0,0,0,,我看着一点都不亮\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It doesn't look shiny to me.
-Dialogue: 0,0:08:22.11,0:08:24.24,Default,,0,0,0,,反正比你的亮 肉包子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Shinier than yours, meat bag.
+Dialogue: 0,0:06:53.92,0:06:55.76,Default,,0,0,0,,你欠我一次\N{\fnArial\fs40\bord2}You owe me one.
+Dialogue: 0,0:07:05.33,0:07:06.91,Default,,0,0,0,,哇哦\N{\fnArial\fs40\bord2}Whoa!
+Dialogue: 0,0:07:25.30,0:07:27.38,Default,,0,0,0,,无线电城变异馆\N{\fnArial\fs40\bord2}Radio City Mutant Hall.
+Dialogue: 0,0:07:27.93,0:07:29.66,Default,,0,0,0,,酷\N{\fnArial\fs40\bord2}Cool!
+Dialogue: 0,0:07:30.40,0:07:33.33,Default,,0,0,0,,城际快车\N{\fnArial\fs40\bord2}Cross-town express?
+Dialogue: 0,0:07:58.42,0:08:00.06,Default,,0,0,0,,外地人\N{\fnArial\fs40\bord2}Tourist.
+Dialogue: 0,0:08:05.12,0:08:08.03,Default,,0,0,0,,电话亭 我可以打电话给侄子\N{\fnArial\fs40\bord2}A phone booth. I can call my nephew.
+Dialogue: 0,0:08:11.93,0:08:14.61,Default,,0,0,0,,哇哦 一个货真价实的机器人\N{\fnArial\fs40\bord2}Whoa! A real live robot.
+Dialogue: 0,0:08:14.61,0:08:17.68,Default,,0,0,0,,不然就是某种劣质的新年装扮\N{\fnArial\fs40\bord2}Or is that some kind of cheesy New Year's costume?
+Dialogue: 0,0:08:17.68,0:08:20.38,Default,,0,0,0,,来咬我闪亮的屁股\N{\fnArial\fs40\bord2}Bite my shiny metal ass.
+Dialogue: 0,0:08:20.38,0:08:22.11,Default,,0,0,0,,我看着一点都不亮\N{\fnArial\fs40\bord2}It doesn't look shiny to me.
+Dialogue: 0,0:08:22.11,0:08:24.24,Default,,0,0,0,,反正比你的亮 肉包子\N{\fnArial\fs40\bord2}Shinier than yours, meat bag.
 Dialogue: 0,0:08:28.00,0:08:31.59,Default,,0,0,0,,{\pos(472.5,675)\1c&0x27218B\3c&0x9B9B74\b1\bord3.75}自杀亭
-Dialogue: 0,0:08:43.20,0:08:45.54,Default,,0,0,0,,听着 伙计 我有急事\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Listen, buddy, I'm in a hurry here.
-Dialogue: 0,0:08:45.54,0:08:46.74,Default,,0,0,0,,我们来个双人套餐好了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Let's try for a twofer.
-Dialogue: 0,0:08:50.68,0:08:52.80,Default,,0,0,0,,请选择死法\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Please select mode of death.
-Dialogue: 0,0:08:52.80,0:08:56.19,Default,,0,0,0,,"快速无痛" 还是 "迟缓剧痛"\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}"Quick and Painless" or "Slow and Horrible. "
-Dialogue: 0,0:08:56.19,0:08:58.98,Default,,0,0,0,,我想拨个对方付费的电话\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'd like to place a collect call.
-Dialogue: 0,0:08:58.98,0:09:01.41,Default,,0,0,0,,您已选择"迟缓剧痛"\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You have selected Slow and Horrible.
-Dialogue: 0,0:09:01.41,0:09:02.65,Default,,0,0,0,,有眼光\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Good choice!
-Dialogue: 0,0:09:05.94,0:09:07.50,Default,,0,0,0,,放马过来吧 宝贝\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Bring it on, baby!
-Dialogue: 0,0:09:14.11,0:09:17.60,Default,,0,0,0,,快点 快点 赶紧杀了我吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come on! Come on! Kill me already!
-Dialogue: 0,0:09:17.60,0:09:19.09,Default,,0,0,0,,对了 我叫本德\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}By the way, my name's Bender.
-Dialogue: 0,0:09:19.09,0:09:20.50,Default,,0,0,0,,救命 这是怎么回事\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Help! What's happening?
-Dialogue: 0,0:09:26.57,0:09:30.03,Default,,0,0,0,,您已经死了 感谢使用"速死速绝"\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You are now dead. Thank you for using Stop and Drop.
-Dialogue: 0,0:09:30.03,0:09:33.42,Default,,0,0,0,,2008年以来美国最受欢迎的自杀亭\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}America 's favorite suicide booth since 2008.
-Dialogue: 0,0:09:35.52,0:09:37.36,Default,,0,0,0,,没用的破铜烂铁\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Lousy, stinking rip-off.
-Dialogue: 0,0:09:39.14,0:09:41.21,Default,,0,0,0,,我今天也没有什么别的安排\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Well, I didn't have anything else plan for today.
-Dialogue: 0,0:09:41.21,0:09:43.06,Default,,0,0,0,,咱们去大醉一场吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Let's go get drunk!
-Dialogue: 0,0:09:47.57,0:09:50.42,Default,,0,0,0,,二、三…嘿\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}two, three-- Hey!
-Dialogue: 0,0:09:50.42,0:09:54.00,Default,,0,0,0,,欢迎来到明日世界\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Welcome to the world of tomorrow!
-Dialogue: 0,0:09:54.00,0:09:55.54,Default,,0,0,0,,闭嘴 泰瑞\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Shut up, Terry.
-Dialogue: 0,0:09:55.54,0:09:57.84,Default,,0,0,0,,这事没有商量的余地 丽拉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is unacceptable, Leela.
-Dialogue: 0,0:09:57.84,0:10:00.85,Default,,0,0,0,,你必须找到弗莱并植入芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You must find Mr. Fry and install his chip.
-Dialogue: 0,0:10:00.85,0:10:02.45,Default,,0,0,0,,听我说 他只是一个无名小卒\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Look, he is just a nobody
-Dialogue: 0,0:10:02.45,0:10:04.37,Default,,0,0,0,,他就是不想当送货员而已\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}who doesn't want to be a delivery boy.
-Dialogue: 0,0:10:04.37,0:10:06.42,Default,,0,0,0,,我觉得没必要强迫他\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'd really rather not to force it on him.
-Dialogue: 0,0:10:06.42,0:10:09.44,Default,,0,0,0,,这是你的工作 不管你喜不喜欢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's your job, whether you like it or not.
-Dialogue: 0,0:10:09.44,0:10:11.88,Default,,0,0,0,,我的工作就是命令你去做你的工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's my job to make you do your job,
-Dialogue: 0,0:10:11.88,0:10:13.31,Default,,0,0,0,,不管我喜不喜欢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}whether I like it or not.
-Dialogue: 0,0:10:13.31,0:10:16.21,Default,,0,0,0,,这工作我很喜欢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Which I do! Very much!
-Dialogue: 0,0:10:16.21,0:10:17.53,Default,,0,0,0,,现在快干活去\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Now get to work.
-Dialogue: 0,0:10:21.30,0:10:23.43,Default,,0,0,0,,生活真美好\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Life is good.
+Dialogue: 0,0:08:43.20,0:08:45.54,Default,,0,0,0,,听着 伙计 我有急事\N{\fnArial\fs40\bord2}Listen, buddy, I'm in a hurry here.
+Dialogue: 0,0:08:45.54,0:08:46.74,Default,,0,0,0,,我们来个双人套餐好了\N{\fnArial\fs40\bord2}Let's try for a twofer.
+Dialogue: 0,0:08:50.68,0:08:52.80,Default,,0,0,0,,请选择死法\N{\fnArial\fs40\bord2}Please select mode of death.
+Dialogue: 0,0:08:52.80,0:08:56.19,Default,,0,0,0,,"快速无痛" 还是 "迟缓剧痛"\N{\fnArial\fs40\bord2}"Quick and Painless" or "Slow and Horrible. "
+Dialogue: 0,0:08:56.19,0:08:58.98,Default,,0,0,0,,我想拨个对方付费的电话\N{\fnArial\fs40\bord2}I'd like to place a collect call.
+Dialogue: 0,0:08:58.98,0:09:01.41,Default,,0,0,0,,您已选择"迟缓剧痛"\N{\fnArial\fs40\bord2}You have selected Slow and Horrible.
+Dialogue: 0,0:09:01.41,0:09:02.65,Default,,0,0,0,,有眼光\N{\fnArial\fs40\bord2}Good choice!
+Dialogue: 0,0:09:05.94,0:09:07.50,Default,,0,0,0,,放马过来吧 宝贝\N{\fnArial\fs40\bord2}Bring it on, baby!
+Dialogue: 0,0:09:14.11,0:09:17.60,Default,,0,0,0,,快点 快点 赶紧杀了我吧\N{\fnArial\fs40\bord2}Come on! Come on! Kill me already!
+Dialogue: 0,0:09:17.60,0:09:19.09,Default,,0,0,0,,对了 我叫本德\N{\fnArial\fs40\bord2}By the way, my name's Bender.
+Dialogue: 0,0:09:19.09,0:09:20.50,Default,,0,0,0,,救命 这是怎么回事\N{\fnArial\fs40\bord2}Help! What's happening?
+Dialogue: 0,0:09:26.57,0:09:30.03,Default,,0,0,0,,您已经死了 感谢使用"速死速绝"\N{\fnArial\fs40\bord2}You are now dead. Thank you for using Stop and Drop.
+Dialogue: 0,0:09:30.03,0:09:33.42,Default,,0,0,0,,2008年以来美国最受欢迎的自杀亭\N{\fnArial\fs40\bord2}America 's favorite suicide booth since 2008.
+Dialogue: 0,0:09:35.52,0:09:37.36,Default,,0,0,0,,没用的破铜烂铁\N{\fnArial\fs40\bord2}Lousy, stinking rip-off.
+Dialogue: 0,0:09:39.14,0:09:41.21,Default,,0,0,0,,我今天也没有什么别的安排\N{\fnArial\fs40\bord2}Well, I didn't have anything else plan for today.
+Dialogue: 0,0:09:41.21,0:09:43.06,Default,,0,0,0,,咱们去大醉一场吧\N{\fnArial\fs40\bord2}Let's go get drunk!
+Dialogue: 0,0:09:47.57,0:09:50.42,Default,,0,0,0,,二、三…嘿\N{\fnArial\fs40\bord2}two, three-- Hey!
+Dialogue: 0,0:09:50.42,0:09:54.00,Default,,0,0,0,,欢迎来到明日世界\N{\fnArial\fs40\bord2}Welcome to the world of tomorrow!
+Dialogue: 0,0:09:54.00,0:09:55.54,Default,,0,0,0,,闭嘴 泰瑞\N{\fnArial\fs40\bord2}Shut up, Terry.
+Dialogue: 0,0:09:55.54,0:09:57.84,Default,,0,0,0,,这事没有商量的余地 丽拉\N{\fnArial\fs40\bord2}This is unacceptable, Leela.
+Dialogue: 0,0:09:57.84,0:10:00.85,Default,,0,0,0,,你必须找到弗莱并植入芯片\N{\fnArial\fs40\bord2}You must find Mr. Fry and install his chip.
+Dialogue: 0,0:10:00.85,0:10:02.45,Default,,0,0,0,,听我说 他只是一个无名小卒\N{\fnArial\fs40\bord2}Look, he is just a nobody
+Dialogue: 0,0:10:02.45,0:10:04.37,Default,,0,0,0,,他就是不想当送货员而已\N{\fnArial\fs40\bord2}who doesn't want to be a delivery boy.
+Dialogue: 0,0:10:04.37,0:10:06.42,Default,,0,0,0,,我觉得没必要强迫他\N{\fnArial\fs40\bord2}I'd really rather not to force it on him.
+Dialogue: 0,0:10:06.42,0:10:09.44,Default,,0,0,0,,这是你的工作 不管你喜不喜欢\N{\fnArial\fs40\bord2}That's your job, whether you like it or not.
+Dialogue: 0,0:10:09.44,0:10:11.88,Default,,0,0,0,,我的工作就是命令你去做你的工作\N{\fnArial\fs40\bord2}It's my job to make you do your job,
+Dialogue: 0,0:10:11.88,0:10:13.31,Default,,0,0,0,,不管我喜不喜欢\N{\fnArial\fs40\bord2}whether I like it or not.
+Dialogue: 0,0:10:13.31,0:10:16.21,Default,,0,0,0,,这工作我很喜欢\N{\fnArial\fs40\bord2}Which I do! Very much!
+Dialogue: 0,0:10:16.21,0:10:17.53,Default,,0,0,0,,现在快干活去\N{\fnArial\fs40\bord2}Now get to work.
+Dialogue: 0,0:10:21.30,0:10:23.43,Default,,0,0,0,,生活真美好\N{\fnArial\fs40\bord2}Life is good.
 Dialogue: 0,0:10:27.60,0:10:37.31,Default,,0,0,0,,{\pos(300,243.75)\1c&0xCBD1D8}D R I N K
-Dialogue: 0,0:10:29.60,0:10:31.36,Default,,0,0,0,,机器人为什么需要喝酒呢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Why would a robot need to drink?
-Dialogue: 0,0:10:31.36,0:10:33.03,Default,,0,0,0,,我才不需要喝酒\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't need to drink.
-Dialogue: 0,0:10:33.03,0:10:35.29,Default,,0,0,0,,我想戒的话随时都可以\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I can quit any time I want.
-Dialogue: 0,0:10:37.07,0:10:39.54,Default,,0,0,0,,那么它们要逼你做送货员是吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}So they made you a delivery boy?
-Dialogue: 0,0:10:39.54,0:10:41.65,Default,,0,0,0,,哥们 那和我的工作一样烂\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Man, that's as bad as my job.
-Dialogue: 0,0:10:41.65,0:10:43.35,Default,,0,0,0,,真的吗 你是做什么的 本德\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Really? What do you do? Bender.
-Dialogue: 0,0:10:43.35,0:10:44.37,Default,,0,0,0,,我是一个掰弯机\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm a bender.
-Dialogue: 0,0:10:44.37,0:10:47.22,Default,,0,0,0,,掰弯钢梁 我的程序就是设定来干这个的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I bend girders. That's all what I'm programmed to do.
-Dialogue: 0,0:10:47.22,0:10:48.76,Default,,0,0,0,,你很在行吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You any good at it?
-Dialogue: 0,0:10:48.76,0:10:51.65,Default,,0,0,0,,开玩笑 我可是业界明星\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You kidding? I was a star.
-Dialogue: 0,0:10:51.65,0:10:53.85,Default,,0,0,0,,我能把钢梁掰成任意角度\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I could bend a girder to any angle.
-Dialogue: 0,0:10:53.85,0:10:56.32,Default,,0,0,0,,三十度 三十二度\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}30 degrees, 32 degrees.
-Dialogue: 0,0:10:56.32,0:10:57.80,Default,,0,0,0,,随便你说\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You name it.
-Dialogue: 0,0:10:57.80,0:10:59.38,Default,,0,0,0,,三十一度\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}31
-Dialogue: 0,0:10:59.87,0:11:01.46,Default,,0,0,0,,但是我不想继续活下去了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}But I couldn't go on living
-Dialogue: 0,0:11:01.46,0:11:03.81,Default,,0,0,0,,自从我发现它们是用来做什么的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}once I found out what the girders were for.
-Dialogue: 0,0:11:03.81,0:11:04.56,Default,,0,0,0,,做什么的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What?
-Dialogue: 0,0:11:04.56,0:11:06.14,Default,,0,0,0,,自杀亭\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Suicide booths.
-Dialogue: 0,0:11:07.58,0:11:10.24,Default,,0,0,0,,弗莱 很高兴认识你\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Fry, it was a pleasure meeting you.
-Dialogue: 0,0:11:10.24,0:11:11.83,Default,,0,0,0,,我要自杀去了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm gonna kill myself.
-Dialogue: 0,0:11:11.83,0:11:14.32,Default,,0,0,0,,等等 你是我唯一的朋友了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Wait! You're the only friend I have.
-Dialogue: 0,0:11:15.21,0:11:17.69,Default,,0,0,0,,你真的想和机器人做朋友\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You really want a robot for a friend?
-Dialogue: 0,0:11:17.69,0:11:19.89,Default,,0,0,0,,是的 从小就想\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yeah, ever since I was six.
-Dialogue: 0,0:11:21.09,0:11:22.06,Default,,0,0,0,,好吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Okay,
-Dialogue: 0,0:11:22.06,0:11:24.71,Default,,0,0,0,,但是我不希望别人以为我们是人机恋\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but I don't want people thinking we're robosexuals.
-Dialogue: 0,0:11:24.71,0:11:27.82,Default,,0,0,0,,所以有人问起的话 就说你是我的调试员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}So if anyone asks, you're my debugger.
-Dialogue: 0,0:11:29.09,0:11:31.45,Default,,0,0,0,,哦不 是那个独眼龙\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Oh, no. It's the cyclops.
-Dialogue: 0,0:11:32.25,0:11:33.28,Default,,0,0,0,,别看 别看\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Don't look! Don't look!
-Dialogue: 0,0:11:33.28,0:11:34.66,Default,,0,0,0,,我没在看\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm not looking.
-Dialogue: 0,0:11:41.46,0:11:43.76,Default,,0,0,0,,警察编号 1B-Dl\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is Officer 1B-Dl,
-Dialogue: 0,0:11:43.76,0:11:45.41,Default,,0,0,0,,请求支援\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}requesting backup.
-Dialogue: 0,0:11:45.41,0:11:47.12,Default,,0,0,0,,我们五分钟后赶到\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We'll be there in five minutes.
-Dialogue: 0,0:11:50.27,0:11:51.63,Default,,0,0,0,,我们可以躲在这里\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We can hide in here!
-Dialogue: 0,0:11:51.63,0:11:53.71,Default,,0,0,0,,这里星期二免费\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's free on Tuesdays!
-Dialogue: 0,0:11:59.98,0:12:02.13,Default,,0,0,0,,欢迎来到人头博物馆\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Welcome to the Head Museum.
-Dialogue: 0,0:12:02.13,0:12:03.52,Default,,0,0,0,,我是伦纳德·尼莫\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm Leonard Nimoy.
-Dialogue: 0,0:12:03.52,0:12:05.11,Default,,0,0,0,,斯波克\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Spock?!
-Dialogue: 0,0:12:05.11,0:12:06.94,Default,,0,0,0,,做这个手势\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Do the thing.
-Dialogue: 0,0:12:07.70,0:12:09.25,Default,,0,0,0,,我已经不能这么做了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't do that anymore.
-Dialogue: 0,0:12:09.25,0:12:11.22,Default,,0,0,0,,真是难以置信\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is unbelievable!
-Dialogue: 0,0:12:11.22,0:12:13.11,Default,,0,0,0,,你们平时都做什么\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What do you heads do all day?
-Dialogue: 0,0:12:13.11,0:12:15.91,Default,,0,0,0,,我们与人们分享经验和智慧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We share our wisdom with those who seek it.
-Dialogue: 0,0:12:15.91,0:12:18.12,Default,,0,0,0,,这是一种体面的生活方式\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's a life of quiet dignity.
-Dialogue: 0,0:12:18.40,0:12:19.75,Default,,0,0,0,,喂食时间\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Feeding time!
-Dialogue: 0,0:12:38.71,0:12:41.99,Default,,0,0,0,,很抱歉 但我必须给你安装芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm sorry, Fry, but I have to install your career chip.
-Dialogue: 0,0:12:41.99,0:12:44.32,Default,,0,0,0,,你既然抱歉 为什么还要做呢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Well, if you are sorry then why are you doing it?
-Dialogue: 0,0:12:44.32,0:12:45.62,Default,,0,0,0,,这是我的工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's my job.
-Dialogue: 0,0:12:45.62,0:12:47.58,Default,,0,0,0,,人各有职 身不由己\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You gotta do what you gotta do.
-Dialogue: 0,0:12:51.28,0:12:52.33,Default,,0,0,0,,小心点\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Watch it!
-Dialogue: 0,0:12:54.92,0:12:58.21,Default,,0,0,0,,够了 你上了我的黑名单了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's it. You just made my list!
-Dialogue: 0,0:13:00.63,0:13:02.52,Default,,0,0,0,,停下 淘气包 坏总统\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Stop it! Down boy! Bad president!
-Dialogue: 0,0:13:02.52,0:13:04.76,Default,,0,0,0,,行了 伙计 离那些头远一点\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}All right, buddy. Step away from the head.
-Dialogue: 0,0:13:08.00,0:13:10.48,Default,,0,0,0,,我要让他尝尝24世纪的厉害\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm gonna get 24th-century on his ass.
-Dialogue: 0,0:13:15.01,0:13:16.77,Default,,0,0,0,,别这样 各位警官\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Please, officers!
-Dialogue: 0,0:13:16.77,0:13:18.81,Default,,0,0,0,,没有必要动用原力\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}There's no need to use force.
-Dialogue: 0,0:13:18.81,0:13:20.87,Default,,0,0,0,,我们会处理的 怪女士\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Let us handle this, weirdy.
-Dialogue: 0,0:13:23.55,0:13:27.45,Default,,0,0,0,,行了 他只是一个来自无知年代的可怜虫\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come on. He's just a poor kid from the Stupid Ages.
-Dialogue: 0,0:13:27.45,0:13:29.99,Default,,0,0,0,,把你的大鼻子挪开 独眼龙\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Keep your big nose out of this, Eyeball.
-Dialogue: 0,0:13:30.33,0:13:33.02,Default,,0,0,0,,没有人敢取笑我的鼻子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No one makes fun of my nose.
-Dialogue: 0,0:13:43.75,0:13:44.77,Default,,0,0,0,,该死\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Damn.
-Dialogue: 0,0:13:44.77,0:13:47.10,Default,,0,0,0,,你们刚刚完全失控了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You guys were totally out of control.
-Dialogue: 0,0:13:47.10,0:13:49.72,Default,,0,0,0,,那是我们的工作 我们是维和警察\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's our job. We're peace officers.
-Dialogue: 0,0:13:49.72,0:13:53.98,Default,,0,0,0,,你也知道规定 "人各有职 身不由己"\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You know the law. "You gotta do what you gotta do. "
-Dialogue: 0,0:13:58.25,0:14:00.69,Default,,0,0,0,,噢 我们被困住了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Oh! We're trapped!
-Dialogue: 0,0:14:02.89,0:14:05.33,Default,,0,0,0,,等一等 你不是掰弯机吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Wait a second ! You're a bender, right?
-Dialogue: 0,0:14:05.33,0:14:07.93,Default,,0,0,0,,只要你掰弯铁栏我们就能逃出去了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We can get out of here if you just bend the bars.
-Dialogue: 0,0:14:07.93,0:14:09.72,Default,,0,0,0,,别做梦了 肉包子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Dream on, skin-tube!
-Dialogue: 0,0:14:09.72,0:14:12.43,Default,,0,0,0,,我的程序只允许我为建造工作而掰\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm programmed to bend for constructive purposes.
-Dialogue: 0,0:14:12.43,0:14:14.57,Default,,0,0,0,,我看起来像一个逆掰弯机吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What do I look like? A de-bender?
-Dialogue: 0,0:14:14.57,0:14:16.59,Default,,0,0,0,,谁管你的程序是编来干什么的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Who cares what you are programmed for?
-Dialogue: 0,0:14:16.59,0:14:19.45,Default,,0,0,0,,如果有人给你编了跳楼的程序 你会照做吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}If someone programmed  you to jump off a bridge, would you do it?
-Dialogue: 0,0:14:19.45,0:14:22.29,Default,,0,0,0,,我得检查一下我的程序\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'll have to check my program.
-Dialogue: 0,0:14:22.29,0:14:23.24,Default,,0,0,0,,会的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yep!
-Dialogue: 0,0:14:23.24,0:14:24.78,Default,,0,0,0,,开门\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Open up!
-Dialogue: 0,0:14:24.78,0:14:26.13,Default,,0,0,0,,拜托 本德\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come on, Bender.
-Dialogue: 0,0:14:26.13,0:14:28.42,Default,,0,0,0,,自己的生活自己做主\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's up to you to make your own decisions on life.
-Dialogue: 0,0:14:28.42,0:14:31.81,Default,,0,0,0,,那就是人和机器人与动物的区别\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It separates people and robots from animals. . .
-Dialogue: 0,0:14:31.81,0:14:33.32,Default,,0,0,0,,还有机器动物\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}. . .and animal-robots.
-Dialogue: 0,0:14:33.32,0:14:34.86,Default,,0,0,0,,你胡说八道 弗莱\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You're full of crap, Fry!
-Dialogue: 0,0:14:38.35,0:14:41.39,Default,,0,0,0,,你的话很有说服力 弗莱\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You make a persuasive argument, Fry.
-Dialogue: 0,0:14:46.23,0:14:48.74,Default,,0,0,0,,加油本德 你能做到的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come on, Bender! You can do it!
-Dialogue: 0,0:14:48.74,0:14:53.47,Default,,0,0,0,,不行 我做不到\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can't. I can't do it!
-Dialogue: 0,0:14:53.73,0:14:54.86,Default,,0,0,0,,太好了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yes!
-Dialogue: 0,0:14:56.05,0:14:57.54,Default,,0,0,0,,你是对的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You were right, Fry.
-Dialogue: 0,0:14:57.54,0:14:59.44,Default,,0,0,0,,从现在起 我想掰就掰\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}From now on, I'm going to bend
-Dialogue: 0,0:14:59.44,0:15:02.51,Default,,0,0,0,,无论任何东西 任何时间 还是任何人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}what I want, when I want, who I want.
-Dialogue: 0,0:15:02.51,0:15:05.81,Default,,0,0,0,,没什么能阻止我\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm unstoppable!
-Dialogue: 0,0:15:15.56,0:15:17.35,Default,,0,0,0,,我不知道你是怎么做到的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't know how you did that.
-Dialogue: 0,0:15:24.42,0:15:25.13,Default,,0,0,0,,等等\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Wait!
-Dialogue: 0,0:15:25.13,0:15:26.08,Default,,0,0,0,,不了 谢谢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No thanks!
-Dialogue: 0,0:15:31.17,0:15:33.81,Default,,0,0,0,,看来我们当中必须有人掰弯这个栅栏\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Looks like one of us will have to bend this grate.
-Dialogue: 0,0:15:35.08,0:15:36.28,Default,,0,0,0,,噢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Aw!
+Dialogue: 0,0:10:29.60,0:10:31.36,Default,,0,0,0,,机器人为什么需要喝酒呢\N{\fnArial\fs40\bord2}Why would a robot need to drink?
+Dialogue: 0,0:10:31.36,0:10:33.03,Default,,0,0,0,,我才不需要喝酒\N{\fnArial\fs40\bord2}I don't need to drink.
+Dialogue: 0,0:10:33.03,0:10:35.29,Default,,0,0,0,,我想戒的话随时都可以\N{\fnArial\fs40\bord2}I can quit any time I want.
+Dialogue: 0,0:10:37.07,0:10:39.54,Default,,0,0,0,,那么它们要逼你做送货员是吗\N{\fnArial\fs40\bord2}So they made you a delivery boy?
+Dialogue: 0,0:10:39.54,0:10:41.65,Default,,0,0,0,,哥们 那和我的工作一样烂\N{\fnArial\fs40\bord2}Man, that's as bad as my job.
+Dialogue: 0,0:10:41.65,0:10:43.35,Default,,0,0,0,,真的吗 你是做什么的 本德\N{\fnArial\fs40\bord2}Really? What do you do? Bender.
+Dialogue: 0,0:10:43.35,0:10:44.37,Default,,0,0,0,,我是一个掰弯机\N{\fnArial\fs40\bord2}I'm a bender.
+Dialogue: 0,0:10:44.37,0:10:47.22,Default,,0,0,0,,掰弯钢梁 我的程序就是设定来干这个的\N{\fnArial\fs40\bord2}I bend girders. That's all what I'm programmed to do.
+Dialogue: 0,0:10:47.22,0:10:48.76,Default,,0,0,0,,你很在行吗\N{\fnArial\fs40\bord2}You any good at it?
+Dialogue: 0,0:10:48.76,0:10:51.65,Default,,0,0,0,,开玩笑 我可是业界明星\N{\fnArial\fs40\bord2}You kidding? I was a star.
+Dialogue: 0,0:10:51.65,0:10:53.85,Default,,0,0,0,,我能把钢梁掰成任意角度\N{\fnArial\fs40\bord2}I could bend a girder to any angle.
+Dialogue: 0,0:10:53.85,0:10:56.32,Default,,0,0,0,,三十度 三十二度\N{\fnArial\fs40\bord2}30 degrees, 32 degrees.
+Dialogue: 0,0:10:56.32,0:10:57.80,Default,,0,0,0,,随便你说\N{\fnArial\fs40\bord2}You name it.
+Dialogue: 0,0:10:57.80,0:10:59.38,Default,,0,0,0,,三十一度\N{\fnArial\fs40\bord2}31
+Dialogue: 0,0:10:59.87,0:11:01.46,Default,,0,0,0,,但是我不想继续活下去了\N{\fnArial\fs40\bord2}But I couldn't go on living
+Dialogue: 0,0:11:01.46,0:11:03.81,Default,,0,0,0,,自从我发现它们是用来做什么的\N{\fnArial\fs40\bord2}once I found out what the girders were for.
+Dialogue: 0,0:11:03.81,0:11:04.56,Default,,0,0,0,,做什么的\N{\fnArial\fs40\bord2}What?
+Dialogue: 0,0:11:04.56,0:11:06.14,Default,,0,0,0,,自杀亭\N{\fnArial\fs40\bord2}Suicide booths.
+Dialogue: 0,0:11:07.58,0:11:10.24,Default,,0,0,0,,弗莱 很高兴认识你\N{\fnArial\fs40\bord2}Fry, it was a pleasure meeting you.
+Dialogue: 0,0:11:10.24,0:11:11.83,Default,,0,0,0,,我要自杀去了\N{\fnArial\fs40\bord2}I'm gonna kill myself.
+Dialogue: 0,0:11:11.83,0:11:14.32,Default,,0,0,0,,等等 你是我唯一的朋友了\N{\fnArial\fs40\bord2}Wait! You're the only friend I have.
+Dialogue: 0,0:11:15.21,0:11:17.69,Default,,0,0,0,,你真的想和机器人做朋友\N{\fnArial\fs40\bord2}You really want a robot for a friend?
+Dialogue: 0,0:11:17.69,0:11:19.89,Default,,0,0,0,,是的 从小就想\N{\fnArial\fs40\bord2}Yeah, ever since I was six.
+Dialogue: 0,0:11:21.09,0:11:22.06,Default,,0,0,0,,好吧\N{\fnArial\fs40\bord2}Okay,
+Dialogue: 0,0:11:22.06,0:11:24.71,Default,,0,0,0,,但是我不希望别人以为我们是人机恋\N{\fnArial\fs40\bord2}but I don't want people thinking we're robosexuals.
+Dialogue: 0,0:11:24.71,0:11:27.82,Default,,0,0,0,,所以有人问起的话 就说你是我的调试员\N{\fnArial\fs40\bord2}So if anyone asks, you're my debugger.
+Dialogue: 0,0:11:29.09,0:11:31.45,Default,,0,0,0,,哦不 是那个独眼龙\N{\fnArial\fs40\bord2}Oh, no. It's the cyclops.
+Dialogue: 0,0:11:32.25,0:11:33.28,Default,,0,0,0,,别看 别看\N{\fnArial\fs40\bord2}Don't look! Don't look!
+Dialogue: 0,0:11:33.28,0:11:34.66,Default,,0,0,0,,我没在看\N{\fnArial\fs40\bord2}I'm not looking.
+Dialogue: 0,0:11:41.46,0:11:43.76,Default,,0,0,0,,警察编号 1B-Dl\N{\fnArial\fs40\bord2}This is Officer 1B-Dl,
+Dialogue: 0,0:11:43.76,0:11:45.41,Default,,0,0,0,,请求支援\N{\fnArial\fs40\bord2}requesting backup.
+Dialogue: 0,0:11:45.41,0:11:47.12,Default,,0,0,0,,我们五分钟后赶到\N{\fnArial\fs40\bord2}We'll be there in five minutes.
+Dialogue: 0,0:11:50.27,0:11:51.63,Default,,0,0,0,,我们可以躲在这里\N{\fnArial\fs40\bord2}We can hide in here!
+Dialogue: 0,0:11:51.63,0:11:53.71,Default,,0,0,0,,这里星期二免费\N{\fnArial\fs40\bord2}It's free on Tuesdays!
+Dialogue: 0,0:11:59.98,0:12:02.13,Default,,0,0,0,,欢迎来到人头博物馆\N{\fnArial\fs40\bord2}Welcome to the Head Museum.
+Dialogue: 0,0:12:02.13,0:12:03.52,Default,,0,0,0,,我是伦纳德·尼莫\N{\fnArial\fs40\bord2}I'm Leonard Nimoy.
+Dialogue: 0,0:12:03.52,0:12:05.11,Default,,0,0,0,,斯波克\N{\fnArial\fs40\bord2}Spock?!
+Dialogue: 0,0:12:05.11,0:12:06.94,Default,,0,0,0,,做这个手势\N{\fnArial\fs40\bord2}Do the thing.
+Dialogue: 0,0:12:07.70,0:12:09.25,Default,,0,0,0,,我已经不能这么做了\N{\fnArial\fs40\bord2}I don't do that anymore.
+Dialogue: 0,0:12:09.25,0:12:11.22,Default,,0,0,0,,真是难以置信\N{\fnArial\fs40\bord2}This is unbelievable!
+Dialogue: 0,0:12:11.22,0:12:13.11,Default,,0,0,0,,你们平时都做什么\N{\fnArial\fs40\bord2}What do you heads do all day?
+Dialogue: 0,0:12:13.11,0:12:15.91,Default,,0,0,0,,我们与人们分享经验和智慧\N{\fnArial\fs40\bord2}We share our wisdom with those who seek it.
+Dialogue: 0,0:12:15.91,0:12:18.12,Default,,0,0,0,,这是一种体面的生活方式\N{\fnArial\fs40\bord2}It's a life of quiet dignity.
+Dialogue: 0,0:12:18.40,0:12:19.75,Default,,0,0,0,,喂食时间\N{\fnArial\fs40\bord2}Feeding time!
+Dialogue: 0,0:12:38.71,0:12:41.99,Default,,0,0,0,,很抱歉 但我必须给你安装芯片\N{\fnArial\fs40\bord2}I'm sorry, Fry, but I have to install your career chip.
+Dialogue: 0,0:12:41.99,0:12:44.32,Default,,0,0,0,,你既然抱歉 为什么还要做呢\N{\fnArial\fs40\bord2}Well, if you are sorry then why are you doing it?
+Dialogue: 0,0:12:44.32,0:12:45.62,Default,,0,0,0,,这是我的工作\N{\fnArial\fs40\bord2}It's my job.
+Dialogue: 0,0:12:45.62,0:12:47.58,Default,,0,0,0,,人各有职 身不由己\N{\fnArial\fs40\bord2}You gotta do what you gotta do.
+Dialogue: 0,0:12:51.28,0:12:52.33,Default,,0,0,0,,小心点\N{\fnArial\fs40\bord2}Watch it!
+Dialogue: 0,0:12:54.92,0:12:58.21,Default,,0,0,0,,够了 你上了我的黑名单了\N{\fnArial\fs40\bord2}That's it. You just made my list!
+Dialogue: 0,0:13:00.63,0:13:02.52,Default,,0,0,0,,停下 淘气包 坏总统\N{\fnArial\fs40\bord2}Stop it! Down boy! Bad president!
+Dialogue: 0,0:13:02.52,0:13:04.76,Default,,0,0,0,,行了 伙计 离那些头远一点\N{\fnArial\fs40\bord2}All right, buddy. Step away from the head.
+Dialogue: 0,0:13:08.00,0:13:10.48,Default,,0,0,0,,我要让他尝尝24世纪的厉害\N{\fnArial\fs40\bord2}I'm gonna get 24th-century on his ass.
+Dialogue: 0,0:13:15.01,0:13:16.77,Default,,0,0,0,,别这样 各位警官\N{\fnArial\fs40\bord2}Please, officers!
+Dialogue: 0,0:13:16.77,0:13:18.81,Default,,0,0,0,,没有必要动用原力\N{\fnArial\fs40\bord2}There's no need to use force.
+Dialogue: 0,0:13:18.81,0:13:20.87,Default,,0,0,0,,我们会处理的 怪女士\N{\fnArial\fs40\bord2}Let us handle this, weirdy.
+Dialogue: 0,0:13:23.55,0:13:27.45,Default,,0,0,0,,行了 他只是一个来自无知年代的可怜虫\N{\fnArial\fs40\bord2}Come on. He's just a poor kid from the Stupid Ages.
+Dialogue: 0,0:13:27.45,0:13:29.99,Default,,0,0,0,,把你的大鼻子挪开 独眼龙\N{\fnArial\fs40\bord2}Keep your big nose out of this, Eyeball.
+Dialogue: 0,0:13:30.33,0:13:33.02,Default,,0,0,0,,没有人敢取笑我的鼻子\N{\fnArial\fs40\bord2}No one makes fun of my nose.
+Dialogue: 0,0:13:43.75,0:13:44.77,Default,,0,0,0,,该死\N{\fnArial\fs40\bord2}Damn.
+Dialogue: 0,0:13:44.77,0:13:47.10,Default,,0,0,0,,你们刚刚完全失控了\N{\fnArial\fs40\bord2}You guys were totally out of control.
+Dialogue: 0,0:13:47.10,0:13:49.72,Default,,0,0,0,,那是我们的工作 我们是维和警察\N{\fnArial\fs40\bord2}That's our job. We're peace officers.
+Dialogue: 0,0:13:49.72,0:13:53.98,Default,,0,0,0,,你也知道规定 "人各有职 身不由己"\N{\fnArial\fs40\bord2}You know the law. "You gotta do what you gotta do. "
+Dialogue: 0,0:13:58.25,0:14:00.69,Default,,0,0,0,,噢 我们被困住了\N{\fnArial\fs40\bord2}Oh! We're trapped!
+Dialogue: 0,0:14:02.89,0:14:05.33,Default,,0,0,0,,等一等 你不是掰弯机吗\N{\fnArial\fs40\bord2}Wait a second ! You're a bender, right?
+Dialogue: 0,0:14:05.33,0:14:07.93,Default,,0,0,0,,只要你掰弯铁栏我们就能逃出去了\N{\fnArial\fs40\bord2}We can get out of here if you just bend the bars.
+Dialogue: 0,0:14:07.93,0:14:09.72,Default,,0,0,0,,别做梦了 肉包子\N{\fnArial\fs40\bord2}Dream on, skin-tube!
+Dialogue: 0,0:14:09.72,0:14:12.43,Default,,0,0,0,,我的程序只允许我为建造工作而掰\N{\fnArial\fs40\bord2}I'm programmed to bend for constructive purposes.
+Dialogue: 0,0:14:12.43,0:14:14.57,Default,,0,0,0,,我看起来像一个逆掰弯机吗\N{\fnArial\fs40\bord2}What do I look like? A de-bender?
+Dialogue: 0,0:14:14.57,0:14:16.59,Default,,0,0,0,,谁管你的程序是编来干什么的\N{\fnArial\fs40\bord2}Who cares what you are programmed for?
+Dialogue: 0,0:14:16.59,0:14:19.45,Default,,0,0,0,,如果有人给你编了跳楼的程序 你会照做吗\N{\fnArial\fs40\bord2}If someone programmed  you to jump off a bridge, would you do it?
+Dialogue: 0,0:14:19.45,0:14:22.29,Default,,0,0,0,,我得检查一下我的程序\N{\fnArial\fs40\bord2}I'll have to check my program.
+Dialogue: 0,0:14:22.29,0:14:23.24,Default,,0,0,0,,会的\N{\fnArial\fs40\bord2}Yep!
+Dialogue: 0,0:14:23.24,0:14:24.78,Default,,0,0,0,,开门\N{\fnArial\fs40\bord2}Open up!
+Dialogue: 0,0:14:24.78,0:14:26.13,Default,,0,0,0,,拜托 本德\N{\fnArial\fs40\bord2}Come on, Bender.
+Dialogue: 0,0:14:26.13,0:14:28.42,Default,,0,0,0,,自己的生活自己做主\N{\fnArial\fs40\bord2}It's up to you to make your own decisions on life.
+Dialogue: 0,0:14:28.42,0:14:31.81,Default,,0,0,0,,那就是人和机器人与动物的区别\N{\fnArial\fs40\bord2}It separates people and robots from animals. . .
+Dialogue: 0,0:14:31.81,0:14:33.32,Default,,0,0,0,,还有机器动物\N{\fnArial\fs40\bord2}. . .and animal-robots.
+Dialogue: 0,0:14:33.32,0:14:34.86,Default,,0,0,0,,你胡说八道 弗莱\N{\fnArial\fs40\bord2}You're full of crap, Fry!
+Dialogue: 0,0:14:38.35,0:14:41.39,Default,,0,0,0,,你的话很有说服力 弗莱\N{\fnArial\fs40\bord2}You make a persuasive argument, Fry.
+Dialogue: 0,0:14:46.23,0:14:48.74,Default,,0,0,0,,加油本德 你能做到的\N{\fnArial\fs40\bord2}Come on, Bender! You can do it!
+Dialogue: 0,0:14:48.74,0:14:53.47,Default,,0,0,0,,不行 我做不到\N{\fnArial\fs40\bord2}Can't. I can't do it!
+Dialogue: 0,0:14:53.73,0:14:54.86,Default,,0,0,0,,太好了\N{\fnArial\fs40\bord2}Yes!
+Dialogue: 0,0:14:56.05,0:14:57.54,Default,,0,0,0,,你是对的\N{\fnArial\fs40\bord2}You were right, Fry.
+Dialogue: 0,0:14:57.54,0:14:59.44,Default,,0,0,0,,从现在起 我想掰就掰\N{\fnArial\fs40\bord2}From now on, I'm going to bend
+Dialogue: 0,0:14:59.44,0:15:02.51,Default,,0,0,0,,无论任何东西 任何时间 还是任何人\N{\fnArial\fs40\bord2}what I want, when I want, who I want.
+Dialogue: 0,0:15:02.51,0:15:05.81,Default,,0,0,0,,没什么能阻止我\N{\fnArial\fs40\bord2}I'm unstoppable!
+Dialogue: 0,0:15:15.56,0:15:17.35,Default,,0,0,0,,我不知道你是怎么做到的\N{\fnArial\fs40\bord2}I don't know how you did that.
+Dialogue: 0,0:15:24.42,0:15:25.13,Default,,0,0,0,,等等\N{\fnArial\fs40\bord2}Wait!
+Dialogue: 0,0:15:25.13,0:15:26.08,Default,,0,0,0,,不了 谢谢\N{\fnArial\fs40\bord2}No thanks!
+Dialogue: 0,0:15:31.17,0:15:33.81,Default,,0,0,0,,看来我们当中必须有人掰弯这个栅栏\N{\fnArial\fs40\bord2}Looks like one of us will have to bend this grate.
+Dialogue: 0,0:15:35.08,0:15:36.28,Default,,0,0,0,,噢\N{\fnArial\fs40\bord2}Aw!
 Dialogue: 0,0:15:35.87,0:15:42.11,Default,,0,0,0,,{\pos(450,412.5)\frz22\bord0\1c&0x39496C}Fenusians\NNo home
-Dialogue: 0,0:15:45.80,0:15:49.14,Default,,0,0,0,,天哪 这是什么\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Good Lord! What is this?
-Dialogue: 0,0:15:49.14,0:15:53.09,Default,,0,0,0,,这是旧纽约陷落的遗迹\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's the decaying ruins of old New York.
-Dialogue: 0,0:15:53.09,0:15:54.87,Default,,0,0,0,,欢迎回家 伙计\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Welcome home, pal.
-Dialogue: 0,0:15:56.82,0:15:58.20,Default,,0,0,0,,那是我住过的街区\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's my old neighborhood.
-Dialogue: 0,0:15:58.64,0:16:01.68,Default,,0,0,0,,天哪 勾起了我不少回忆\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Man, this brings back a lot of memories.
-Dialogue: 0,0:16:01.68,0:16:03.24,Default,,0,0,0,,你自己记着好了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Keep them to yourself.
-Dialogue: 0,0:16:04.69,0:16:08.25,Default,,0,0,0,,这里就是我和女友第一次约会的地方\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is where I brought my girlfriend on our very first date.
-Dialogue: 0,0:16:17.56,0:16:20.21,Default,,0,0,0,,天哪 她已经死了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My God! She's gone.
-Dialogue: 0,0:16:20.21,0:16:22.65,Default,,0,0,0,,我认识的 在乎的人全都死了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Everyone I ever knew or cared about is gone.
-Dialogue: 0,0:16:22.65,0:16:24.50,Default,,0,0,0,,这儿还有个你认识的人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Wait, there's someone you know.
-Dialogue: 0,0:16:26.82,0:16:28.30,Default,,0,0,0,,你就不能放过吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can't you leave me alone?
-Dialogue: 0,0:16:28.30,0:16:30.03,Default,,0,0,0,,我已经够悲惨的了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm miserable enough already.
-Dialogue: 0,0:16:30.34,0:16:32.97,Default,,0,0,0,,我知道这不能给你多少慰藉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Look, I know it's not much consolation,
-Dialogue: 0,0:16:32.97,0:16:35.01,Default,,0,0,0,,但是我理解你的感受\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but I understand how you feel.
-Dialogue: 0,0:16:35.01,0:16:38.28,Default,,0,0,0,,你不懂 我无家可归 没有家人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No you don't. I've got no home, no family.
-Dialogue: 0,0:16:38.28,0:16:39.60,Default,,0,0,0,,没有朋友\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No friends.
-Dialogue: 0,0:16:39.60,0:16:41.38,Default,,0,0,0,,我的世界已不复存在\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My whole world is gone.
-Dialogue: 0,0:16:41.38,0:16:45.25,Default,,0,0,0,,你不可能了解如此孤单是什么感觉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You can't possibly understand what it feels like to be so alone.
-Dialogue: 0,0:16:45.76,0:16:47.27,Default,,0,0,0,,我了解\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I understand.
-Dialogue: 0,0:16:47.27,0:16:50.47,Default,,0,0,0,,我是这个星球上唯一的独眼人\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm the only one-eyed alien on this whole planet.
-Dialogue: 0,0:16:50.47,0:16:52.70,Default,,0,0,0,,我的父母从小就抛弃了我\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}My parents abandoned me here as a baby.
-Dialogue: 0,0:16:52.70,0:16:55.26,Default,,0,0,0,,我甚至不知道它们来自哪个星系\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't even know what galaxy they were from.
-Dialogue: 0,0:16:55.86,0:16:58.00,Default,,0,0,0,,我知道孤单是什么感觉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I know how it feels to be alone.
-Dialogue: 0,0:17:01.25,0:17:04.11,Default,,0,0,0,,丽拉 我不了解这个世界\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Look Leela, I don't understand this world,
-Dialogue: 0,0:17:04.11,0:17:06.02,Default,,0,0,0,,但很明显你了解\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but you obviously do.
-Dialogue: 0,0:17:06.02,0:17:07.63,Default,,0,0,0,,所以我认命了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}So I give up.
-Dialogue: 0,0:17:07.63,0:17:10.17,Default,,0,0,0,,如果你真的认为我应该做一个送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}If you really think I should be a delivery boy,
-Dialogue: 0,0:17:10.17,0:17:11.13,Default,,0,0,0,,那我就做吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'll do it.
-Dialogue: 0,0:17:19.15,0:17:20.62,Default,,0,0,0,,你的芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Your chip!
-Dialogue: 0,0:17:20.62,0:17:22.09,Default,,0,0,0,,你在做什么\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What are you doing?
-Dialogue: 0,0:17:22.09,0:17:23.17,Default,,0,0,0,,辞职\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Quitting.
-Dialogue: 0,0:17:23.17,0:17:24.34,Default,,0,0,0,,为什么\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Why?
-Dialogue: 0,0:17:24.34,0:17:26.47,Default,,0,0,0,,因为我从始至终都想这么做\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Because I've always wanted to.
-Dialogue: 0,0:17:26.47,0:17:29.19,Default,,0,0,0,,直到遇到你 我才意识到这一点\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I just never realized it until I met you.
-Dialogue: 0,0:17:33.94,0:17:36.56,Default,,0,0,0,,你来凑什么热闹\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What is the matter with you?
-Dialogue: 0,0:17:36.56,0:17:38.22,Default,,0,0,0,,我只是想参与这个特别的时刻\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I wanted to be part of the moment.
-Dialogue: 0,0:17:38.22,0:17:40.45,Default,,0,0,0,,他偷了我的戒指\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Hey! He stole my ring!
-Dialogue: 0,0:17:40.45,0:17:42.01,Default,,0,0,0,,抱歉\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Sorry.
-Dialogue: 0,0:17:42.01,0:17:46.01,Default,,0,0,0,,好的 这下戒指消失之谜解开了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Well, that solves the mystery of the missing ring.
-Dialogue: 0,0:17:46.01,0:17:48.08,Default,,0,0,0,,这值得干一杯\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This calls for a drink.
-Dialogue: 0,0:17:49.62,0:17:51.23,Default,,0,0,0,,我不想破坏气氛\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't want to spoil the party,
-Dialogue: 0,0:17:51.23,0:17:53.72,Default,,0,0,0,,但是现在我们都成了弃业犯\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but we're all job-deserters now.
-Dialogue: 0,0:17:53.72,0:17:56.09,Default,,0,0,0,,我们没有工作也没地方可去\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}we are unemployed and nowhere to go.
-Dialogue: 0,0:17:56.09,0:17:57.83,Default,,0,0,0,,纠正：我们虽然没有工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Correction: we are unemployed. . .
-Dialogue: 0,0:17:57.83,0:18:00.99,Default,,0,0,0,,但是我们有个老亲戚可以投奔\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but we have an old relative to mooch off of.
-Dialogue: 0,0:18:04.37,0:18:06.20,Default,,0,0,0,,大家好 我是迪克·克拉克的头\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Hello, I'm Dick Clark's head.
-Dialogue: 0,0:18:06.20,0:18:09.09,Default,,0,0,0,,欢迎收看3000年特别版\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Welcome to a special year 3000 edition of
-Dialogue: 0,0:18:09.09,0:18:10.75,Default,,0,0,0,,新年摇滚夜\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}New Year's Rockin' Eve!
-Dialogue: 0,0:18:17.46,0:18:18.64,Default,,0,0,0,,你是谁\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Who are you?
-Dialogue: 0,0:18:18.64,0:18:20.42,Default,,0,0,0,,我是你亲爱的老舅舅弗莱\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm your dear old Uncle Fry.
-Dialogue: 0,0:18:20.42,0:18:22.41,Default,,0,0,0,,我没有什么弗莱舅舅\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I don't have an Uncle Fry.
-Dialogue: 0,0:18:22.41,0:18:24.35,Default,,0,0,0,,你现在有了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You do now!
-Dialogue: 0,0:18:27.52,0:18:30.37,Default,,0,0,0,,天哪 我真的是你的侄子\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}By God, I am your nephew!
-Dialogue: 0,0:18:30.37,0:18:33.40,Default,,0,0,0,,这真是太不可思议了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is absolutely incredible!
-Dialogue: 0,0:18:33.40,0:18:34.80,Default,,0,0,0,,我们能跟你要点钱吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can we have some money?
-Dialogue: 0,0:18:34.80,0:18:36.63,Default,,0,0,0,,哦 当然不行\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Oh, my, no.
-Dialogue: 0,0:18:37.41,0:18:40.03,Default,,0,0,0,,让我带你们参观一下\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Let me show you around.
-Dialogue: 0,0:18:40.03,0:18:42.02,Default,,0,0,0,,这是我的实验桌\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's my lab table and
-Dialogue: 0,0:18:42.02,0:18:43.57,Default,,0,0,0,,这是我的工作椅\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}this is my work stool.
-Dialogue: 0,0:18:43.57,0:18:46.50,Default,,0,0,0,,那边那个是我的跨星际飞船\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}And over there is my intergalactic spaceship.
-Dialogue: 0,0:18:46.50,0:18:50.19,Default,,0,0,0,,还有这些是我收集的各种长度的导线\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}And here's where I keep assorted lengths of wire.
-Dialogue: 0,0:18:51.64,0:18:53.68,Default,,0,0,0,,一艘真正的太空飞船\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}A real live spaceship!
-Dialogue: 0,0:18:53.68,0:18:55.76,Default,,0,0,0,,我自己设计的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I designed it myself.
-Dialogue: 0,0:18:55.76,0:18:59.40,Default,,0,0,0,,还是来看看我收集的各种长度的导线吧\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Let me show you some of the different lengths of wire I used.
-Dialogue: 0,0:19:00.63,0:19:02.69,Default,,0,0,0,,注意了 各位弃业犯\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Attention, job-deserters!
-Dialogue: 0,0:19:02.69,0:19:04.46,Default,,0,0,0,,举起手走出来\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Come out with your hands up!
-Dialogue: 0,0:19:04.46,0:19:06.95,Default,,0,0,0,,你们已经被半包围了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We have you partially surrounded!
-Dialogue: 0,0:19:06.95,0:19:08.04,Default,,0,0,0,,不\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}No!
-Dialogue: 0,0:19:09.95,0:19:11.56,Default,,0,0,0,,抓住这些混混\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Get those bums.
-Dialogue: 0,0:19:11.95,0:19:13.65,Default,,0,0,0,,我们完蛋了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}We're boned.
-Dialogue: 0,0:19:13.65,0:19:15.27,Default,,0,0,0,,我们能用这艘飞船逃走吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can't we get away in the ship?
-Dialogue: 0,0:19:15.27,0:19:18.64,Default,,0,0,0,,从技术上讲是可行的\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I suppose it is technically possible.
-Dialogue: 0,0:19:18.64,0:19:21.34,Default,,0,0,0,,但是我都已经穿上睡衣了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Though I am already in my pajamas.
-Dialogue: 0,0:19:27.04,0:19:28.41,Default,,0,0,0,,我带大家出去\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'll get us out of here.
-Dialogue: 0,0:19:34.99,0:19:36.79,Default,,0,0,0,,有人懂得驾驶吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Can anyone drive stick?
-Dialogue: 0,0:19:36.79,0:19:37.84,Default,,0,0,0,,我能\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I can.
-Dialogue: 0,0:19:37.84,0:19:40.86,Default,,0,0,0,,只要别让我侧方位停船就行\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}As long as I don't have to parallel park.
-Dialogue: 0,0:19:48.38,0:19:49.70,Default,,0,0,0,,如果他们胆敢起飞\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}If they try to take off,
-Dialogue: 0,0:19:49.70,0:19:52.37,Default,,0,0,0,,就打得他们满屁股激光\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}give them an ass full of laser.
-Dialogue: 0,0:19:55.23,0:19:56.87,Default,,0,0,0,,准备升空\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Prepare for lift off!
+Dialogue: 0,0:15:45.80,0:15:49.14,Default,,0,0,0,,天哪 这是什么\N{\fnArial\fs40\bord2}Good Lord! What is this?
+Dialogue: 0,0:15:49.14,0:15:53.09,Default,,0,0,0,,这是旧纽约陷落的遗迹\N{\fnArial\fs40\bord2}It's the decaying ruins of old New York.
+Dialogue: 0,0:15:53.09,0:15:54.87,Default,,0,0,0,,欢迎回家 伙计\N{\fnArial\fs40\bord2}Welcome home, pal.
+Dialogue: 0,0:15:56.82,0:15:58.20,Default,,0,0,0,,那是我住过的街区\N{\fnArial\fs40\bord2}It's my old neighborhood.
+Dialogue: 0,0:15:58.64,0:16:01.68,Default,,0,0,0,,天哪 勾起了我不少回忆\N{\fnArial\fs40\bord2}Man, this brings back a lot of memories.
+Dialogue: 0,0:16:01.68,0:16:03.24,Default,,0,0,0,,你自己记着好了\N{\fnArial\fs40\bord2}Keep them to yourself.
+Dialogue: 0,0:16:04.69,0:16:08.25,Default,,0,0,0,,这里就是我和女友第一次约会的地方\N{\fnArial\fs40\bord2}This is where I brought my girlfriend on our very first date.
+Dialogue: 0,0:16:17.56,0:16:20.21,Default,,0,0,0,,天哪 她已经死了\N{\fnArial\fs40\bord2}My God! She's gone.
+Dialogue: 0,0:16:20.21,0:16:22.65,Default,,0,0,0,,我认识的 在乎的人全都死了\N{\fnArial\fs40\bord2}Everyone I ever knew or cared about is gone.
+Dialogue: 0,0:16:22.65,0:16:24.50,Default,,0,0,0,,这儿还有个你认识的人\N{\fnArial\fs40\bord2}Wait, there's someone you know.
+Dialogue: 0,0:16:26.82,0:16:28.30,Default,,0,0,0,,你就不能放过吗\N{\fnArial\fs40\bord2}Can't you leave me alone?
+Dialogue: 0,0:16:28.30,0:16:30.03,Default,,0,0,0,,我已经够悲惨的了\N{\fnArial\fs40\bord2}I'm miserable enough already.
+Dialogue: 0,0:16:30.34,0:16:32.97,Default,,0,0,0,,我知道这不能给你多少慰藉\N{\fnArial\fs40\bord2}Look, I know it's not much consolation,
+Dialogue: 0,0:16:32.97,0:16:35.01,Default,,0,0,0,,但是我理解你的感受\N{\fnArial\fs40\bord2}but I understand how you feel.
+Dialogue: 0,0:16:35.01,0:16:38.28,Default,,0,0,0,,你不懂 我无家可归 没有家人\N{\fnArial\fs40\bord2}No you don't. I've got no home, no family.
+Dialogue: 0,0:16:38.28,0:16:39.60,Default,,0,0,0,,没有朋友\N{\fnArial\fs40\bord2}No friends.
+Dialogue: 0,0:16:39.60,0:16:41.38,Default,,0,0,0,,我的世界已不复存在\N{\fnArial\fs40\bord2}My whole world is gone.
+Dialogue: 0,0:16:41.38,0:16:45.25,Default,,0,0,0,,你不可能了解如此孤单是什么感觉\N{\fnArial\fs40\bord2}You can't possibly understand what it feels like to be so alone.
+Dialogue: 0,0:16:45.76,0:16:47.27,Default,,0,0,0,,我了解\N{\fnArial\fs40\bord2}I understand.
+Dialogue: 0,0:16:47.27,0:16:50.47,Default,,0,0,0,,我是这个星球上唯一的独眼人\N{\fnArial\fs40\bord2}I'm the only one-eyed alien on this whole planet.
+Dialogue: 0,0:16:50.47,0:16:52.70,Default,,0,0,0,,我的父母从小就抛弃了我\N{\fnArial\fs40\bord2}My parents abandoned me here as a baby.
+Dialogue: 0,0:16:52.70,0:16:55.26,Default,,0,0,0,,我甚至不知道它们来自哪个星系\N{\fnArial\fs40\bord2}I don't even know what galaxy they were from.
+Dialogue: 0,0:16:55.86,0:16:58.00,Default,,0,0,0,,我知道孤单是什么感觉\N{\fnArial\fs40\bord2}I know how it feels to be alone.
+Dialogue: 0,0:17:01.25,0:17:04.11,Default,,0,0,0,,丽拉 我不了解这个世界\N{\fnArial\fs40\bord2}Look Leela, I don't understand this world,
+Dialogue: 0,0:17:04.11,0:17:06.02,Default,,0,0,0,,但很明显你了解\N{\fnArial\fs40\bord2}but you obviously do.
+Dialogue: 0,0:17:06.02,0:17:07.63,Default,,0,0,0,,所以我认命了\N{\fnArial\fs40\bord2}So I give up.
+Dialogue: 0,0:17:07.63,0:17:10.17,Default,,0,0,0,,如果你真的认为我应该做一个送货员\N{\fnArial\fs40\bord2}If you really think I should be a delivery boy,
+Dialogue: 0,0:17:10.17,0:17:11.13,Default,,0,0,0,,那我就做吧\N{\fnArial\fs40\bord2}I'll do it.
+Dialogue: 0,0:17:19.15,0:17:20.62,Default,,0,0,0,,你的芯片\N{\fnArial\fs40\bord2}Your chip!
+Dialogue: 0,0:17:20.62,0:17:22.09,Default,,0,0,0,,你在做什么\N{\fnArial\fs40\bord2}What are you doing?
+Dialogue: 0,0:17:22.09,0:17:23.17,Default,,0,0,0,,辞职\N{\fnArial\fs40\bord2}Quitting.
+Dialogue: 0,0:17:23.17,0:17:24.34,Default,,0,0,0,,为什么\N{\fnArial\fs40\bord2}Why?
+Dialogue: 0,0:17:24.34,0:17:26.47,Default,,0,0,0,,因为我从始至终都想这么做\N{\fnArial\fs40\bord2}Because I've always wanted to.
+Dialogue: 0,0:17:26.47,0:17:29.19,Default,,0,0,0,,直到遇到你 我才意识到这一点\N{\fnArial\fs40\bord2}I just never realized it until I met you.
+Dialogue: 0,0:17:33.94,0:17:36.56,Default,,0,0,0,,你来凑什么热闹\N{\fnArial\fs40\bord2}What is the matter with you?
+Dialogue: 0,0:17:36.56,0:17:38.22,Default,,0,0,0,,我只是想参与这个特别的时刻\N{\fnArial\fs40\bord2}I wanted to be part of the moment.
+Dialogue: 0,0:17:38.22,0:17:40.45,Default,,0,0,0,,他偷了我的戒指\N{\fnArial\fs40\bord2}Hey! He stole my ring!
+Dialogue: 0,0:17:40.45,0:17:42.01,Default,,0,0,0,,抱歉\N{\fnArial\fs40\bord2}Sorry.
+Dialogue: 0,0:17:42.01,0:17:46.01,Default,,0,0,0,,好的 这下戒指消失之谜解开了\N{\fnArial\fs40\bord2}Well, that solves the mystery of the missing ring.
+Dialogue: 0,0:17:46.01,0:17:48.08,Default,,0,0,0,,这值得干一杯\N{\fnArial\fs40\bord2}This calls for a drink.
+Dialogue: 0,0:17:49.62,0:17:51.23,Default,,0,0,0,,我不想破坏气氛\N{\fnArial\fs40\bord2}I don't want to spoil the party,
+Dialogue: 0,0:17:51.23,0:17:53.72,Default,,0,0,0,,但是现在我们都成了弃业犯\N{\fnArial\fs40\bord2}but we're all job-deserters now.
+Dialogue: 0,0:17:53.72,0:17:56.09,Default,,0,0,0,,我们没有工作也没地方可去\N{\fnArial\fs40\bord2}we are unemployed and nowhere to go.
+Dialogue: 0,0:17:56.09,0:17:57.83,Default,,0,0,0,,纠正：我们虽然没有工作\N{\fnArial\fs40\bord2}Correction: we are unemployed. . .
+Dialogue: 0,0:17:57.83,0:18:00.99,Default,,0,0,0,,但是我们有个老亲戚可以投奔\N{\fnArial\fs40\bord2}but we have an old relative to mooch off of.
+Dialogue: 0,0:18:04.37,0:18:06.20,Default,,0,0,0,,大家好 我是迪克·克拉克的头\N{\fnArial\fs40\bord2}Hello, I'm Dick Clark's head.
+Dialogue: 0,0:18:06.20,0:18:09.09,Default,,0,0,0,,欢迎收看3000年特别版\N{\fnArial\fs40\bord2}Welcome to a special year 3000 edition of
+Dialogue: 0,0:18:09.09,0:18:10.75,Default,,0,0,0,,新年摇滚夜\N{\fnArial\fs40\bord2}New Year's Rockin' Eve!
+Dialogue: 0,0:18:17.46,0:18:18.64,Default,,0,0,0,,你是谁\N{\fnArial\fs40\bord2}Who are you?
+Dialogue: 0,0:18:18.64,0:18:20.42,Default,,0,0,0,,我是你亲爱的老舅舅弗莱\N{\fnArial\fs40\bord2}I'm your dear old Uncle Fry.
+Dialogue: 0,0:18:20.42,0:18:22.41,Default,,0,0,0,,我没有什么弗莱舅舅\N{\fnArial\fs40\bord2}I don't have an Uncle Fry.
+Dialogue: 0,0:18:22.41,0:18:24.35,Default,,0,0,0,,你现在有了\N{\fnArial\fs40\bord2}You do now!
+Dialogue: 0,0:18:27.52,0:18:30.37,Default,,0,0,0,,天哪 我真的是你的侄子\N{\fnArial\fs40\bord2}By God, I am your nephew!
+Dialogue: 0,0:18:30.37,0:18:33.40,Default,,0,0,0,,这真是太不可思议了\N{\fnArial\fs40\bord2}This is absolutely incredible!
+Dialogue: 0,0:18:33.40,0:18:34.80,Default,,0,0,0,,我们能跟你要点钱吗\N{\fnArial\fs40\bord2}Can we have some money?
+Dialogue: 0,0:18:34.80,0:18:36.63,Default,,0,0,0,,哦 当然不行\N{\fnArial\fs40\bord2}Oh, my, no.
+Dialogue: 0,0:18:37.41,0:18:40.03,Default,,0,0,0,,让我带你们参观一下\N{\fnArial\fs40\bord2}Let me show you around.
+Dialogue: 0,0:18:40.03,0:18:42.02,Default,,0,0,0,,这是我的实验桌\N{\fnArial\fs40\bord2}That's my lab table and
+Dialogue: 0,0:18:42.02,0:18:43.57,Default,,0,0,0,,这是我的工作椅\N{\fnArial\fs40\bord2}this is my work stool.
+Dialogue: 0,0:18:43.57,0:18:46.50,Default,,0,0,0,,那边那个是我的跨星际飞船\N{\fnArial\fs40\bord2}And over there is my intergalactic spaceship.
+Dialogue: 0,0:18:46.50,0:18:50.19,Default,,0,0,0,,还有这些是我收集的各种长度的导线\N{\fnArial\fs40\bord2}And here's where I keep assorted lengths of wire.
+Dialogue: 0,0:18:51.64,0:18:53.68,Default,,0,0,0,,一艘真正的太空飞船\N{\fnArial\fs40\bord2}A real live spaceship!
+Dialogue: 0,0:18:53.68,0:18:55.76,Default,,0,0,0,,我自己设计的\N{\fnArial\fs40\bord2}I designed it myself.
+Dialogue: 0,0:18:55.76,0:18:59.40,Default,,0,0,0,,还是来看看我收集的各种长度的导线吧\N{\fnArial\fs40\bord2}Let me show you some of the different lengths of wire I used.
+Dialogue: 0,0:19:00.63,0:19:02.69,Default,,0,0,0,,注意了 各位弃业犯\N{\fnArial\fs40\bord2}Attention, job-deserters!
+Dialogue: 0,0:19:02.69,0:19:04.46,Default,,0,0,0,,举起手走出来\N{\fnArial\fs40\bord2}Come out with your hands up!
+Dialogue: 0,0:19:04.46,0:19:06.95,Default,,0,0,0,,你们已经被半包围了\N{\fnArial\fs40\bord2}We have you partially surrounded!
+Dialogue: 0,0:19:06.95,0:19:08.04,Default,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:19:09.95,0:19:11.56,Default,,0,0,0,,抓住这些混混\N{\fnArial\fs40\bord2}Get those bums.
+Dialogue: 0,0:19:11.95,0:19:13.65,Default,,0,0,0,,我们完蛋了\N{\fnArial\fs40\bord2}We're boned.
+Dialogue: 0,0:19:13.65,0:19:15.27,Default,,0,0,0,,我们能用这艘飞船逃走吗\N{\fnArial\fs40\bord2}Can't we get away in the ship?
+Dialogue: 0,0:19:15.27,0:19:18.64,Default,,0,0,0,,从技术上讲是可行的\N{\fnArial\fs40\bord2}I suppose it is technically possible.
+Dialogue: 0,0:19:18.64,0:19:21.34,Default,,0,0,0,,但是我都已经穿上睡衣了\N{\fnArial\fs40\bord2}Though I am already in my pajamas.
+Dialogue: 0,0:19:27.04,0:19:28.41,Default,,0,0,0,,我带大家出去\N{\fnArial\fs40\bord2}I'll get us out of here.
+Dialogue: 0,0:19:34.99,0:19:36.79,Default,,0,0,0,,有人懂得驾驶吗\N{\fnArial\fs40\bord2}Can anyone drive stick?
+Dialogue: 0,0:19:36.79,0:19:37.84,Default,,0,0,0,,我能\N{\fnArial\fs40\bord2}I can.
+Dialogue: 0,0:19:37.84,0:19:40.86,Default,,0,0,0,,只要别让我侧方位停船就行\N{\fnArial\fs40\bord2}As long as I don't have to parallel park.
+Dialogue: 0,0:19:48.38,0:19:49.70,Default,,0,0,0,,如果他们胆敢起飞\N{\fnArial\fs40\bord2}If they try to take off,
+Dialogue: 0,0:19:49.70,0:19:52.37,Default,,0,0,0,,就打得他们满屁股激光\N{\fnArial\fs40\bord2}give them an ass full of laser.
+Dialogue: 0,0:19:55.23,0:19:56.87,Default,,0,0,0,,准备升空\N{\fnArial\fs40\bord2}Prepare for lift off!
 Dialogue: 0,0:19:56.87,0:19:57.92,Default,,0,0,0,,10
 Dialogue: 0,0:19:57.92,0:19:59.09,Default,,0,0,0,,9
 Dialogue: 0,0:19:59.09,0:20:00.55,Default,,0,0,0,,8
@@ -368,39 +369,39 @@ Dialogue: 0,0:20:04.50,0:20:05.45,Default,,0,0,0,,4
 Dialogue: 0,0:20:05.45,0:20:06.78,Default,,0,0,0,,3
 Dialogue: 0,0:20:06.78,0:20:07.82,Default,,0,0,0,,2
 Dialogue: 0,0:20:07.82,0:20:08.92,Default,,0,0,0,,1
-Dialogue: 0,0:20:08.92,0:20:10.03,Default,,0,0,0,,发射\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Blast off!
-Dialogue: 0,0:20:18.20,0:20:20.56,Default,,0,0,0,,开火 开火\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Fire! Fire!
-Dialogue: 0,0:20:22.88,0:20:24.58,Default,,0,0,0,,我看不清楚\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I can't see nothing.
-Dialogue: 0,0:20:24.58,0:20:25.70,Default,,0,0,0,,景色倒是不错\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Pretty, though.
-Dialogue: 0,0:20:37.16,0:20:38.90,Default,,0,0,0,,我想 没有了工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}So I guess without jobs
-Dialogue: 0,0:20:31.52,0:20:33.41,Default,,0,0,0,,好啊\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yeah!
-Dialogue: 0,0:20:38.90,0:20:40.56,Default,,0,0,0,,我们得永远逃亡了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}we'll be fugitives forever.
-Dialogue: 0,0:20:40.56,0:20:42.37,Default,,0,0,0,,那倒未必\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Not necessarily.
-Dialogue: 0,0:20:42.37,0:20:44.13,Default,,0,0,0,,我想问问你们三个\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Are you three, by any chance,
-Dialogue: 0,0:20:44.13,0:20:47.22,Default,,0,0,0,,有没有兴趣成为我的新船员呢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}interested in becoming my new spaceship crew?
-Dialogue: 0,0:20:47.22,0:20:50.22,Default,,0,0,0,,新船员 你的老船员怎么了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}New crew? What happened to the old crew?
-Dialogue: 0,0:20:50.22,0:20:52.25,Default,,0,0,0,,那些可怜老王八…但是\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Those poor sons of-- but
-Dialogue: 0,0:20:52.25,0:20:53.23,Default,,0,0,0,,那不重要\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's not important.
-Dialogue: 0,0:20:53.23,0:20:56.17,Default,,0,0,0,,重要的是 我需要新船员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}What's important is I need a new crew.
-Dialogue: 0,0:20:56.17,0:20:57.54,Default,,0,0,0,,有兴趣吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Anyone interested?
-Dialogue: 0,0:20:57.54,0:20:59.11,Default,,0,0,0,,有 有\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Yes! Yes!
-Dialogue: 0,0:20:59.11,0:21:01.60,Default,,0,0,0,,这正是我梦寐以求的工作\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That's exactly the job I've always wanted!
-Dialogue: 0,0:21:01.60,0:21:03.38,Default,,0,0,0,,谢谢你提供的职位 教授\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Thanks for the offer, professor.
-Dialogue: 0,0:21:03.38,0:21:05.91,Default,,0,0,0,,但是我们没有合适的职业芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}but we don't have the proper career chips.
-Dialogue: 0,0:21:05.91,0:21:07.60,Default,,0,0,0,,这不成问题\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}That won't be a problem.
-Dialogue: 0,0:21:07.60,0:21:08.58,Default,,0,0,0,,算你们走运\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}As luck would have it,
-Dialogue: 0,0:21:08.58,0:21:11.97,Default,,0,0,0,,我保留了旧船员的芯片\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I saved the chips from my previous crew.
-Dialogue: 0,0:21:15.12,0:21:16.58,Default,,0,0,0,,太棒了\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}This is awesome!
-Dialogue: 0,0:21:16.58,0:21:17.99,Default,,0,0,0,,我们是不是要在宇宙中穿梭\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Are we gonna flight through space
-Dialogue: 0,0:21:17.99,0:21:19.06,Default,,0,0,0,,对抗各种怪物 还有\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Fighting monsters and
-Dialogue: 0,0:21:19.06,0:21:20.96,Default,,0,0,0,,教会外星女人如何去爱吗\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}teach alien women to love?
-Dialogue: 0,0:21:20.96,0:21:23.96,Default,,0,0,0,,如果你的意思是运输货物的话\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}If by that you mean transporting cargo,
-Dialogue: 0,0:21:23.96,0:21:24.93,Default,,0,0,0,,没错\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Then yes.
-Dialogue: 0,0:21:24.93,0:21:28.45,Default,,0,0,0,,这是我为了赚点研究经费而发起的小生意\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}It's a little home business I started to fund my research.
-Dialogue: 0,0:21:28.45,0:21:30.68,Default,,0,0,0,,酷 我要做什么工作呢\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Cool! What's my job gonna be?
-Dialogue: 0,0:21:30.68,0:21:33.29,Default,,0,0,0,,你要负责确保货物\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}You'd be responsible for ensuring that
-Dialogue: 0,0:21:33.29,0:21:36.88,Default,,0,0,0,,安全的抵达目的地\N{\bord3\shad0\fs52.5\1c&0xFFFFFF} the cargo reaches its destination.
-Dialogue: 0,0:21:36.88,0:21:40.01,Default,,0,0,0,,这么说我是一个送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}So I'm gonna be a delivery boy?
-Dialogue: 0,0:21:40.01,0:21:41.55,Default,,0,0,0,,正是\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}Exactly!
-Dialogue: 0,0:21:42.46,0:21:44.39,Default,,0,0,0,,好啊\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}All right!
-Dialogue: 0,0:21:44.39,0:21:46.39,Default,,0,0,0,,我是一个送货员\N{\bord3\shad0\fs52.5\1c&0xFFFFFF}I'm a delivery boy!
+Dialogue: 0,0:20:08.92,0:20:10.03,Default,,0,0,0,,发射\N{\fnArial\fs40\bord2}Blast off!
+Dialogue: 0,0:20:18.20,0:20:20.56,Default,,0,0,0,,开火 开火\N{\fnArial\fs40\bord2}Fire! Fire!
+Dialogue: 0,0:20:22.88,0:20:24.58,Default,,0,0,0,,我看不清楚\N{\fnArial\fs40\bord2}I can't see nothing.
+Dialogue: 0,0:20:24.58,0:20:25.70,Default,,0,0,0,,景色倒是不错\N{\fnArial\fs40\bord2}Pretty, though.
+Dialogue: 0,0:20:37.16,0:20:38.90,Default,,0,0,0,,我想 没有了工作\N{\fnArial\fs40\bord2}So I guess without jobs
+Dialogue: 0,0:20:31.52,0:20:33.41,Default,,0,0,0,,好啊\N{\fnArial\fs40\bord2}Yeah!
+Dialogue: 0,0:20:38.90,0:20:40.56,Default,,0,0,0,,我们得永远逃亡了\N{\fnArial\fs40\bord2}we'll be fugitives forever.
+Dialogue: 0,0:20:40.56,0:20:42.37,Default,,0,0,0,,那倒未必\N{\fnArial\fs40\bord2}Not necessarily.
+Dialogue: 0,0:20:42.37,0:20:44.13,Default,,0,0,0,,我想问问你们三个\N{\fnArial\fs40\bord2}Are you three, by any chance,
+Dialogue: 0,0:20:44.13,0:20:47.22,Default,,0,0,0,,有没有兴趣成为我的新船员呢\N{\fnArial\fs40\bord2}interested in becoming my new spaceship crew?
+Dialogue: 0,0:20:47.22,0:20:50.22,Default,,0,0,0,,新船员 你的老船员怎么了\N{\fnArial\fs40\bord2}New crew? What happened to the old crew?
+Dialogue: 0,0:20:50.22,0:20:52.25,Default,,0,0,0,,那些可怜老王八…但是\N{\fnArial\fs40\bord2}Those poor sons of-- but
+Dialogue: 0,0:20:52.25,0:20:53.23,Default,,0,0,0,,那不重要\N{\fnArial\fs40\bord2}That's not important.
+Dialogue: 0,0:20:53.23,0:20:56.17,Default,,0,0,0,,重要的是 我需要新船员\N{\fnArial\fs40\bord2}What's important is I need a new crew.
+Dialogue: 0,0:20:56.17,0:20:57.54,Default,,0,0,0,,有兴趣吗\N{\fnArial\fs40\bord2}Anyone interested?
+Dialogue: 0,0:20:57.54,0:20:59.11,Default,,0,0,0,,有 有\N{\fnArial\fs40\bord2}Yes! Yes!
+Dialogue: 0,0:20:59.11,0:21:01.60,Default,,0,0,0,,这正是我梦寐以求的工作\N{\fnArial\fs40\bord2}That's exactly the job I've always wanted!
+Dialogue: 0,0:21:01.60,0:21:03.38,Default,,0,0,0,,谢谢你提供的职位 教授\N{\fnArial\fs40\bord2}Thanks for the offer, professor.
+Dialogue: 0,0:21:03.38,0:21:05.91,Default,,0,0,0,,但是我们没有合适的职业芯片\N{\fnArial\fs40\bord2}but we don't have the proper career chips.
+Dialogue: 0,0:21:05.91,0:21:07.60,Default,,0,0,0,,这不成问题\N{\fnArial\fs40\bord2}That won't be a problem.
+Dialogue: 0,0:21:07.60,0:21:08.58,Default,,0,0,0,,算你们走运\N{\fnArial\fs40\bord2}As luck would have it,
+Dialogue: 0,0:21:08.58,0:21:11.97,Default,,0,0,0,,我保留了旧船员的芯片\N{\fnArial\fs40\bord2}I saved the chips from my previous crew.
+Dialogue: 0,0:21:15.12,0:21:16.58,Default,,0,0,0,,太棒了\N{\fnArial\fs40\bord2}This is awesome!
+Dialogue: 0,0:21:16.58,0:21:17.99,Default,,0,0,0,,我们是不是要在宇宙中穿梭\N{\fnArial\fs40\bord2}Are we gonna flight through space
+Dialogue: 0,0:21:17.99,0:21:19.06,Default,,0,0,0,,对抗各种怪物 还有\N{\fnArial\fs40\bord2}Fighting monsters and
+Dialogue: 0,0:21:19.06,0:21:20.96,Default,,0,0,0,,教会外星女人如何去爱吗\N{\fnArial\fs40\bord2}teach alien women to love?
+Dialogue: 0,0:21:20.96,0:21:23.96,Default,,0,0,0,,如果你的意思是运输货物的话\N{\fnArial\fs40\bord2}If by that you mean transporting cargo,
+Dialogue: 0,0:21:23.96,0:21:24.93,Default,,0,0,0,,没错\N{\fnArial\fs40\bord2}Then yes.
+Dialogue: 0,0:21:24.93,0:21:28.45,Default,,0,0,0,,这是我为了赚点研究经费而发起的小生意\N{\fnArial\fs40\bord2}It's a little home business I started to fund my research.
+Dialogue: 0,0:21:28.45,0:21:30.68,Default,,0,0,0,,酷 我要做什么工作呢\N{\fnArial\fs40\bord2}Cool! What's my job gonna be?
+Dialogue: 0,0:21:30.68,0:21:33.29,Default,,0,0,0,,你要负责确保货物\N{\fnArial\fs40\bord2}You'd be responsible for ensuring that
+Dialogue: 0,0:21:33.29,0:21:36.88,Default,,0,0,0,,安全的抵达目的地\N{\fnArial\fs40\bord2} the cargo reaches its destination.
+Dialogue: 0,0:21:36.88,0:21:40.01,Default,,0,0,0,,这么说我是一个送货员\N{\fnArial\fs40\bord2}So I'm gonna be a delivery boy?
+Dialogue: 0,0:21:40.01,0:21:41.55,Default,,0,0,0,,正是\N{\fnArial\fs40\bord2}Exactly!
+Dialogue: 0,0:21:42.46,0:21:44.39,Default,,0,0,0,,好啊\N{\fnArial\fs40\bord2}All right!
+Dialogue: 0,0:21:44.39,0:21:46.39,Default,,0,0,0,,我是一个送货员\N{\fnArial\fs40\bord2}I'm a delivery boy!

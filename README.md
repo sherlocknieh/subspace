@@ -5,11 +5,18 @@
 
 ## FFmpeg命令
 
-- 压字幕 (压5分钟样片, 删掉 -t 600 即压全片)
+- 压字幕 (-t 600 压5分钟样片, 删掉 -t 600 压全片)
 
 ```
-ffmpeg -i "视频.mkv" -vf "subtitles='字幕.ass'" -c:v h264_qsv -q:v 20 -c:a copy -t 600 "输出.mp4"
+Intel 核显:
+
+ffmpeg -i "视频.mkv" -vf "subtitles='字幕.ass'" -c:v h264_qsv -q:v 18 -c:a copy -t 600 "输出.mp4"
+
+NVIDIA 显卡:
+
+ffmpeg -i "视频.mkv" -vf "subtitles='字幕.ass'" -c:v h264_nvenc -q:v 18 -c:a copy -t 600 "输出.mp4"
 ```
+
 
 
 
