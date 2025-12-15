@@ -1,7 +1,8 @@
 ## 我的字幕空间
 
-- 我做字幕的地方
-- 成品发布在B站: https://space.bilibili.com/6486757
+我做字幕的地方
+- 字幕成品发在 SubHD: https://subhd.tv/u/夏洛克聂
+- 熟肉发布在B站: https://space.bilibili.com/6486757
 
 ## FFmpeg命令
 
