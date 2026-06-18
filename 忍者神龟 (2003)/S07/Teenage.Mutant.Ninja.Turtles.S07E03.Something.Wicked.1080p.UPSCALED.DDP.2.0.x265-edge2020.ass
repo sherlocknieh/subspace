@@ -10,14 +10,14 @@ PlayResX: 1440
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: Teenage Mutant Ninja Turtles (2003) - S07E03 - Something Wicked [1080p DVDRip Upscale][SX].mkv
-Video File: Teenage Mutant Ninja Turtles (2003) - S07E03 - Something Wicked [1080p DVDRip Upscale][SX].mkv
+Audio File: S07E03 - Something Wicked [1080p DVDRip Upscale][SX].mkv
+Video File: S07E03 - Something Wicked [1080p DVDRip Upscale][SX].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 152
-Active Line: 166
-Video Position: 555
+Video Zoom Percent: 0.375000
+Scroll Position: 128
+Active Line: 134
+Video Position: 8950
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,149 +25,147 @@ Style: Default,思源黑体 Medium,80,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.13,0:00:25.30,Default,,0,0,0,,嗯\N{\fnArial\fs40\bord2}Huh?
-Dialogue: 0,0:00:26.47,0:00:27.61,Default,,0,0,0,,是的\N{\fnArial\fs40\bord2}Yes!
+Dialogue: 0,0:00:22.84,0:00:24.13,Default,,0,0,0,,嗯\N{\fnArial\fs40\bord2}Huh?
+Dialogue: 0,0:00:26.47,0:00:27.61,Default,,0,0,0,,太好了\N{\fnArial\fs40\bord2}Yes!
 Dialogue: 0,0:00:27.72,0:00:28.44,Default,,0,0,0,,醒醒\N{\fnArial\fs40\bord2}Wake up!
 Dialogue: 0,0:00:28.55,0:00:29.48,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
-Dialogue: 0,0:00:29.58,0:00:30.75,Default,,0,0,0,,呃！呃\N{\fnArial\fs40\bord2}Uh! Uh!
+Dialogue: 0,0:00:29.58,0:00:30.75,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh! Uh!
 Dialogue: 0,0:00:30.86,0:00:31.76,Default,,0,0,0,,伙计们 快醒醒\N{\fnArial\fs40\bord2}Guys, wake up!
 Dialogue: 0,0:00:31.86,0:00:34.52,Default,,0,0,0,,呃啊\N{\fnArial\fs40\bord2}Urggh!
-Dialogue: 0,0:00:34.62,0:00:36.00,Default,,0,0,0,,怎么了 唐尼\N{\fnArial\fs40\bord2}What is it, Donnie?
-Dialogue: 0,0:00:36.11,0:00:38.35,Default,,0,0,0,,我追踪了从斯普林特大师建立的传输中获取的二进制代码\N{\fnArial\fs40\bord2}I traced the binary code from the transmission I established
-Dialogue: 0,0:00:38.45,0:00:41.56,Default,,0,0,0,,并定位到了信号源\N{\fnArial\fs40\bord2}with Master Splinter and located the source.
-Dialogue: 0,0:00:44.84,0:00:45.87,Default,,0,0,0,,斯普林特大师\N{\fnArial\fs40\bord2}Master Splinter!
+Dialogue: 0,0:00:34.62,0:00:36.00,Default,,0,0,0,,怎么了 多尼\N{\fnArial\fs40\bord2}What is it, Donnie?
+Dialogue: 0,0:00:36.11,0:00:38.35,Default,,0,0,0,,我在之前和斯普林特老师建立的传输中\N{\fnArial\fs40\bord2}I traced the binary code from the transmission I established
+Dialogue: 0,0:00:38.45,0:00:41.56,Default,,0,0,0,,追踪了二进制代码定位到了信号源\N{\fnArial\fs40\bord2}with Master Splinter and located the source.
+Dialogue: 0,0:00:44.84,0:00:45.87,Default,,0,0,0,,斯普林特老师\N{\fnArial\fs40\bord2}Master Splinter!
 Dialogue: 0,0:00:45.98,0:00:47.08,Default,,0,0,0,,父亲\N{\fnArial\fs40\bord2}Father!
 Dialogue: 0,0:00:47.19,0:00:48.74,Default,,0,0,0,,他怎么不说话\N{\fnArial\fs40\bord2}Why ain't he talking?
-Dialogue: 0,0:00:48.84,0:00:51.64,Default,,0,0,0,,唐尼 怎么回事\N{\fnArial\fs40\bord2}Donnie, what gives?
-Dialogue: 0,0:00:51.74,0:00:54.36,Default,,0,0,0,,你们看到的只是冰山一角\N{\fnArial\fs40\bord2}What you're looking at is just one small piece
-Dialogue: 0,0:00:54.47,0:00:55.99,Default,,0,0,0,,斯普林特大师的\N{\fnArial\fs40\bord2}of Master Splinter.
-Dialogue: 0,0:00:56.09,0:01:00.75,Default,,0,0,0,,一个仅包含他部分本质的数据片段\N{\fnArial\fs40\bord2}A data bit that contains only a fragment of his essence.
-Dialogue: 0,0:01:00.85,0:01:03.27,Default,,0,0,0,,呃 唐尼 用我能听懂的方式解释一下\N{\fnArial\fs40\bord2}Uh, Donnie, explain it to me like I was Mikey.
+Dialogue: 0,0:00:48.84,0:00:51.64,Default,,0,0,0,,多尼 怎么回事\N{\fnArial\fs40\bord2}Donnie, what gives?
+Dialogue: 0,0:00:51.74,0:00:55.99,Default,,0,0,0,,你们看到的只是斯普林特老师的一个碎片\N{\fnArial\fs40\bord2}What you're looking at is just one small piece of Master Splinter.
+Dialogue: 0,0:00:56.09,0:01:00.75,Default,,0,0,0,,一个只包含他部分实体的数据片段\N{\fnArial\fs40\bord2}A data bit that contains only a fragment of his essence.
+Dialogue: 0,0:01:00.85,0:01:03.27,Default,,0,0,0,,呃 多尼 把我当作麦奇重新解释一遍\N{\fnArial\fs40\bord2}Uh, Donnie, explain it to me like I was Mikey.
 Dialogue: 0,0:01:03.37,0:01:04.82,Default,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey.
 Dialogue: 0,0:01:04.93,0:01:07.45,Default,,0,0,0,,这就是我过去几周一直在研究的东西\N{\fnArial\fs40\bord2}It's what I've been working on these past few weeks.
-Dialogue: 0,0:01:07.55,0:01:10.90,Default,,0,0,0,,试图查明斯普林特大师\N{\fnArial\fs40\bord2}Trying to find out what happened to Master Splinter
-Dialogue: 0,0:01:11.00,0:01:13.21,Default,,0,0,0,,在维拉尔用解构器击中他后发生了什么\N{\fnArial\fs40\bord2}after Viral blasted him with that decompiler.
-Dialogue: 0,0:01:13.31,0:01:14.87,Default,,0,0,0,,正如我所料\N{\fnArial\fs40\bord2}And it's as I suspected.
-Dialogue: 0,0:01:14.97,0:01:17.39,Default,,0,0,0,,斯普林特大师身处网络空间\N{\fnArial\fs40\bord2}Master Splinter's in cyberspace.
-Dialogue: 0,0:01:17.49,0:01:19.67,Default,,0,0,0,,显然被分裂成了可能成千上万的碎片\N{\fnArial\fs40\bord2}Apparently separated into what could be thousands
-Dialogue: 0,0:01:19.77,0:01:21.94,Default,,0,0,0,,这些微小的碎片\N{\fnArial\fs40\bord2}of these tiny bits.
-Dialogue: 0,0:01:22.05,0:01:23.95,Default,,0,0,0,,他一定是和维拉尔一起被传送到了那里\N{\fnArial\fs40\bord2}He must have been transported there with Viral
-Dialogue: 0,0:01:24.05,0:01:27.02,Default,,0,0,0,,当她逃脱时\N{\fnArial\fs40\bord2}when she made her escape.
+Dialogue: 0,0:01:07.55,0:01:10.90,Default,,0,0,0,,试图查明斯普林特老师发生了什么\N{\fnArial\fs40\bord2}Trying to find out what happened to Master Splinter
+Dialogue: 0,0:01:11.00,0:01:13.21,Default,,0,0,0,,在病毒维拉用分解射线击中他之后\N{\fnArial\fs40\bord2}after Viral blasted him with that decompiler.
+Dialogue: 0,0:01:13.31,0:01:14.87,Default,,0,0,0,,和我猜测的一样\N{\fnArial\fs40\bord2}And it's as I suspected.
+Dialogue: 0,0:01:14.97,0:01:17.39,Default,,0,0,0,,斯普林特老师身处网络空间\N{\fnArial\fs40\bord2}Master Splinter's in cyberspace.
+Dialogue: 0,0:01:17.49,0:01:21.94,Default,,0,0,0,,显然被分裂成了成千上万个这种数据碎片\N{\fnArial\fs40\bord2}Apparently separated into what could be thousands of these tiny bits.
+Dialogue: 0,0:01:22.05,0:01:23.95,Default,,0,0,0,,他一定是和维拉一起被传送到了那里\N{\fnArial\fs40\bord2}He must have been transported there with Viral
+Dialogue: 0,0:01:24.05,0:01:27.02,Default,,0,0,0,,她就是那时候逃脱的\N{\fnArial\fs40\bord2}when she made her escape.
 Dialogue: 0,0:01:27.12,0:01:29.43,Default,,0,0,0,,仍然有许多问题悬而未决\N{\fnArial\fs40\bord2}There is still so many questions that remain.
 Dialogue: 0,0:01:29.54,0:01:31.82,Default,,0,0,0,,有许多变量需要确定\N{\fnArial\fs40\bord2}So many variables to determine.
-Dialogue: 0,0:01:31.92,0:01:34.82,Default,,0,0,0,,但即便如此 我们的下一步行动也很明确\N{\fnArial\fs40\bord2}But even so, our next move is clear.
+Dialogue: 0,0:01:31.92,0:01:34.82,Default,,0,0,0,,无论如何 我们的下一步行动已经明确了\N{\fnArial\fs40\bord2}But even so, our next move is clear.
 Dialogue: 0,0:01:34.92,0:01:36.34,Default,,0,0,0,,是吗\N{\fnArial\fs40\bord2}It is?
 Dialogue: 0,0:01:36.44,0:01:39.03,Default,,0,0,0,,是的 我们要进入网络空间获取那些数据\N{\fnArial\fs40\bord2}Yes, we're rescuing Master Splinter
-Dialogue: 0,0:01:39.13,0:01:42.83,Default,,0,0,0,,来拯救斯普林特大师\N{\fnArial\fs40\bord2}by going into cyberspace and getting those bits.
-Dialogue: 0,0:01:47.76,0:01:48.69,Default,,0,0,0,,♪ 忍者时刻到了\N{\fnArial\fs40\bord2}♪ It's ninja time!
-Dialogue: 0,0:01:48.80,0:01:50.11,Default,,0,0,0,,♪ 在城市中 现场之上 ♪\N{\fnArial\fs40\bord2}♪ In the city, on the scene ♪
-Dialogue: 0,0:01:50.21,0:01:51.32,Default,,0,0,0,,♪ 地下与缝隙之间 ♪\N{\fnArial\fs40\bord2}♪ Underground and in between ♪
-Dialogue: 0,0:01:53.73,0:01:54.77,Default,,0,0,0,,♪ 有一支强悍的绿色英雄战队 ♪\N{\fnArial\fs40\bord2}♪ There's a mean, green team of heroes ♪
-Dialogue: 0,0:01:54.87,0:01:56.67,Default,,0,0,0,,♪ 超乎你的想象\N{\fnArial\fs40\bord2}♪ Like you've never seen
-Dialogue: 0,0:01:56.77,0:01:58.60,Default,,0,0,0,,♪ 当恶棍与忍者神龟交战之时 ♪\N{\fnArial\fs40\bord2}♪ And when the villains and turtles fight ♪
+Dialogue: 0,0:01:39.13,0:01:42.83,Default,,0,0,0,,来拯救斯普林特老师\N{\fnArial\fs40\bord2}by going into cyberspace and getting those bits.
+Dialogue: 0,0:01:47.76,0:01:48.69,Default,,0,0,0,,忍者时间到\N{\fnArial\fs40\bord2}It's ninja time!
+Dialogue: 0,0:01:48.80,0:01:50.11,Default,,0,0,0,,在城市中 就在现场\N{\fnArial\fs40\bord2}In the city, on the scene
+Dialogue: 0,0:01:50.21,0:01:51.32,Default,,0,0,0,,地下与缝隙之间\N{\fnArial\fs40\bord2}Underground and in between
+Dialogue: 0,0:01:53.73,0:01:54.77,Default,,0,0,0,,有一支强悍的绿色英雄战队\N{\fnArial\fs40\bord2}There's a mean, green team of heroes
+Dialogue: 0,0:01:54.87,0:01:56.67,Default,,0,0,0,,超乎你的想象\N{\fnArial\fs40\bord2}Like you've never seen
+Dialogue: 0,0:01:56.77,0:01:58.60,Default,,0,0,0,,当恶棍与忍者神龟交战之时\N{\fnArial\fs40\bord2}And when the villains and turtles fight
 Dialogue: 0,0:01:58.70,0:01:59.74,Default,,0,0,0,,出发\N{\fnArial\fs40\bord2}Let's go!
-Dialogue: 0,0:01:59.84,0:02:01.74,Default,,0,0,0,,♪ 这将是震撼人心的景象 ♪\N{\fnArial\fs40\bord2}♪ It's gonna be one shell of a sight ♪
-Dialogue: 0,0:02:01.85,0:02:03.23,Default,,0,0,0,,♪ 你知道海龟们支持你 ♪\N{\fnArial\fs40\bord2}♪ You know the turtles got your back ♪
-Dialogue: 0,0:02:03.33,0:02:05.30,Default,,0,0,0,,♪ 回 回到下水道\N{\fnArial\fs40\bord2}♪ Back, back to the Sewer
-Dialogue: 0,0:02:05.40,0:02:07.68,Default,,0,0,0,,♪ 少年忍者神龟\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles
-Dialogue: 0,0:02:07.78,0:02:10.41,Default,,0,0,0,,♪ 回到 回到下水道\N{\fnArial\fs40\bord2}♪ Back, back to the Sewer
-Dialogue: 0,0:02:10.51,0:02:13.31,Default,,0,0,0,,♪ 少年变异忍者神龟\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles
+Dialogue: 0,0:01:59.84,0:02:01.74,Default,,0,0,0,,这将是一出好戏\N{\fnArial\fs40\bord2}It's gonna be one shell of a sight
+Dialogue: 0,0:02:01.85,0:02:03.23,Default,,0,0,0,,你知道神龟们守护着你\N{\fnArial\fs40\bord2}You know the turtles got your back
+Dialogue: 0,0:02:03.33,0:02:05.30,Default,,0,0,0,,回到下水道\N{\fnArial\fs40\bord2}Back, back to the Sewer
+Dialogue: 0,0:02:05.40,0:02:07.68,Default,,0,0,0,,忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
+Dialogue: 0,0:02:07.78,0:02:10.41,Default,,0,0,0,,回到下水道\N{\fnArial\fs40\bord2}Back, back to the Sewer
+Dialogue: 0,0:02:10.51,0:02:13.31,Default,,0,0,0,,少年变异忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
 Dialogue: 0,0:02:13.41,0:02:14.06,Default,,0,0,0,,点名\N{\fnArial\fs40\bord2}Roll call!
 Dialogue: 0,0:02:14.17,0:02:15.20,Default,,0,0,0,,莱昂纳多\N{\fnArial\fs40\bord2}Leonardo!
 Dialogue: 0,0:02:15.31,0:02:16.48,Default,,0,0,0,,多纳泰罗\N{\fnArial\fs40\bord2}Donatello!
 Dialogue: 0,0:02:16.58,0:02:18.31,Default,,0,0,0,,拉斐尔 米开朗基罗\N{\fnArial\fs40\bord2}Raphael, Michelangelo!
-Dialogue: 0,0:02:18.41,0:02:20.38,Default,,0,0,0,,♪ 我爱当一只乌龟\N{\fnArial\fs40\bord2}♪ I love bein' a turtle
-Dialogue: 0,0:02:20.49,0:02:22.25,Default,,0,0,0,,♪ 有一支强悍的绿色英雄战队 ♪\N{\fnArial\fs40\bord2}♪ There's a mean, green team of heroes ♪
-Dialogue: 0,0:02:22.35,0:02:23.52,Default,,0,0,0,,♪ 你从未见过\N{\fnArial\fs40\bord2}♪ That you've never seen
-Dialogue: 0,0:02:23.63,0:02:25.46,Default,,0,0,0,,♪ 他们正全力以赴 ♪\N{\fnArial\fs40\bord2}♪ And they're doin' everything they can ♪
+Dialogue: 0,0:02:18.41,0:02:20.38,Default,,0,0,0,,我爱当一只神龟\N{\fnArial\fs40\bord2}I love bein' a turtle
+Dialogue: 0,0:02:20.49,0:02:22.25,Default,,0,0,0,,有一支强悍的绿色英雄战队\N{\fnArial\fs40\bord2}There's a mean, green team of heroes
+Dialogue: 0,0:02:22.35,0:02:23.52,Default,,0,0,0,,你从未见过\N{\fnArial\fs40\bord2}That you've never seen
+Dialogue: 0,0:02:23.63,0:02:25.46,Default,,0,0,0,,他们正全力以赴\N{\fnArial\fs40\bord2}And they're doin' everything they can
 Dialogue: 0,0:02:25.56,0:02:26.49,Default,,0,0,0,,出发\N{\fnArial\fs40\bord2}Let's go!
-Dialogue: 0,0:02:26.59,0:02:28.56,Default,,0,0,0,,♪ 粉碎施莱德邪恶计划 ♪\N{\fnArial\fs40\bord2}♪ To stop evil Shredder's plan ♪
-Dialogue: 0,0:02:28.67,0:02:30.01,Default,,0,0,0,,♪ 没错 神龟归来 ♪\N{\fnArial\fs40\bord2}♪ Oh yeah, the turtles are back ♪
-Dialogue: 0,0:02:30.12,0:02:32.08,Default,,0,0,0,,♪ 重返 重返地下世界\N{\fnArial\fs40\bord2}♪ Back, back to the Sewer
-Dialogue: 0,0:02:32.19,0:02:34.46,Default,,0,0,0,,♪ 忍者神龟\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles
-Dialogue: 0,0:02:34.57,0:02:37.16,Default,,0,0,0,,♪ 回到 回到下水道\N{\fnArial\fs40\bord2}♪ Back, back to the Sewer
-Dialogue: 0,0:02:37.26,0:02:40.37,Default,,0,0,0,,♪ 少年变异忍者神龟 ♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
-Dialogue: 0,0:02:40.47,0:02:43.13,Default,,0,0,0,,♪ 少年变异忍者神龟 ♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
-Dialogue: 0,0:02:43.23,0:02:44.13,Default,,0,0,0,,♪ 少年变异忍者神龟 ♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
-Dialogue: 0,0:02:44.23,0:02:45.99,Default,,0,0,0,,♪ 回到 回到下水道 ♪\N{\fnArial\fs40\bord2}♪ Back, back to the Sewer ♪
-Dialogue: 0,0:02:51.52,0:02:53.76,Default,,0,0,0,,理论上 就像2105年的超验车床\N{\fnArial\fs40\bord2}So in theory, just like the Transindental Lathe
+Dialogue: 0,0:02:26.59,0:02:28.56,Default,,0,0,0,,粉碎施莱德的邪恶计划\N{\fnArial\fs40\bord2}To stop evil Shredder's plan
+Dialogue: 0,0:02:28.67,0:02:30.01,Default,,0,0,0,,没错 神龟归来\N{\fnArial\fs40\bord2}Oh yeah, the turtles are back
+Dialogue: 0,0:02:30.12,0:02:32.08,Default,,0,0,0,,回到下水道\N{\fnArial\fs40\bord2}Back, back to the Sewer
+Dialogue: 0,0:02:32.19,0:02:34.46,Default,,0,0,0,,忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
+Dialogue: 0,0:02:34.57,0:02:37.16,Default,,0,0,0,,回到下水道\N{\fnArial\fs40\bord2}Back, back to the Sewer
+Dialogue: 0,0:02:37.26,0:02:40.37,Default,,0,0,0,,少年变异忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
+Dialogue: 0,0:02:40.47,0:02:43.13,Default,,0,0,0,,少年变异忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
+Dialogue: 0,0:02:43.23,0:02:44.13,Default,,0,0,0,,少年变异忍者神龟\N{\fnArial\fs40\bord2}Teenage Mutant Ninja Turtles
+Dialogue: 0,0:02:44.23,0:02:45.99,Default,,0,0,0,,回到下水道\N{\fnArial\fs40\bord2}Back, back to the Sewer
+Dialogue: 0,0:02:51.52,0:02:53.76,Default,,0,0,0,,理论上 就像2105年的传送车床\N{\fnArial\fs40\bord2}So in theory, just like the Transindental Lathe
 Dialogue: 0,0:02:53.86,0:02:56.83,Default,,0,0,0,,能以每毫秒百万部件的速率\N{\fnArial\fs40\bord2}from 2105 works the molecular transference at a rate
 Dialogue: 0,0:02:56.94,0:02:58.97,Default,,0,0,0,,完成分子转移\N{\fnArial\fs40\bord2}of a million parts per millisecond,
-Dialogue: 0,0:02:59.08,0:03:00.66,Default,,0,0,0,,这个传送门装置将使我们的\N{\fnArial\fs40\bord2}this portal device will make our trip
-Dialogue: 0,0:03:00.77,0:03:03.46,Default,,0,0,0,,网络空间之旅瞬间完成\N{\fnArial\fs40\bord2}into cyberspace instantaneous.
-Dialogue: 0,0:03:03.56,0:03:06.26,Default,,0,0,0,,至少在理论上\N{\fnArial\fs40\bord2}At least in theory.
-Dialogue: 0,0:03:06.36,0:03:07.70,Default,,0,0,0,,全体：呃呃\N{\fnArial\fs40\bord2}ALL: Uuuh.
+Dialogue: 0,0:02:59.08,0:03:03.46,Default,,0,0,0,,这个传送门装置能使我们瞬间进入网络空间\N{\fnArial\fs40\bord2}this portal device will make our trip into cyberspace instantaneous.
+Dialogue: 0,0:03:03.56,0:03:06.26,Default,,0,0,0,,至少 理论上是的\N{\fnArial\fs40\bord2}At least in theory.
+Dialogue: 0,0:03:06.36,0:03:07.70,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}ALL: Uuuh.
 Dialogue: 0,0:03:07.81,0:03:10.43,Default,,0,0,0,,我带来了一些特殊的网络装备\N{\fnArial\fs40\bord2}I'm bringing along some special cyber gear.
-Dialogue: 0,0:03:10.54,0:03:13.16,Default,,0,0,0,,我对薇拉尔和她的能力做了粗略研究\N{\fnArial\fs40\bord2}I've made a cursory study of Viral and her abilities,
-Dialogue: 0,0:03:13.26,0:03:15.16,Default,,0,0,0,,并尽可能多地融入了其中\N{\fnArial\fs40\bord2}and I've incorporated as much as I could
-Dialogue: 0,0:03:15.26,0:03:17.13,Default,,0,0,0,,进入一些新的防御程序\N{\fnArial\fs40\bord2}into some new defensive programs.
-Dialogue: 0,0:03:17.23,0:03:19.20,Default,,0,0,0,,这样我们就能应对任何情况\N{\fnArial\fs40\bord2}So we'll be ready for anything.
+Dialogue: 0,0:03:10.54,0:03:13.16,Default,,0,0,0,,我对薇拉和她的能力做了粗略研究\N{\fnArial\fs40\bord2}I've made a cursory study of Viral and her abilities,
+Dialogue: 0,0:03:13.26,0:03:17.13,Default,,0,0,0,,并尽量融入了一些新的防御程序\N{\fnArial\fs40\bord2}and I've incorporated as much as I could into some new defensive programs.
+Dialogue: 0,0:03:17.23,0:03:19.20,Default,,0,0,0,,这样我们就能应对各种情况\N{\fnArial\fs40\bord2}So we'll be ready for anything.
 Dialogue: 0,0:03:19.30,0:03:21.86,Default,,0,0,0,,前提是我的所有计算都正确\N{\fnArial\fs40\bord2}That is if all my calculations were correct.
-Dialogue: 0,0:03:21.96,0:03:24.34,Default,,0,0,0,,但我想我们很快就能知道了\N{\fnArial\fs40\bord2}But I suppose we'll find out soon enough.
-Dialogue: 0,0:03:24.45,0:03:25.38,Default,,0,0,0,,我们会吗\N{\fnArial\fs40\bord2}We will?
-Dialogue: 0,0:03:25.48,0:03:27.41,Default,,0,0,0,,好吧 不管准没准备好\N{\fnArial\fs40\bord2}All right, ready or not!
-Dialogue: 0,0:03:27.52,0:03:30.56,Default,,0,0,0,,哇 唐尼 你不觉得太草率了吗\N{\fnArial\fs40\bord2}Whoa, Donnie, don't you think you're rushing into this?
+Dialogue: 0,0:03:21.96,0:03:24.34,Default,,0,0,0,,但我想我们马上就能知道了\N{\fnArial\fs40\bord2}But I suppose we'll find out soon enough.
+Dialogue: 0,0:03:24.45,0:03:25.38,Default,,0,0,0,,马上?\N{\fnArial\fs40\bord2}We will?
+Dialogue: 0,0:03:25.48,0:03:27.41,Default,,0,0,0,,好吧 准备好了吗\N{\fnArial\fs40\bord2}All right, ready or not!
+Dialogue: 0,0:03:27.52,0:03:30.56,Default,,0,0,0,,哇 多尼 你不觉得太草率了吗\N{\fnArial\fs40\bord2}Whoa, Donnie, don't you think you're rushing into this?
 Dialogue: 0,0:03:30.66,0:03:31.80,Default,,0,0,0,,也许吧\N{\fnArial\fs40\bord2}Maybe.
-Dialogue: 0,0:03:31.90,0:03:34.28,Default,,0,0,0,,但时间对斯普林特大师来说可能是个关键因素\N{\fnArial\fs40\bord2}But time could be a factor for Master Splinter.
-Dialogue: 0,0:03:34.39,0:03:37.73,Default,,0,0,0,,我们根本不知道他在网络空间能坚持多久\N{\fnArial\fs40\bord2}We simply don't know how long he can last in cyberspace,
-Dialogue: 0,0:03:37.84,0:03:39.94,Default,,0,0,0,,更别说他现在还处于解压状态\N{\fnArial\fs40\bord2}let alone in his decompiled state.
+Dialogue: 0,0:03:31.90,0:03:34.28,Default,,0,0,0,,但是对斯普林特老师来说 时间可能很紧迫\N{\fnArial\fs40\bord2}But time could be a factor for Master Splinter.
+Dialogue: 0,0:03:34.39,0:03:37.73,Default,,0,0,0,,我们根本不知道他在网络空间能存在多久\N{\fnArial\fs40\bord2}We simply don't know how long he can last in cyberspace,
+Dialogue: 0,0:03:37.84,0:03:39.94,Default,,0,0,0,,更别说他现在还处于分解状态\N{\fnArial\fs40\bord2}let alone in his decompiled state.
 Dialogue: 0,0:03:40.05,0:03:42.12,Default,,0,0,0,,我可不想干等着看结果\N{\fnArial\fs40\bord2}And I'm not gonna wait around to find out.
 Dialogue: 0,0:03:42.22,0:03:44.40,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Ugh.
-Dialogue: 0,0:03:47.09,0:03:48.12,Default,,0,0,0,,唐尼 等等\N{\fnArial\fs40\bord2}Donnie, wait!
+Dialogue: 0,0:03:47.09,0:03:48.12,Default,,0,0,0,,多尼 等等\N{\fnArial\fs40\bord2}Donnie, wait!
 Dialogue: 0,0:03:53.06,0:03:55.27,Default,,0,0,0,,快 我们得追上他\N{\fnArial\fs40\bord2}Come on, we're going after him.
-Dialogue: 0,0:03:55.37,0:03:58.51,Default,,0,0,0,,呃 呃 那些关于跨次元传送\N{\fnArial\fs40\bord2}Uh, uh, all that talk about Transindental transfer
-Dialogue: 0,0:03:58.62,0:04:01.97,Default,,0,0,0,,和分子毫秒级的讨论让我头疼\N{\fnArial\fs40\bord2}and molecular milliseconds made my brain hurt.
-Dialogue: 0,0:04:02.07,0:04:04.49,Default,,0,0,0,,首先你得有个脑子 米奇\N{\fnArial\fs40\bord2}First you gotta have a brain, Mikey.
+Dialogue: 0,0:03:55.37,0:03:58.51,Default,,0,0,0,,呃 呃 那些跨次元传送\N{\fnArial\fs40\bord2}Uh, uh, all that talk about Transindental transfer
+Dialogue: 0,0:03:58.62,0:04:01.97,Default,,0,0,0,,和分子毫秒级的概念让我脑子疼\N{\fnArial\fs40\bord2}and molecular milliseconds made my brain hurt.
+Dialogue: 0,0:04:02.07,0:04:04.49,Default,,0,0,0,,首先你得有个脑子 麦奇\N{\fnArial\fs40\bord2}First you gotta have a brain, Mikey.
 Dialogue: 0,0:04:06.32,0:04:07.39,Default,,0,0,0,,现在行动吧\N{\fnArial\fs40\bord2}Now let's move.
-Dialogue: 0,0:04:07.49,0:04:11.77,Default,,0,0,0,,但愿唐尼知道他在做什么\N{\fnArial\fs40\bord2}And let's hope Donnie knows what he's doing.
+Dialogue: 0,0:04:07.49,0:04:11.77,Default,,0,0,0,,但愿多尼知道他在做什么\N{\fnArial\fs40\bord2}And let's hope Donnie knows what he's doing.
 Dialogue: 0,0:04:11.87,0:04:14.53,Default,,0,0,0,,终于能清静一会儿了\N{\fnArial\fs40\bord2}At last, a little peace and quiet.
-Dialogue: 0,0:04:14.63,0:04:17.88,Default,,0,0,0,,偏偏在这种糟糕时刻我也无法享受\N{\fnArial\fs40\bord2}Not that I can enjoy it in this dreadful time.
+Dialogue: 0,0:04:14.63,0:04:17.88,Default,,0,0,0,,偏偏在这种糟糕时刻 我也无福消受\N{\fnArial\fs40\bord2}Not that I can enjoy it in this dreadful time.
 Dialogue: 0,0:04:23.23,0:04:27.41,Default,,0,0,0,,哇 这地方太酷了\N{\fnArial\fs40\bord2}Wow, this place is too cool.
 Dialogue: 0,0:04:27.51,0:04:30.79,Default,,0,0,0,,要我说的话 有点阴森森的\N{\fnArial\fs40\bord2}Kinda creepy, if you ask me.
 Dialogue: 0,0:04:30.89,0:04:33.13,Default,,0,0,0,,搞什么名堂\N{\fnArial\fs40\bord2}What the shell?
 Dialogue: 0,0:04:33.24,0:04:34.90,Default,,0,0,0,,当心\N{\fnArial\fs40\bord2}Look out!
 Dialogue: 0,0:04:35.00,0:04:36.17,Default,,0,0,0,,大家靠近我\N{\fnArial\fs40\bord2}Stay close to me, guys.
-Dialogue: 0,0:04:36.28,0:04:38.83,Default,,0,0,0,,我们要覆盖的区域还很大\N{\fnArial\fs40\bord2}We've got a lot of ground to cover.
-Dialogue: 0,0:04:40.18,0:04:41.63,Default,,0,0,0,,解编译器的效应将\N{\fnArial\fs40\bord2}The effects of the decompiler spread
-Dialogue: 0,0:04:41.73,0:04:45.18,Default,,0,0,0,,斯普林特大师的数据碎片散布到了整个网络空间\N{\fnArial\fs40\bord2}Master Splinter's data bits all over cyberspace.
-Dialogue: 0,0:04:45.29,0:04:49.39,Default,,0,0,0,,哇 我的赛博伙伴们 我们正勇敢地前往\N{\fnArial\fs40\bord2}Whoa, my fellow cybernauts, we are bravely going
-Dialogue: 0,0:04:49.50,0:04:53.85,Default,,0,0,0,,海龟们从未踏足的领域——数字世界\N{\fnArial\fs40\bord2}where no turtles have ever gone before--the digital world!
+Dialogue: 0,0:04:36.28,0:04:38.83,Default,,0,0,0,,有很多地方需要我们去查找\N{\fnArial\fs40\bord2}We've got a lot of ground to cover.
+Dialogue: 0,0:04:40.18,0:04:41.63,Default,,0,0,0,,分解器的效应将斯普林特老师的\N{\fnArial\fs40\bord2}The effects of the decompiler spread
+Dialogue: 0,0:04:41.73,0:04:45.18,Default,,0,0,0,,数据碎片打散到了网络空间的各个地方\N{\fnArial\fs40\bord2}Master Splinter's data bits all over cyberspace.
+Dialogue: 0,0:04:45.29,0:04:48.12,Default,,0,0,0,,哇 我的赛博伙伴们\N{\fnArial\fs40\bord2}Whoa, my fellow cybernauts,
+Dialogue: 0,0:04:48.12,0:04:52.57,Default,,0,0,0,,{\an8}出自《星际迷航》
+Dialogue: 0,0:04:48.12,0:04:52.57,Default,,0,0,0,,"我们正勇敢地前往从未有龟踏足的领域"\N{\fnArial\fs40\bord2}we are bravely going where no turtles have ever gone before.
+Dialogue: 0,0:04:52.57,0:04:53.85,Default,,0,0,0,,数字世界\N{\fnArial\fs40\bord2}the digital world!
 Dialogue: 0,0:04:53.95,0:04:55.81,Default,,0,0,0,,网络空间\N{\fnArial\fs40\bord2}Cyberspace!
-Dialogue: 0,0:04:55.92,0:04:59.06,Default,,0,0,0,,从未有海龟做过我们做的这些事\N{\fnArial\fs40\bord2}No turtles have ever done any of the things we do.
+Dialogue: 0,0:04:55.92,0:04:59.06,Default,,0,0,0,,我们做的任何事都是从未有乌龟做过的\N{\fnArial\fs40\bord2}No turtles have ever done any of the things we do.
 Dialogue: 0,0:04:59.16,0:05:01.16,Default,,0,0,0,,一针见血\N{\fnArial\fs40\bord2}Touché.
 Dialogue: 0,0:05:03.44,0:05:05.55,Default,,0,0,0,,这些都是些什么东西\N{\fnArial\fs40\bord2}What is all this stuff?
-Dialogue: 0,0:05:05.65,0:05:09.52,Default,,0,0,0,,游戏节点、在线参考流、数据代码\N{\fnArial\fs40\bord2}Gaming nodes, online reference streams, data codes.
+Dialogue: 0,0:05:05.65,0:05:09.52,Default,,0,0,0,,游戏节点、数据请求序列、数据代码\N{\fnArial\fs40\bord2}Gaming nodes, online reference streams, data codes.
 Dialogue: 0,0:05:09.62,0:05:11.79,Default,,0,0,0,,构成互联网的一切\N{\fnArial\fs40\bord2}Everything that makes up the Internet.
 Dialogue: 0,0:05:11.90,0:05:13.38,Default,,0,0,0,,我知道它会很庞大\N{\fnArial\fs40\bord2}I knew it would be big.
 Dialogue: 0,0:05:13.49,0:05:15.66,Default,,0,0,0,,但这也太惊人了\N{\fnArial\fs40\bord2}But this.
-Dialogue: 0,0:05:15.76,0:05:17.59,Default,,0,0,0,,在这儿行动会很困难\N{\fnArial\fs40\bord2}Gonna be tough getting around in here,
+Dialogue: 0,0:05:15.76,0:05:17.59,Default,,0,0,0,,在这儿行动都很困难\N{\fnArial\fs40\bord2}Gonna be tough getting around in here,
 Dialogue: 0,0:05:17.70,0:05:20.18,Default,,0,0,0,,更别说找东西了\N{\fnArial\fs40\bord2}let alone finding anything.
 Dialogue: 0,0:05:20.29,0:05:22.81,Default,,0,0,0,,这就是我为什么熬了这么多夜\N{\fnArial\fs40\bord2}That's why I've been working so many late nights.
-Dialogue: 0,0:05:26.60,0:05:30.68,Default,,0,0,0,,看好了……代码执行器\N{\fnArial\fs40\bord2}Behold...the code runner.
+Dialogue: 0,0:05:26.60,0:05:30.68,Default,,0,0,0,,看好了…代码跑车\N{\fnArial\fs40\bord2}Behold...the code runner.
 Dialogue: 0,0:05:30.78,0:05:32.19,Default,,0,0,0,,哦 哦 哦\N{\fnArial\fs40\bord2}Oh, oh, oh.
 Dialogue: 0,0:05:32.30,0:05:35.09,Default,,0,0,0,,我想我坠入爱河了\N{\fnArial\fs40\bord2}I think I'm in love.
 Dialogue: 0,0:05:36.34,0:05:38.37,Default,,0,0,0,,哦 我想要一个 我也想要一个\N{\fnArial\fs40\bord2}Ooh, I want one, I want one.
-Dialogue: 0,0:05:38.48,0:05:42.41,Default,,0,0,0,,拉夫 米奇 来认识下电子切割机\N{\fnArial\fs40\bord2}Raph, Mikey, say hello to the cyber ripper.
+Dialogue: 0,0:05:38.48,0:05:42.41,Default,,0,0,0,,拉夫 麦奇 来认识一下赛博推土机\N{\fnArial\fs40\bord2}Raph, Mikey, say hello to the cyber ripper.
 Dialogue: 0,0:05:42.51,0:05:44.93,Default,,0,0,0,,我给每辆车都装了追踪装置\N{\fnArial\fs40\bord2}I've outfitted each vehicle with tracking devices
 Dialogue: 0,0:05:45.03,0:05:47.28,Default,,0,0,0,,还有防御功能\N{\fnArial\fs40\bord2}and defensive capabilities.
 Dialogue: 0,0:05:47.38,0:05:48.87,Default,,0,0,0,,而且我想你会对它们的操控性\N{\fnArial\fs40\bord2}And I think that you'll be quite pleased
 Dialogue: 0,0:05:48.97,0:05:51.21,Default,,0,0,0,,感到非常满意\N{\fnArial\fs40\bord2}with how they handle.
-Dialogue: 0,0:05:51.32,0:05:53.25,Default,,0,0,0,,它们被设定为依靠在此地地形中\N{\fnArial\fs40\bord2}They're configured to run on code pulses
-Dialogue: 0,0:05:53.35,0:05:54.98,Default,,0,0,0,,流动的代码脉冲运行\N{\fnArial\fs40\bord2}that float through the terrain here.
-Dialogue: 0,0:05:55.08,0:05:57.87,Default,,0,0,0,,因此我们几乎可以在任何地方进行竞速\N{\fnArial\fs40\bord2}So we should be able to race them pretty much anywhere.
-Dialogue: 0,0:05:57.98,0:05:58.88,Default,,0,0,0,,比一场\N{\fnArial\fs40\bord2}Race 'em?
-Dialogue: 0,0:05:58.98,0:06:00.98,Default,,0,0,0,,你总算会说人话了\N{\fnArial\fs40\bord2}Now you're taking my language.
+Dialogue: 0,0:05:51.32,0:05:52.41,Default,,0,0,0,,它们被设定为\N{\fnArial\fs40\bord2}They're configured to
+Dialogue: 0,0:05:52.41,0:05:54.98,Default,,0,0,0,,靠这个领域中流动的代码脉冲运行\N{\fnArial\fs40\bord2} run on code pulses that float through the terrain here.
+Dialogue: 0,0:05:55.08,0:05:57.87,Default,,0,0,0,,因此我们可以在几乎任何地方赛一场\N{\fnArial\fs40\bord2}So we should be able to race them pretty much anywhere.
+Dialogue: 0,0:05:57.98,0:05:58.88,Default,,0,0,0,,赛车\N{\fnArial\fs40\bord2}Race 'em?
+Dialogue: 0,0:05:58.98,0:06:00.98,Default,,0,0,0,,总算谈到我的领域了\N{\fnArial\fs40\bord2}Now you're taking my language.
 Dialogue: 0,0:06:01.08,0:06:02.53,Default,,0,0,0,,他是在跟你说话呢 拉夫\N{\fnArial\fs40\bord2}He would be talking to you, Raph,
 Dialogue: 0,0:06:02.64,0:06:04.78,Default,,0,0,0,,如果他说的是当第二名这件事\N{\fnArial\fs40\bord2}if he were talking about being second.
 Dialogue: 0,0:06:04.88,0:06:07.26,Default,,0,0,0,,希望你喜欢看我的背影\N{\fnArial\fs40\bord2}I hope you like looking at my back.
 Dialogue: 0,0:06:09.47,0:06:13.17,Default,,0,0,0,,哼 我们走着瞧\N{\fnArial\fs40\bord2}Huh, we'll see about that.
-Dialogue: 0,0:06:13.27,0:06:15.51,Default,,0,0,0,,你还需要更早的起步才行\N{\fnArial\fs40\bord2}You'll need more of a head start than that.
+Dialogue: 0,0:06:13.27,0:06:15.51,Default,,0,0,0,,你们还需要更早的起步才行\N{\fnArial\fs40\bord2}You'll need more of a head start than that.
 Dialogue: 0,0:06:22.52,0:06:25.80,Default,,0,0,0,,这才是我说的网上冲浪\N{\fnArial\fs40\bord2}Now this is what I call surfing the net.
 Dialogue: 0,0:06:25.90,0:06:26.90,Default,,0,0,0,,哈哈 太棒了\N{\fnArial\fs40\bord2}Ha, ha, that was awesome.
 Dialogue: 0,0:06:27.01,0:06:27.59,Default,,0,0,0,,爽\N{\fnArial\fs40\bord2}Sweet!
 Dialogue: 0,0:06:27.70,0:06:29.11,Default,,0,0,0,,好耶\N{\fnArial\fs40\bord2}Yeah!
 Dialogue: 0,0:06:29.22,0:06:30.84,Default,,0,0,0,,别闹了 伙计们\N{\fnArial\fs40\bord2}Enough horsing around, guys.
-Dialogue: 0,0:06:30.94,0:06:33.01,Default,,0,0,0,,记住 我们是来找斯普林特大师的\N{\fnArial\fs40\bord2}Remember, we're here for Master Splinter.
+Dialogue: 0,0:06:30.94,0:06:33.01,Default,,0,0,0,,记住 我们是来找斯普林特老师的\N{\fnArial\fs40\bord2}Remember, we're here for Master Splinter.
 Dialogue: 0,0:06:33.12,0:06:34.81,Default,,0,0,0,,看样子 我们马上就能追踪到\N{\fnArial\fs40\bord2}And from the looks of it, we're closing in
 Dialogue: 0,0:06:34.91,0:06:38.40,Default,,0,0,0,,他数据碎片发出的能量信号了\N{\fnArial\fs40\bord2}on the energy signature of his data bits.
 Dialogue: 0,0:06:38.50,0:06:39.43,Default,,0,0,0,,得分\N{\fnArial\fs40\bord2}Score!
@@ -176,9 +174,9 @@ Dialogue: 0,0:06:41.88,0:06:42.71,Default,,0,0,0,,奇怪\N{\fnArial\fs40\bord2}S
 Dialogue: 0,0:06:42.82,0:06:44.16,Default,,0,0,0,,又出现一次能量波动\N{\fnArial\fs40\bord2}There's another surge.
 Dialogue: 0,0:06:44.27,0:06:46.48,Default,,0,0,0,,而且与斯普林特的数据不匹配\N{\fnArial\fs40\bord2}And it doesn't match Splinter's bits.
 Dialogue: 0,0:06:46.58,0:06:49.20,Default,,0,0,0,,事实上 它的特征类似于...\N{\fnArial\fs40\bord2}In fact, its signature is similar to...
-Dialogue: 0,0:06:49.31,0:06:52.65,Default,,0,0,0,,维拉尔的 只是更强大\N{\fnArial\fs40\bord2}Viral's, only much more powerful.
+Dialogue: 0,0:06:49.31,0:06:52.65,Default,,0,0,0,,维拉的 只是更强大\N{\fnArial\fs40\bord2}Viral's, only much more powerful.
 Dialogue: 0,0:06:52.76,0:06:54.07,Default,,0,0,0,,我们得小心点\N{\fnArial\fs40\bord2}We should be careful.
-Dialogue: 0,0:06:54.17,0:06:55.28,Default,,0,0,0,,放松点 唐尼\N{\fnArial\fs40\bord2}Relax, Donnie.
+Dialogue: 0,0:06:54.17,0:06:55.28,Default,,0,0,0,,放松点 多尼\N{\fnArial\fs40\bord2}Relax, Donnie.
 Dialogue: 0,0:06:55.38,0:06:56.62,Default,,0,0,0,,这可是互联网\N{\fnArial\fs40\bord2}It's the Internet.
 Dialogue: 0,0:06:56.73,0:06:59.00,Default,,0,0,0,,到处都有能量激增\N{\fnArial\fs40\bord2}There are energy surges all over the place.
 Dialogue: 0,0:06:59.11,0:07:00.73,Default,,0,0,0,,快点\N{\fnArial\fs40\bord2}Come on!
@@ -188,78 +186,77 @@ Dialogue: 0,0:07:23.41,0:07:25.10,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
 Dialogue: 0,0:07:52.02,0:07:52.85,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh.
 Dialogue: 0,0:07:56.82,0:07:58.44,Default,,0,0,0,,不可能\N{\fnArial\fs40\bord2}No way.
 Dialogue: 0,0:07:58.55,0:07:59.58,Default,,0,0,0,,难道是\N{\fnArial\fs40\bord2}Is that?
-Dialogue: 0,0:07:59.69,0:08:02.55,Default,,0,0,0,,碎骨者\N{\fnArial\fs40\bord2}The Shredder?
+Dialogue: 0,0:07:59.69,0:08:02.55,Default,,0,0,0,,斯莱德\N{\fnArial\fs40\bord2}The Shredder?
 Dialogue: 0,0:08:02.65,0:08:03.86,Default,,0,0,0,,但这怎么可能\N{\fnArial\fs40\bord2}But how?
 Dialogue: 0,0:08:03.97,0:08:05.00,Default,,0,0,0,,我不知道\N{\fnArial\fs40\bord2}I don't know.
-Dialogue: 0,0:08:05.11,0:08:06.56,Default,,0,0,0,,但我们是来找斯普林特大师的\N{\fnArial\fs40\bord2}But we're here for Master Splinter,
+Dialogue: 0,0:08:05.11,0:08:06.56,Default,,0,0,0,,但我们是来找斯普林特老师的\N{\fnArial\fs40\bord2}But we're here for Master Splinter,
 Dialogue: 0,0:08:06.66,0:08:08.28,Default,,0,0,0,,不是来打架的\N{\fnArial\fs40\bord2}not to fight.
 Dialogue: 0,0:08:10.42,0:08:11.21,Default,,0,0,0,,是吗\N{\fnArial\fs40\bord2}Yeah?
 Dialogue: 0,0:08:11.32,0:08:12.66,Default,,0,0,0,,你跟他说吧\N{\fnArial\fs40\bord2}Tell it to him.
-Dialogue: 0,0:08:15.18,0:08:19.19,Default,,0,0,0,,海龟 我得知你还活着\N{\fnArial\fs40\bord2}Turtles, I learned that you were still alive.
-Dialogue: 0,0:08:19.29,0:08:22.54,Default,,0,0,0,,但没想到会在这里见到你\N{\fnArial\fs40\bord2}But I am not expected to see you here.
+Dialogue: 0,0:08:15.18,0:08:19.19,Default,,0,0,0,,乌龟们 我得知你还活着\N{\fnArial\fs40\bord2}Turtles, I learned that you were still alive.
+Dialogue: 0,0:08:19.29,0:08:22.54,Default,,0,0,0,,但没想到会在这里见到你们\N{\fnArial\fs40\bord2}But I am not expected to see you here.
 Dialogue: 0,0:08:22.64,0:08:24.19,Default,,0,0,0,,彼此彼此 铁桶头\N{\fnArial\fs40\bord2}Likewise, bucket head.
 Dialogue: 0,0:08:24.30,0:08:26.71,Default,,0,0,0,,我看你比以往更加扭曲了\N{\fnArial\fs40\bord2}I see you're looking more twisted than ever.
-Dialogue: 0,0:08:26.82,0:08:28.61,Default,,0,0,0,,上次听说你时 你还在监狱里\N{\fnArial\fs40\bord2}Last we heard, you were in prison
+Dialogue: 0,0:08:26.82,0:08:28.61,Default,,0,0,0,,上次听说你时 你还被囚禁在\N{\fnArial\fs40\bord2}Last we heard, you were in prison
 Dialogue: 0,0:08:28.72,0:08:33.06,Default,,0,0,0,,在某个遥远的、毫无假释机会的小行星上\N{\fnArial\fs40\bord2}in some far off asteroid with zero chance of parole.
 Dialogue: 0,0:08:33.17,0:08:35.17,Default,,0,0,0,,我不知你所言何事\N{\fnArial\fs40\bord2}I know not of what you speak.
 Dialogue: 0,0:08:35.27,0:08:37.28,Default,,0,0,0,,但你早该明白\N{\fnArial\fs40\bord2}But you should have learned by now
-Dialogue: 0,0:08:37.38,0:08:39.93,Default,,0,0,0,,无人能阻止施莱德\N{\fnArial\fs40\bord2}that nothing can stop The Shredder.
+Dialogue: 0,0:08:37.38,0:08:39.93,Default,,0,0,0,,没人能阻止施莱德\N{\fnArial\fs40\bord2}that nothing can stop The Shredder.
 Dialogue: 0,0:08:40.04,0:08:44.94,Default,,0,0,0,,我早已为任何不测做好准备\N{\fnArial\fs40\bord2}I've long since been prepared for any contingency.
-Dialogue: 0,0:08:47.08,0:08:49.63,Default,,0,0,0,,施莱德：你看 通过将乌特龙技术\N{\fnArial\fs40\bord2}SHREDDER: You see, by an amalgamation
+Dialogue: 0,0:08:47.08,0:08:49.63,Default,,0,0,0,,你看 通过将乌创技术\N{\fnArial\fs40\bord2}SHREDDER: You see, by an amalgamation
 Dialogue: 0,0:08:49.74,0:08:54.60,Default,,0,0,0,,与你们可悲的地球机械相结合\N{\fnArial\fs40\bord2}of Utrom Technology and your pathetic earth machinery,
-Dialogue: 0,0:08:54.71,0:08:58.71,Default,,0,0,0,,我早已创造了自身的数字印迹\N{\fnArial\fs40\bord2}I long ago created a digital engram of myself,
+Dialogue: 0,0:08:54.71,0:08:58.71,Default,,0,0,0,,我很早就创建了自己的数字容器\N{\fnArial\fs40\bord2}I long ago created a digital engram of myself,
 Dialogue: 0,0:08:58.81,0:09:01.68,Default,,0,0,0,,一个持续更新的备份程序\N{\fnArial\fs40\bord2}a backup that was constantly renewed
-Dialogue: 0,0:09:01.78,0:09:04.27,Default,,0,0,0,,以备不测之时得以复活重生\N{\fnArial\fs40\bord2}and could be resurrected should anything happen
-Dialogue: 0,0:09:04.37,0:09:07.96,Default,,0,0,0,,致我的卡波耶拉身法\N{\fnArial\fs40\bord2}to my capoeira form.
+Dialogue: 0,0:09:01.78,0:09:07.96,Default,,0,0,0,,以备躯体发生不测之时得以复活重生\N{\fnArial\fs40\bord2}and could be resurrected should anything happen to my capoeira form.
 Dialogue: 0,0:09:08.06,0:09:12.52,Default,,0,0,0,,这份记忆印迹曾被安全封存于数据密室\N{\fnArial\fs40\bord2}This engram was locked away for safe keeping in a data vault
 Dialogue: 0,0:09:12.62,0:09:18.21,Default,,0,0,0,,直至某种奇异的网络生命体试图入侵\N{\fnArial\fs40\bord2}until some strange cyber lifeform attempted to break
 Dialogue: 0,0:09:18.32,0:09:22.73,Default,,0,0,0,,触发了密室的防御机制\N{\fnArial\fs40\bord2}into the vault and activated its defense mechanism.
 Dialogue: 0,0:09:22.84,0:09:25.50,Default,,0,0,0,,正是这个机制将我释放\N{\fnArial\fs40\bord2}A mechanism that released me.
-Dialogue: 0,0:09:25.60,0:09:29.47,Default,,0,0,0,,允许我吸收并掌控这具病毒躯体\N{\fnArial\fs40\bord2}Allowed me to absorb and commandeer this viral being
-Dialogue: 0,0:09:29.57,0:09:33.54,Default,,0,0,0,,才成就了如今你所见的模样\N{\fnArial\fs40\bord2}so that I am as you see me now!
+Dialogue: 0,0:09:25.60,0:09:29.47,Default,,0,0,0,,使我得以吸收并掌控这具病毒躯体\N{\fnArial\fs40\bord2}Allowed me to absorb and commandeer this viral being
+Dialogue: 0,0:09:29.57,0:09:33.54,Default,,0,0,0,,成就了如今你所见的模样\N{\fnArial\fs40\bord2}so that I am as you see me now!
 Dialogue: 0,0:09:37.16,0:09:39.79,Default,,0,0,0,,我本该好奇你如何抵达此地\N{\fnArial\fs40\bord2}I would have wondered how you came to be here
 Dialogue: 0,0:09:39.89,0:09:41.62,Default,,0,0,0,,闯入这片数字领域\N{\fnArial\fs40\bord2}in this digital realm.
 Dialogue: 0,0:09:41.72,0:09:43.38,Default,,0,0,0,,但此刻已无关紧要\N{\fnArial\fs40\bord2}But it matters not.
-Dialogue: 0,0:09:43.48,0:09:45.76,Default,,0,0,0,,你很快就不会了\N{\fnArial\fs40\bord2}You soon won't be.
+Dialogue: 0,0:09:43.48,0:09:45.76,Default,,0,0,0,,你们很快就不存在了\N{\fnArial\fs40\bord2}You soon won't be.
 Dialogue: 0,0:09:45.86,0:09:48.42,Default,,0,0,0,,既然你已落入我的掌控之中\N{\fnArial\fs40\bord2}Now that I have you within my grasp,
 Dialogue: 0,0:09:48.52,0:09:52.42,Default,,0,0,0,,你将被摧毁\N{\fnArial\fs40\bord2}you shall be destroyed!
-Dialogue: 0,0:09:52.52,0:09:54.97,Default,,0,0,0,,呃 唐尼 网络武器\N{\fnArial\fs40\bord2}Uh, Donnie, cyber weapons?
+Dialogue: 0,0:09:52.52,0:09:53.93,Default,,0,0,0,,呃 多尼\N{\fnArial\fs40\bord2}Uh, Donnie,
+Dialogue: 0,0:09:53.93,0:09:54.97,Default,,0,0,0,,有赛博武器吗\N{\fnArial\fs40\bord2}Uh, Donnie, cyber weapons?
 Dialogue: 0,0:09:55.08,0:09:58.74,Default,,0,0,0,,红色按钮\N{\fnArial\fs40\bord2}Red button.
 Dialogue: 0,0:09:58.84,0:10:00.46,Default,,0,0,0,,这才像话嘛\N{\fnArial\fs40\bord2}That's more like it.
-Dialogue: 0,0:10:00.57,0:10:02.67,Default,,0,0,0,,让我们大干一场吧\N{\fnArial\fs40\bord2}Let's kick some cyber shell.
+Dialogue: 0,0:10:00.57,0:10:02.67,Default,,0,0,0,,让我们来一场赛博大战\N{\fnArial\fs40\bord2}Let's kick some cyber shell.
 Dialogue: 0,0:10:02.77,0:10:04.91,Default,,0,0,0,,呀\N{\fnArial\fs40\bord2}Yah!
 Dialogue: 0,0:10:15.79,0:10:18.07,Default,,0,0,0,,呃 啊\N{\fnArial\fs40\bord2}Uh, ah!
 Dialogue: 0,0:10:18.17,0:10:19.31,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
-Dialogue: 0,0:10:21.45,0:10:23.31,Default,,0,0,0,,为何这家伙每次交手都更难对付\N{\fnArial\fs40\bord2}Why does this guy get harder to fight
-Dialogue: 0,0:10:23.42,0:10:26.21,Default,,0,0,0,,每次相遇都更棘手\N{\fnArial\fs40\bord2}every single time we meet him?
+Dialogue: 0,0:10:21.45,0:10:26.21,Default,,0,0,0,,为什么每次重逢 这家伙都变得更厉害\N{\fnArial\fs40\bord2}Why does this guy get harder to fight every single time we meet him?
 Dialogue: 0,0:10:26.32,0:10:28.84,Default,,0,0,0,,唉\N{\fnArial\fs40\bord2}Ugh.
 Dialogue: 0,0:10:30.15,0:10:32.84,Default,,0,0,0,,你毫无胜算\N{\fnArial\fs40\bord2}You have no hope of defeating me.
 Dialogue: 0,0:10:32.94,0:10:38.02,Default,,0,0,0,,在这数字领域 我至高无上\N{\fnArial\fs40\bord2}In this digital domain, I reign supreme.
 Dialogue: 0,0:10:42.40,0:10:44.26,Default,,0,0,0,,我开始觉得他说得有道理\N{\fnArial\fs40\bord2}I'm starting to think he has a point.
-Dialogue: 0,0:10:44.37,0:10:46.16,Default,,0,0,0,,唐尼 你能带我们离开这里吗\N{\fnArial\fs40\bord2}Donnie, can you get us out of here?
+Dialogue: 0,0:10:44.37,0:10:46.16,Default,,0,0,0,,多尼 你能带我们离开这里吗\N{\fnArial\fs40\bord2}Donnie, can you get us out of here?
 Dialogue: 0,0:10:51.86,0:10:53.24,Default,,0,0,0,,这边走\N{\fnArial\fs40\bord2}This way!
-Dialogue: 0,0:10:57.38,0:10:59.18,Default,,0,0,0,,后会有期 碎颅老大\N{\fnArial\fs40\bord2}Later, Shred Head!
+Dialogue: 0,0:10:57.38,0:10:59.18,Default,,0,0,0,,后会有期 斯莱德脑袋\N{\fnArial\fs40\bord2}Later, Shred Head!
 Dialogue: 0,0:10:59.28,0:11:02.08,Default,,0,0,0,,我可不这么认为\N{\fnArial\fs40\bord2}I think not.
 Dialogue: 0,0:11:02.18,0:11:04.91,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
 Dialogue: 0,0:11:05.87,0:11:07.49,Default,,0,0,0,,救命\N{\fnArial\fs40\bord2}Help!
 Dialogue: 0,0:11:19.02,0:11:20.27,Default,,0,0,0,,麦奇\N{\fnArial\fs40\bord2}Mikey!
 Dialogue: 0,0:11:20.37,0:11:22.44,Default,,0,0,0,,你哪儿也去不了\N{\fnArial\fs40\bord2}You are going nowhere!
 Dialogue: 0,0:11:22.54,0:11:23.72,Default,,0,0,0,,坚持住\N{\fnArial\fs40\bord2}Hold on!
-Dialogue: 0,0:11:23.82,0:11:28.72,Default,,0,0,0,,我找不到可以抓住的东西了\N{\fnArial\fs40\bord2}Having trouble finding something to hold onto to.
+Dialogue: 0,0:11:23.82,0:11:28.72,Default,,0,0,0,,我找不到可以抓的东西了\N{\fnArial\fs40\bord2}Having trouble finding something to hold onto to.
 Dialogue: 0,0:11:28.83,0:11:29.93,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Ugh!
 Dialogue: 0,0:11:32.59,0:11:33.87,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
 Dialogue: 0,0:11:40.08,0:11:42.53,Default,,0,0,0,,啊 啊 啊\N{\fnArial\fs40\bord2}Ah, ah, ah!
-Dialogue: 0,0:11:56.23,0:11:58.23,Default,,0,0,0,,我以为你能带我们离开这里\N{\fnArial\fs40\bord2}I thought you were getting us out of here.
-Dialogue: 0,0:11:58.34,0:12:00.31,Default,,0,0,0,,这里依然是网络空间\N{\fnArial\fs40\bord2}This is still cyberspace.
+Dialogue: 0,0:11:56.23,0:11:58.23,Default,,0,0,0,,我还以为你在带我们离开这里\N{\fnArial\fs40\bord2}I thought you were getting us out of here.
+Dialogue: 0,0:11:58.34,0:12:00.31,Default,,0,0,0,,这里还是网络空间\N{\fnArial\fs40\bord2}This is still cyberspace.
 Dialogue: 0,0:12:00.41,0:12:01.55,Default,,0,0,0,,是的 没错\N{\fnArial\fs40\bord2}Yes, it is.
-Dialogue: 0,0:12:01.65,0:12:03.31,Default,,0,0,0,,我们正身处会计软件程序里\N{\fnArial\fs40\bord2}We're in an accounting software program
+Dialogue: 0,0:12:01.65,0:12:03.31,Default,,0,0,0,,我们正在一个会计软件程序里\N{\fnArial\fs40\bord2}We're in an accounting software program
 Dialogue: 0,0:12:03.41,0:12:05.00,Default,,0,0,0,,藏在数道防火墙之后\N{\fnArial\fs40\bord2}behind several firewalls.
 Dialogue: 0,0:12:05.10,0:12:08.35,Default,,0,0,0,,这是我情急之下能找到最安全的地方\N{\fnArial\fs40\bord2}The safest place I could find at the spur of the moment.
-Dialogue: 0,0:12:08.45,0:12:10.70,Default,,0,0,0,,我们为什么还在这里\N{\fnArial\fs40\bord2}And we're still here because?
-Dialogue: 0,0:12:10.80,0:12:13.63,Default,,0,0,0,,因为斯普林特大师的那三块碎片在这里\N{\fnArial\fs40\bord2}Because those three bits of Master Splinter are here.
+Dialogue: 0,0:12:08.45,0:12:10.70,Default,,0,0,0,,我们为什么还留在这里\N{\fnArial\fs40\bord2}And we're still here because?
+Dialogue: 0,0:12:10.80,0:12:13.63,Default,,0,0,0,,因为斯普林特老师的三块碎片在这里\N{\fnArial\fs40\bord2}Because those three bits of Master Splinter are here.
 Dialogue: 0,0:12:13.73,0:12:16.11,Default,,0,0,0,,不拿到它们我们绝不离开\N{\fnArial\fs40\bord2}And we're not leaving without them.
-Dialogue: 0,0:12:16.22,0:12:18.74,Default,,0,0,0,,呃 除非你没注意到 我刚刚差点就被电击\N{\fnArial\fs40\bord2}Uh, unless you missed it, I almost got zapped
-Dialogue: 0,0:12:18.84,0:12:20.74,Default,,0,0,0,,成电子尘埃了\N{\fnArial\fs40\bord2}into cyber dust just a second ago
+Dialogue: 0,0:12:16.22,0:12:18.00,Default,,0,0,0,,呃 除非你没注意到\N{\fnArial\fs40\bord2}Uh, unless you missed it,
+Dialogue: 0,0:12:18.00,0:12:20.74,Default,,0,0,0,,我刚刚差点就被炸成电子尘埃了\N{\fnArial\fs40\bord2} I almost got zapped into cyber dust just a second ago
 Dialogue: 0,0:12:20.84,0:12:24.40,Default,,0,0,0,,我们最爱的尖头反派居然出现了虚拟版本\N{\fnArial\fs40\bord2}by a virtual version of our favorite pointy-headed villain!
 Dialogue: 0,0:12:24.50,0:12:25.40,Default,,0,0,0,,麦奇说得对\N{\fnArial\fs40\bord2}Mikey's right.
 Dialogue: 0,0:12:25.50,0:12:26.85,Default,,0,0,0,,既然要留下\N{\fnArial\fs40\bord2}If we're gonna stay,
@@ -269,37 +266,36 @@ Dialogue: 0,0:12:31.85,0:12:33.51,Default,,0,0,0,,我本希望在实地测试前
 Dialogue: 0,0:12:33.61,0:12:35.41,Default,,0,0,0,,能解决一些程序漏洞\N{\fnArial\fs40\bord2}before attempting a field test.
 Dialogue: 0,0:12:35.51,0:12:39.21,Default,,0,0,0,,但危急时刻只能铤而走险\N{\fnArial\fs40\bord2}But desperate times call for desperate measures.
 Dialogue: 0,0:12:39.31,0:12:40.97,Default,,0,0,0,,或者说眼下这种情况——\N{\fnArial\fs40\bord2}Or in this case--
-Dialogue: 0,0:12:43.21,0:12:45.28,Default,,0,0,0,,赛博诺装甲\N{\fnArial\fs40\bord2}Cybernaut armor.
-Dialogue: 0,0:12:45.39,0:12:47.01,Default,,0,0,0,,众人：耶哈\N{\fnArial\fs40\bord2}ALL: Yeah-ha!
+Dialogue: 0,0:12:43.21,0:12:45.28,Default,,0,0,0,,赛博装甲\N{\fnArial\fs40\bord2}Cybernaut armor.
+Dialogue: 0,0:12:45.39,0:12:47.01,Default,,0,0,0,,耶哈\N{\fnArial\fs40\bord2}ALL: Yeah-ha!
 Dialogue: 0,0:12:53.50,0:12:56.43,Default,,0,0,0,,难道没有其他尺寸可选吗\N{\fnArial\fs40\bord2}It doesn't come in any other sizes?
 Dialogue: 0,0:12:56.53,0:12:58.85,Default,,0,0,0,,呃 我早说过这套系统还有些漏洞\N{\fnArial\fs40\bord2}Uh, I told you there were a few bugs.
-Dialogue: 0,0:13:05.51,0:13:07.86,Default,,0,0,0,,听着 这套赛博装甲应该能派上用场\N{\fnArial\fs40\bord2}Now, listen, this cyber armor should help.
-Dialogue: 0,0:13:07.96,0:13:09.27,Default,,0,0,0,,但要想在这里站稳脚跟\N{\fnArial\fs40\bord2}But if we're gonna stand a chance here,
-Dialogue: 0,0:13:09.37,0:13:10.72,Default,,0,0,0,,我们必须利用身处网络空间这一优势\N{\fnArial\fs40\bord2}we have to take advantage of the fact
-Dialogue: 0,0:13:10.82,0:13:12.48,Default,,0,0,0,,现实世界的规则未必适用\N{\fnArial\fs40\bord2}that we're in cyberspace.
-Dialogue: 0,0:13:12.58,0:13:15.83,Default,,0,0,0,,我们要开始像网络行者那样思考\N{\fnArial\fs40\bord2}The rules of the real world don't necessarily apply.
-Dialogue: 0,0:13:15.93,0:13:18.80,Default,,0,0,0,,我检测不到电子施莱德的任何踪迹\N{\fnArial\fs40\bord2}We have to start thinking like cybernauts.
-Dialogue: 0,0:13:31.67,0:13:33.92,Default,,0,0,0,,I'm not picking up any trace of the cyber Shredder.\N{\fnArial\fs40\bord2}I'm not picking up any trace of the cyber Shredder.
-Dialogue: 0,0:13:34.02,0:13:34.92,Default,,0,0,0,,那我们去取\N{\fnArial\fs40\bord2}Then let's go get
-Dialogue: 0,0:13:35.02,0:13:37.61,Default,,0,0,0,,那三块斯普林特大师的碎片\N{\fnArial\fs40\bord2}those three bits of Master Splinter.
+Dialogue: 0,0:13:05.51,0:13:07.86,Default,,0,0,0,,听着 这套赛博装甲应该能帮上忙\N{\fnArial\fs40\bord2}Now, listen, this cyber armor should help.
+Dialogue: 0,0:13:07.96,0:13:09.27,Default,,0,0,0,,但是在这里想要有胜算的话\N{\fnArial\fs40\bord2}But if we're gonna stand a chance here,
+Dialogue: 0,0:13:09.37,0:13:12.48,Default,,0,0,0,,我们必须利用身处网络空间的优势\N{\fnArial\fs40\bord2}we have to take advantage of the fact that we're in cyberspace.
+Dialogue: 0,0:13:12.58,0:13:15.83,Default,,0,0,0,,现实世界的规则未必适用\N{\fnArial\fs40\bord2}The rules of the real world don't necessarily apply.
+Dialogue: 0,0:13:15.93,0:13:18.80,Default,,0,0,0,,我们要开始像网络行者那样思考\N{\fnArial\fs40\bord2}We have to start thinking like cybernauts.
+Dialogue: 0,0:13:31.67,0:13:33.92,Default,,0,0,0,,没有检测到电子施莱德的踪迹\N{\fnArial\fs40\bord2}I'm not picking up any trace of the cyber Shredder.
+Dialogue: 0,0:13:34.02,0:13:34.92,Default,,0,0,0,,那我们快去取\N{\fnArial\fs40\bord2}Then let's go get
+Dialogue: 0,0:13:35.02,0:13:37.61,Default,,0,0,0,,斯普林特老师的三块碎片吧\N{\fnArial\fs40\bord2}those three bits of Master Splinter.
 Dialogue: 0,0:13:54.11,0:13:57.28,Default,,0,0,0,,我的机载扫描仪显示它们就在前方\N{\fnArial\fs40\bord2}My onboard scanner indicates they're up ahead.
-Dialogue: 0,0:14:00.63,0:14:03.08,Default,,0,0,0,,仍不见施莱德的踪影\N{\fnArial\fs40\bord2}Still no sign of The Shredder.
+Dialogue: 0,0:14:00.63,0:14:03.08,Default,,0,0,0,,仍然没有施莱德的踪影\N{\fnArial\fs40\bord2}Still no sign of The Shredder.
 Dialogue: 0,0:14:15.27,0:14:16.86,Default,,0,0,0,,呃 留神注意\N{\fnArial\fs40\bord2}Uh, keep an eye out.
-Dialogue: 0,0:14:16.96,0:14:19.07,Default,,0,0,0,,我需要几分钟创建一个导管\N{\fnArial\fs40\bord2}I need a few minutes to create a conduit to store
+Dialogue: 0,0:14:16.96,0:14:19.07,Default,,0,0,0,,我需要几分钟创建一个管道\N{\fnArial\fs40\bord2}I need a few minutes to create a conduit to store
 Dialogue: 0,0:14:19.17,0:14:21.62,Default,,0,0,0,,将这些数据位存储在安全的地方\N{\fnArial\fs40\bord2}these data bits in a safe place.
-Dialogue: 0,0:14:21.72,0:14:23.62,Default,,0,0,0,,我们罩着你 唐尼\N{\fnArial\fs40\bord2}We got you covered, Donnie.
+Dialogue: 0,0:14:21.72,0:14:23.62,Default,,0,0,0,,我们罩着你 多尼\N{\fnArial\fs40\bord2}We got you covered, Donnie.
 Dialogue: 0,0:14:28.97,0:14:29.90,Default,,0,0,0,,目前还算——\N{\fnArial\fs40\bord2}So far, so--
 Dialogue: 0,0:14:31.66,0:14:32.60,Default,,0,0,0,,嗯\N{\fnArial\fs40\bord2}Huh?
-Dialogue: 0,0:14:32.70,0:14:34.98,Default,,0,0,0,,快点 唐尼 我们有客人了\N{\fnArial\fs40\bord2}Hurry up, Donnie, we've got company.
+Dialogue: 0,0:14:32.70,0:14:34.98,Default,,0,0,0,,快点 多尼 我们有客人了\N{\fnArial\fs40\bord2}Hurry up, Donnie, we've got company.
 Dialogue: 0,0:14:35.08,0:14:36.53,Default,,0,0,0,,十二点钟方向有人来了\N{\fnArial\fs40\bord2}Coming in at 12 o'clock.
 Dialogue: 0,0:14:36.63,0:14:37.60,Default,,0,0,0,,还需要点时间\N{\fnArial\fs40\bord2}Need more time.
 Dialogue: 0,0:14:37.70,0:14:38.67,Default,,0,0,0,,等一下\N{\fnArial\fs40\bord2}Wait a minute.
 Dialogue: 0,0:14:38.77,0:14:40.91,Default,,0,0,0,,六点钟方向有人朝我这边来了\N{\fnArial\fs40\bord2}I've got him coming in from 6 o'clock.
 Dialogue: 0,0:14:41.02,0:14:44.88,Default,,0,0,0,,呃 按我这玩意儿显示 他正从这边过来\N{\fnArial\fs40\bord2}Uh, according to my thingy, he's coming from this way.
-Dialogue: 0,0:14:44.99,0:14:46.96,Default,,0,0,0,,哎呦我的鞋疼死了\N{\fnArial\fs40\bord2}Oh pain in my shoe!
-Dialogue: 0,0:14:47.06,0:14:50.23,Default,,0,0,0,,他干嘛不直接像乌龟一样出来打一场\N{\fnArial\fs40\bord2}Why doesn't he just come out and fight like a turtle?
+Dialogue: 0,0:14:44.99,0:14:47.19,Default,,0,0,0,,哦 真令人龟壳疼\N{\fnArial\fs40\bord2}Oh pain in my shell!
+Dialogue: 0,0:14:47.19,0:14:50.23,Default,,0,0,0,,他干嘛不直接像乌龟一样出来打一场\N{\fnArial\fs40\bord2}Why doesn't he just come out and fight like a turtle?
 Dialogue: 0,0:14:55.38,0:14:58.93,Default,,0,0,0,,就差一点了\N{\fnArial\fs40\bord2}Almost got it.
-Dialogue: 0,0:14:59.04,0:15:02.94,Default,,0,0,0,,是啊 斯莱德马上也要来抓我们了\N{\fnArial\fs40\bord2}Yeah, well, The Shredder's about to get us, too.
+Dialogue: 0,0:14:59.04,0:15:02.94,Default,,0,0,0,,是吗 还有斯莱德马上也要赶过来了\N{\fnArial\fs40\bord2}Yeah, well, The Shredder's about to get us, too.
 Dialogue: 0,0:15:03.04,0:15:04.49,Default,,0,0,0,,来了\N{\fnArial\fs40\bord2}Here it comes.
 Dialogue: 0,0:15:40.32,0:15:41.46,Default,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey!
 Dialogue: 0,0:15:41.56,0:15:43.87,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
@@ -307,10 +303,10 @@ Dialogue: 0,0:15:43.98,0:15:45.36,Default,,0,0,0,,数据位\N{\fnArial\fs40\bord
 Dialogue: 0,0:15:45.46,0:15:47.19,Default,,0,0,0,,起来吧 乌龟们\N{\fnArial\fs40\bord2}Rise, turtles.
 Dialogue: 0,0:15:47.29,0:15:49.64,Default,,0,0,0,,起来受死吧\N{\fnArial\fs40\bord2}Rise and be destroyed.
 Dialogue: 0,0:15:49.74,0:15:52.95,Default,,0,0,0,,还是那个老样子 施莱德 还是那么聒噪\N{\fnArial\fs40\bord2}Same old Shredder, same old noise.
-Dialogue: 0,0:15:53.06,0:15:55.40,Default,,0,0,0,,我来找你了 斯普林特大师\N{\fnArial\fs40\bord2}I'm coming for you, Master Splinter.
+Dialogue: 0,0:15:53.06,0:15:55.40,Default,,0,0,0,,我来找你了 斯普林特老师\N{\fnArial\fs40\bord2}I'm coming for you, Master Splinter.
 Dialogue: 0,0:16:03.17,0:16:05.62,Default,,0,0,0,,我需要更多时间来保护数据碎片\N{\fnArial\fs40\bord2}I need more time to secure the data bits.
 Dialogue: 0,0:16:05.72,0:16:07.04,Default,,0,0,0,,去吧\N{\fnArial\fs40\bord2}Go for it.
-Dialogue: 0,0:16:07.14,0:16:09.90,Default,,0,0,0,,与此同时 我们会给你的神经甲做实地测试\N{\fnArial\fs40\bord2}Meanwhile, we'll give your cybernaut armor that field test.
+Dialogue: 0,0:16:07.14,0:16:09.90,Default,,0,0,0,,与此同时 我们来给你的战甲做实地测试\N{\fnArial\fs40\bord2}Meanwhile, we'll give your cybernaut armor that field test.
 Dialogue: 0,0:16:12.87,0:16:13.77,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh!
 Dialogue: 0,0:16:13.87,0:16:15.11,Default,,0,0,0,,这次可不会了\N{\fnArial\fs40\bord2}Not this time.
 Dialogue: 0,0:16:15.22,0:16:16.63,Default,,0,0,0,,我们现在已经准备好了\N{\fnArial\fs40\bord2}We're ready for you now.
@@ -320,20 +316,20 @@ Dialogue: 0,0:16:27.30,0:16:29.92,Default,,0,0,0,,看来我没能像网络行者
 Dialogue: 0,0:16:30.02,0:16:32.13,Default,,0,0,0,,思考从来就不是你的强项\N{\fnArial\fs40\bord2}Thinkin' never was your strong suit.
 Dialogue: 0,0:16:32.23,0:16:34.44,Default,,0,0,0,,让我来示范该怎么做\N{\fnArial\fs40\bord2}Let me show you how it's done.
 Dialogue: 0,0:16:37.96,0:16:40.41,Default,,0,0,0,,他刚才——\N{\fnArial\fs40\bord2}Where did he--
-Dialogue: 0,0:16:40.52,0:16:42.48,Default,,0,0,0,,唐尼说这里的规矩不一样\N{\fnArial\fs40\bord2}Donnie said the rules are different here.
+Dialogue: 0,0:16:40.52,0:16:42.48,Default,,0,0,0,,多尼说这里的规矩不一样\N{\fnArial\fs40\bord2}Donnie said the rules are different here.
 Dialogue: 0,0:16:42.59,0:16:43.83,Default,,0,0,0,,得好好利用这一点\N{\fnArial\fs40\bord2}Gotta take advantage.
-Dialogue: 0,0:16:43.93,0:16:46.52,Default,,0,0,0,,得像网络探险家一样思考\N{\fnArial\fs40\bord2}Gotta think like a cybernaut.
+Dialogue: 0,0:16:43.93,0:16:46.52,Default,,0,0,0,,得像网络行者一样思考\N{\fnArial\fs40\bord2}Gotta think like a cybernaut.
 Dialogue: 0,0:16:50.84,0:16:52.94,Default,,0,0,0,,嗯 嗯\N{\fnArial\fs40\bord2}Uh, uh!
-Dialogue: 0,0:16:53.05,0:16:55.43,Default,,0,0,0,,让他忙起来 我这边快搞定了\N{\fnArial\fs40\bord2}Keep him busy, I'm almost done here.
+Dialogue: 0,0:16:53.05,0:16:55.43,Default,,0,0,0,,拖住他 我这边快搞定了\N{\fnArial\fs40\bord2}Keep him busy, I'm almost done here.
 Dialogue: 0,0:16:55.53,0:16:57.71,Default,,0,0,0,,呃 呃\N{\fnArial\fs40\bord2}Uh, uh!
-Dialogue: 0,0:17:02.40,0:17:03.51,Default,,0,0,0,,我抓住他了\N{\fnArial\fs40\bord2}I got him.
-Dialogue: 0,0:17:03.61,0:17:05.02,Default,,0,0,0,,我其实——\N{\fnArial\fs40\bord2}I actually--
+Dialogue: 0,0:17:02.40,0:17:03.51,Default,,0,0,0,,我打中他了\N{\fnArial\fs40\bord2}I got him.
+Dialogue: 0,0:17:03.61,0:17:05.02,Default,,0,0,0,,我实实在在地...\N{\fnArial\fs40\bord2}I actually--
 Dialogue: 0,0:17:06.37,0:17:08.44,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh!
-Dialogue: 0,0:17:08.54,0:17:10.31,Default,,0,0,0,,唉 本来抓住了的\N{\fnArial\fs40\bord2}Well I had him.
-Dialogue: 0,0:17:10.41,0:17:12.38,Default,,0,0,0,,如果你能打中他 我就能打中他\N{\fnArial\fs40\bord2}If you can hit him, I can hit him.
+Dialogue: 0,0:17:08.54,0:17:10.31,Default,,0,0,0,,唉 本来搞定了的\N{\fnArial\fs40\bord2}Well I had him.
+Dialogue: 0,0:17:10.41,0:17:12.38,Default,,0,0,0,,如果你能打中他 那我也能\N{\fnArial\fs40\bord2}If you can hit him, I can hit him.
 Dialogue: 0,0:17:16.59,0:17:18.87,Default,,0,0,0,,呃 目前还算顺利\N{\fnArial\fs40\bord2}Uh, so far so good.
 Dialogue: 0,0:17:18.97,0:17:20.49,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
-Dialogue: 0,0:17:23.84,0:17:25.49,Default,,0,0,0,,呐-呐-呐-啊\N{\fnArial\fs40\bord2}Nah-nah-nah-ah.
+Dialogue: 0,0:17:23.84,0:17:25.49,Default,,0,0,0,,
 Dialogue: 0,0:17:25.60,0:17:26.56,Default,,0,0,0,,哈\N{\fnArial\fs40\bord2}Ha!
 Dialogue: 0,0:17:26.67,0:17:28.25,Default,,0,0,0,,可怜的虫子\N{\fnArial\fs40\bord2}Pathetic worm.
 Dialogue: 0,0:17:28.36,0:17:31.08,Default,,0,0,0,,你伤不了我\N{\fnArial\fs40\bord2}You cannot harm me.
@@ -341,52 +337,51 @@ Dialogue: 0,0:17:31.19,0:17:33.54,Default,,0,0,0,,像网络行者一样思考\N{
 Dialogue: 0,0:17:33.64,0:17:34.81,Default,,0,0,0,,是的\N{\fnArial\fs40\bord2}Yes!
 Dialogue: 0,0:17:34.92,0:17:35.61,Default,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
 Dialogue: 0,0:17:35.71,0:17:38.40,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Ugh!
-Dialogue: 0,0:17:38.51,0:17:40.30,Default,,0,0,0,,唐尼 情况如何\N{\fnArial\fs40\bord2}Donnie, status?
+Dialogue: 0,0:17:38.51,0:17:40.30,Default,,0,0,0,,多尼 情况如何\N{\fnArial\fs40\bord2}Donnie, status?
 Dialogue: 0,0:17:40.40,0:17:41.30,Default,,0,0,0,,还没好\N{\fnArial\fs40\bord2}Not yet.
 Dialogue: 0,0:17:41.41,0:17:43.92,Default,,0,0,0,,抱歉 我从来没做过这个\N{\fnArial\fs40\bord2}Sorry, I've never done this before.
 Dialogue: 0,0:17:47.48,0:17:48.76,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
-Dialogue: 0,0:17:53.35,0:17:55.07,Default,,0,0,0,,干得漂亮 莱奥\N{\fnArial\fs40\bord2}Way to go, Leo!
+Dialogue: 0,0:17:53.35,0:17:55.07,Default,,0,0,0,,干得漂亮 李奥\N{\fnArial\fs40\bord2}Way to go, Leo!
 Dialogue: 0,0:18:00.11,0:18:03.43,Default,,0,0,0,,蠢货 你们休想打败我\N{\fnArial\fs40\bord2}Fools, you cannot destroy me.
 Dialogue: 0,0:18:03.53,0:18:06.88,Default,,0,0,0,,但我能消灭你们\N{\fnArial\fs40\bord2}But I can destroy you!
 Dialogue: 0,0:18:10.71,0:18:12.61,Default,,0,0,0,,呃 多尼 你搞定了没\N{\fnArial\fs40\bord2}Uh, Donnie, are you done yet?
 Dialogue: 0,0:18:12.71,0:18:14.23,Default,,0,0,0,,再给我一点时间 兄弟们\N{\fnArial\fs40\bord2}Just a little more time, guys.
 Dialogue: 0,0:18:14.33,0:18:17.92,Default,,0,0,0,,这是一个缓慢而复杂的过程\N{\fnArial\fs40\bord2}It's a slow, intricate process.
 Dialogue: 0,0:18:18.03,0:18:20.34,Default,,0,0,0,,你能既缓慢又复杂地加快速度吗\N{\fnArial\fs40\bord2}Can you be slow and intricate faster?
-Dialogue: 0,0:18:39.43,0:18:42.09,Default,,0,0,0,,我的儿子\N{\fnArial\fs40\bord2}My son.
+Dialogue: 0,0:18:39.43,0:18:42.09,Default,,0,0,0,,我的孩子\N{\fnArial\fs40\bord2}My son.
 Dialogue: 0,0:18:42.19,0:18:43.12,Default,,0,0,0,,父亲\N{\fnArial\fs40\bord2}Father?
 Dialogue: 0,0:18:43.23,0:18:46.71,Default,,0,0,0,,多纳泰罗\N{\fnArial\fs40\bord2}Donatello!
 Dialogue: 0,0:18:46.82,0:18:48.27,Default,,0,0,0,,我绝不会辜负你\N{\fnArial\fs40\bord2}I won't fail you.
 Dialogue: 0,0:18:48.37,0:18:50.03,Default,,0,0,0,,这次不会\N{\fnArial\fs40\bord2}Not this time.
 Dialogue: 0,0:18:55.10,0:18:56.07,Default,,0,0,0,,我们准备好了\N{\fnArial\fs40\bord2}We're good to go.
-Dialogue: 0,0:18:56.17,0:18:56.72,Default,,0,0,0,,我们要出发了\N{\fnArial\fs40\bord2}We're going!
-Dialogue: 0,0:18:56.83,0:18:58.76,Default,,0,0,0,,我要出发了\N{\fnArial\fs40\bord2}I'm going!
+Dialogue: 0,0:18:56.20,0:18:58.76,Default,,0,0,0,,我在走了...在走了\N{\fnArial\fs40\bord2}I'm going! I'm going!
 Dialogue: 0,0:19:01.66,0:19:03.04,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh!
 Dialogue: 0,0:19:03.14,0:19:04.97,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Ah!
-Dialogue: 0,0:19:05.07,0:19:07.32,Default,,0,0,0,,米基 不要\N{\fnArial\fs40\bord2}Mikey, no!
+Dialogue: 0,0:19:05.07,0:19:07.32,Default,,0,0,0,,麦奇 不要\N{\fnArial\fs40\bord2}Mikey, no!
 Dialogue: 0,0:19:07.42,0:19:09.32,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh!
 Dialogue: 0,0:19:19.47,0:19:21.26,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh!
 Dialogue: 0,0:19:21.37,0:19:23.06,Default,,0,0,0,,啊\N{\fnArial\fs40\bord2}Uh!
-Dialogue: 0,0:19:30.62,0:19:33.00,Default,,0,0,0,,你竟敢\N{\fnArial\fs40\bord2}You dare!
-Dialogue: 0,0:19:40.49,0:19:41.66,Default,,0,0,0,,数据芯片在我这儿\N{\fnArial\fs40\bord2}I have the data bits.
+Dialogue: 0,0:19:30.62,0:19:33.00,Default,,0,0,0,,好大的胆子\N{\fnArial\fs40\bord2}You dare!
+Dialogue: 0,0:19:40.49,0:19:41.66,Default,,0,0,0,,拿到数据碎片了\N{\fnArial\fs40\bord2}I have the data bits.
 Dialogue: 0,0:19:41.77,0:19:42.94,Default,,0,0,0,,那咱们快撤\N{\fnArial\fs40\bord2}Then let's get out of here.
-Dialogue: 0,0:19:43.04,0:19:44.11,Default,,0,0,0,,去找米基\N{\fnArial\fs40\bord2}Get Mikey.
-Dialogue: 0,0:19:44.22,0:19:46.12,Default,,0,0,0,,我来对付斯莱德 去救拉斐尔\N{\fnArial\fs40\bord2}I'll take care of The Shredder and get Raph.
+Dialogue: 0,0:19:43.04,0:19:44.11,Default,,0,0,0,,去救麦奇\N{\fnArial\fs40\bord2}Get Mikey.
+Dialogue: 0,0:19:44.22,0:19:46.12,Default,,0,0,0,,我来对付斯莱德 和救拉斐尔\N{\fnArial\fs40\bord2}I'll take care of The Shredder and get Raph.
 Dialogue: 0,0:19:52.74,0:19:53.50,Default,,0,0,0,,呃\N{\fnArial\fs40\bord2}Uh.
 Dialogue: 0,0:19:59.75,0:20:01.37,Default,,0,0,0,,哦\N{\fnArial\fs40\bord2}Oooh!
 Dialogue: 0,0:20:05.34,0:20:06.65,Default,,0,0,0,,谢了 兄弟\N{\fnArial\fs40\bord2}Thanks, bro.
 Dialogue: 0,0:20:18.32,0:20:18.87,Default,,0,0,0,,这边走\N{\fnArial\fs40\bord2}This way!
 Dialogue: 0,0:20:18.98,0:20:20.15,Default,,0,0,0,,快点\N{\fnArial\fs40\bord2}Come on!
-Dialogue: 0,0:20:30.02,0:20:32.16,Default,,0,0,0,,这下要险胜了\N{\fnArial\fs40\bord2}This is gonna be close!
+Dialogue: 0,0:20:30.02,0:20:32.16,Default,,0,0,0,,得抓紧了\N{\fnArial\fs40\bord2}This is gonna be close!
 Dialogue: 0,0:20:43.55,0:20:44.93,Default,,0,0,0,,别管我\N{\fnArial\fs40\bord2}Don't mind me.
-Dialogue: 0,0:20:45.04,0:20:49.49,Default,,0,0,0,,我只是个为了方便你们而卡在这的金属减速带\N{\fnArial\fs40\bord2}I'm just a metallic speedbump stuck here for your convenience.
+Dialogue: 0,0:20:45.04,0:20:47.39,Default,,0,0,0,,我只是个金属减速带\N{\fnArial\fs40\bord2}I'm just a metallic speedbump
+Dialogue: 0,0:20:47.39,0:20:49.49,Default,,0,0,0,,为了方便你们而困在这里了\N{\fnArial\fs40\bord2}stuck here for your convenience.
 Dialogue: 0,0:20:49.59,0:20:51.15,Default,,0,0,0,,拉夫 你没事吧\N{\fnArial\fs40\bord2}Raph, you okay?
-Dialogue: 0,0:20:51.25,0:20:51.97,Default,,0,0,0,,好的\N{\fnArial\fs40\bord2}Yeah.
-Dialogue: 0,0:20:52.08,0:20:54.74,Default,,0,0,0,,但下次我来开车\N{\fnArial\fs40\bord2}But next time, I'm driving.
+Dialogue: 0,0:20:51.25,0:20:51.97,Default,,0,0,0,,没事\N{\fnArial\fs40\bord2}Yeah.
+Dialogue: 0,0:20:52.08,0:20:54.74,Default,,0,0,0,,但下次 我来开车\N{\fnArial\fs40\bord2}But next time, I'm driving.
 Dialogue: 0,0:20:54.84,0:20:56.84,Default,,0,0,0,,而且很快就会有下次\N{\fnArial\fs40\bord2}And the next time will be soon.
-Dialogue: 0,0:21:08.27,0:21:10.34,Default,,0,0,0,,里面还有更多斯普林特大师的数据碎片\N{\fnArial\fs40\bord2}There are a lot more of Master Splinter's data bits
-Dialogue: 0,0:21:10.44,0:21:11.96,Default,,0,0,0,,就在那里\N{\fnArial\fs40\bord2}in there.
-Dialogue: 0,0:21:12.06,0:21:16.14,Default,,0,0,0,,我们绝不会罢休 直到把最后一个也抓到手\N{\fnArial\fs40\bord2}And we're not gonna stop until we get every last one.
-Dialogue: 0,0:21:16.24,0:21:19.17,Default,,0,0,0,,即使碎纸机就在里面等着我们\N{\fnArial\fs40\bord2}Even if The Shredder is in there waiting for us.
+Dialogue: 0,0:21:08.27,0:21:11.96,Default,,0,0,0,,里面还有更多斯普林特老师的数据碎片\N{\fnArial\fs40\bord2}There are a lot more of Master Splinter's data bits in there.
+Dialogue: 0,0:21:12.06,0:21:16.14,Default,,0,0,0,,我们绝不会罢休 直到把最后一个也拿到手\N{\fnArial\fs40\bord2}And we're not gonna stop until we get every last one.
+Dialogue: 0,0:21:16.24,0:21:19.17,Default,,0,0,0,,即使施莱德就在里面等着我们\N{\fnArial\fs40\bord2}Even if The Shredder is in there waiting for us.
 Dialogue: 0,0:21:34.12,0:21:36.88,Default,,0,0,0,,乌龟们有一个网络传送门\N{\fnArial\fs40\bord2}The turtles have a cyber-portal.
 Dialogue: 0,0:21:36.99,0:21:38.47,Default,,0,0,0,,有意思\N{\fnArial\fs40\bord2}Interesting.
 Dialogue: 0,0:21:38.57,0:21:41.78,Default,,0,0,0,,非常有意思\N{\fnArial\fs40\bord2}Very interesting.

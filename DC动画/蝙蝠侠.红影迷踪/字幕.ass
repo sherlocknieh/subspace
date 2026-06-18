@@ -17,10 +17,10 @@ Audio File: [超清] 蝙蝠侠.红影迷踪.Batman.Under.The.Red.Hood.2010.x264.
 Video File: [超清] 蝙蝠侠.红影迷踪.Batman.Under.The.Red.Hood.2010.x264.1080P.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 963
-Active Line: 977
-Video Position: 768
+Video Zoom Percent: 0.375000
+Scroll Position: 206
+Active Line: 213
+Video Position: 22272
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,7 +230,7 @@ Dialogue: 0,0:06:14.35,0:06:14.39,ZHU,,0,0,0,,{=14}{\bord0.96\fscx95.64\fscy90.8
 Dialogue: 0,0:06:14.39,0:06:14.43,ZHU,,0,0,0,,{=14}{\bord0.94\fscx94.07\fscy89.37\fs200\c&H00434F3D&\pos(950.42,605.2)}蝙蝠侠
 Dialogue: 0,0:06:14.43,0:06:14.47,ZHU,,0,0,0,,{=14}{\bord0.89\fscx88.84\fscy84.4\fs200\c&H0021301D&\pos(950.84,568.71)}蝙蝠侠
 Dialogue: 0,0:06:14.47,0:06:14.52,ZHU,,0,0,0,,{=14}{\bord0.81\fscx80.69\fscy76.66\fs200\c&H000C1907&\pos(951.46,508.71)}蝙蝠侠
-Dialogue: 0,0:06:09.44,0:06:14.50,特效,,0,0,0,,{\fs75\c&H00F9F5FA&\3c&H00010062&\b1\fad(0,400)}{\move(935,1030,935,910)\t(<\fs60>)}\h\h\h\h\h\h红  影  迷  踪\h\h\h\h\h\h
+Dialogue: 0,0:06:09.44,0:06:14.50,特效,,0,0,0,,{\fs75\c&H00F9F5FA&\3c&H00010062&\b1\fad(0,400)}{\move(935,1010,935,920)\t(<\fs60>)}\h\h\h\h\h\h\h\h红  影  迷  踪\h\h\h\h\h\h\h\h
 Dialogue: 0,0:07:34.15,0:07:39.00,ZHU,,0,0,0,,{\fs80\b0\c&H000FABEA&\pos(960,850)\fad(80,400)}哥谭市
 Dialogue: 0,0:07:34.15,0:07:39.00,ZHU,,0,0,0,,{\fs60\fscx100\b1\c&H00FFFFFF&\pos(960,975)\fad(80,400)}五 年 后
 Dialogue: 0,0:15:27.25,0:15:27.47,ZHU,,0,0,0,,{\c&H00CFF123&\t(<\c&H00D3F230&>)\fscy80\fs70\b0}{\move(655,620,644,615)}目标已锁定
@@ -239,12 +239,7 @@ Dialogue: 0,0:15:28.01,0:15:28.14,ZHU,,0,0,0,,{\c&H00A8CE12&\t(<\c&H009DBD2A&>)\
 Dialogue: 0,0:15:28.34,0:15:28.47,ZHU,,0,0,0,,{\c&H00A8CE12&\t(<\c&H009DBD2A&>)\fscy80\fs70\b0}{\move(441,635,385,625)}目标已锁定
 Dialogue: 0,0:15:28.66,0:15:28.81,ZHU,,0,0,0,,{\c&H00A8CE12&\t(<\c&H009DBD2A&>)\fscy80\fs70\b0}{\move(265,615,265,635)}目标已锁定
 Dialogue: 0,0:15:29.01,0:15:29.14,ZHU,,0,0,0,,{\c&H00A8CE12&\t(<\c&H009DBD2A&>)\fscy80\fs70\b0}{\move(250,635,235,630)}目标已锁定
-Dialogue: 0,0:15:27.25,0:15:27.42,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
-Dialogue: 0,0:15:27.59,0:15:27.75,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
-Dialogue: 0,0:15:27.92,0:15:28.09,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
-Dialogue: 0,0:15:28.26,0:15:28.42,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
-Dialogue: 0,0:15:28.59,0:15:28.75,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
-Dialogue: 0,0:15:28.92,0:15:29.09,ZHU,,0,0,0,,{\c&H00CFF123&\fscy80\fscx120\pos(1400,850)\fs70\b0}数据上传至卫星
+Dialogue: 0,0:15:27.25,0:15:29.09,ZHU,,0,0,0,,{\c&H00CFF123&\pos(1400,850)\fs70\b0}数据上传至卫星
 Dialogue: 0,0:17:14.65,0:17:15.16,ZHU,,0,0,0,,{\c&H00E8A46B&\fax0.5\fr25\fry10\b1\fscy220\pos(1046,891)}自动驾驶
 Dialogue: 0,0:17:21.41,0:17:26.88,ZHU,,0,0,0,,{\fs50\c&H00FFFFFF&\b1\pos(915,70)}ACE化工厂——Joker起源之地
 Dialogue: 0,0:19:05.01,0:19:05.69,ZHU,,0,0,0,,{\c&H0092932C&\fs80\b0\pos(532,304)}读取

@@ -1,0 +1,17 @@
+# 1.无损切片
+ffmpeg -i "Teenage.Mutant.Ninja.Turtles.S01E01.Things.Change.1080p.UPSCALED.DDP.2.0.x265-edge2020.mkv" -f segment -segment_times 44,0:01:40,0:01:52,0:11:16,0:21:16 -c copy -reset_timestamps 1 "%02d.mkv"
+
+# 截取完整片尾
+ffmpeg -i "S01E01 - Things Change [1080p].mkv" -f segment -segment_times 0:21:02.51 -c copy "v2%02d.mkv"
+
+# 2.精确切片
+ffmpeg -i "02.mkv" -to 00:00:03.000 -c:v hevc_qsv -profile:v main10 -pix_fmt p010le -global_quality 20 -c:a copy "01+.mkv"
+ffmpeg -i "02.mkv" -ss 00:00:03.000 -c:v hevc_qsv -profile:v main10 -pix_fmt p010le -global_quality 20 -c:a copy "02+.mkv"
+
+# 3.重组合并
+dir *.mkv | % { "file '$($_.Name)'" } > list.txt
+# 修改 list.txt
+ffmpeg -f concat -safe 0 -i list.txt -c copy 02-final.mkv
+
+# 5.批量烧录字幕并输出 MP4
+Get-ChildItem *.mkv | ForEach-Object { ffmpeg -i $_.Name  -vf "subtitles='$($_.BaseName).ass'" -c:v h264_qsv -q:v 20 -c:a copy "OUT-$($_.BaseName).mp4" }

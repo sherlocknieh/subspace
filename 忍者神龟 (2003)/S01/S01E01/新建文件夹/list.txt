@@ -1,0 +1,7 @@
+file '00-开场.mp4'
+file '01-片头曲.mp4'
+file '02-正片01.mp4'
+file '02-正片02.mp4'
+file '02-正片03.mp4'
+file '02-正片04.mp4'
+file '03-片尾曲.mp4'

@@ -1,0 +1,755 @@
+[Script Info]
+Title: Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.80,0:00:19.80,Default,,0,0,0,,晚上好欢迎收看TheCulpeperMinute \NGood evening, and welcome to The Culpeper Minute.
+Dialogue: 0,0:00:25.60,0:00:27.20,Default,,0,0,0,,自史上最畅销的自传——《面罩之下》 It's been nearly a decade.. .
+Dialogue: 0,0:00:27.20,0:00:30.00,Default,,0,0,0,,披露最初的蒙面英雄团体 …since thebest-sellingautobiography Under the Hood.
+Dialogue: 0,0:00:30.00,0:00:33.79,Default,,0,0,0,,“新民兵”的秘密以来 revealed secrets of the original band of masked adventurers.
+Dialogue: 0,0:00:33.79,0:00:35.79,Default,,0,0,0,,已有将近十年了 ..the new Minutemen.
+Dialogue: 0,0:00:35.79,0:00:39.20,Default,,0,0,0,,1975年TheCulpeperMinute刚在电视上播出时 In 1975, when TheCulpeper Minute was new to the airwaves..
+Dialogue: 0,0:00:39.20,0:00:42.40,Default,,0,0,0,,我们采访了《面罩之下》的作者———霍利斯·梅森 names ofw ons hande dig.Justwh Hehas attril …we profiled the author of Under the Hood, Hollis Mason.…. gone?you
+Dialogue: 0,0:00:42.40,0:00:45.20,Default,,0,0,0,,前任蒙面英雄人称夜枭 sofW ons h ustwh Hehas theformeradventurerknownasNiteOwl you
+Dialogue: 0,0:00:45.20,0:00:50.20,Default,,0,0,0,,在我最初的报道在1975年播出时《基恩法案》尚未通过 Whenmyoriginal report aired in1975,the Keene Act had notyetbeenpassed
+Dialogue: 0,0:00:50.20,0:00:54.80,Default,,0,0,0,,现在这项有争议的法案禁止所有变装英雄和蒙面英雄的存在 Now,this controversial bill outlawed all costumed adventurers andmaskedheroes
+Dialogue: 0,0:00:54.80,0:00:58.20,Default,,0,0,0,,考虑到目前围绕着蒙面正义这一主题的不安定局面 tigatior Given our current climate of unrest around the subject of masked justice..
+Dialogue: 0,0:00:58.20,0:00:58.80,Default,,0,0,0,,考虑到目前围绕着蒙面正义这一主题的不安定局面 Given our current climate of unrest around the subject of masked justice..
+Dialogue: 0,0:00:58.80,0:01:02.80,Default,,0,0,0,,我们认为重温当初的故事 …we thought it would be interesting to revisit that original episode.
+Dialogue: 0,0:01:02.80,0:01:05.40,Default,,0,0,0,,提醒大家整个变装英雄事迹的开端 …as a reminder of where the whole phenomena….
+Dialogue: 0,0:01:05.40,0:01:08.00,Default,,0,0,0,,会十分有趣 …of costumed heroics began.
+Dialogue: 0,0:01:13.20,0:01:18.00,Default,,0,0,0,,今晚我们将与霍利斯·梅森谈论他的自传——《面罩之下》 Tonight we're talking with Hollis Mason about his autobiography, Under the Hood.
+Dialogue: 0,0:01:18.00,0:01:21.00,Default,,0,0,0,,霍利斯·梅森的回忆录揭露了一些 Hollis Mason's memoirs revealed some of the secrets..
+Dialogue: 0,0:01:21.00,0:01:22.60,Default,,0,0,0,,关于蒙面英雄的秘密 …of the maskedadventurers.
+Dialogue: 0,0:01:22.60,0:01:28.00,Default,,0,0,0,,我与霍利斯在他最喜欢的纽约饭店theGungaDiner见了面 I met with Hollis at one of his favorite New York establishments,the Gunga Diner.
+Dialogue: 0,0:01:30.79,0:01:33.00,Default,,0,0,0,,在12岁时来到纽约 Coming to New York at 12 years old..
+Dialogue: 0,0:01:33.00,0:01:37.80,Default,,0,0,0,,对我来说 在很多方面都很梦幻 it was, uh, fantastic for me in a lot of ways.
+Dialogue: 0,0:01:37.80,0:01:43.00,Default,,0,0,0,,我的父亲在7号大街的弗农汽修店找到了一份工作 And my dad got a job at Vernon's Auto Repair off 7th Avenue.
+Dialogue: 0,0:01:43.00,0:01:44.20,Default,,0,0,0,,现在是梅森汽修店了 对吧？ Now Mason's,right?
+Dialogue: 0,0:01:44.20,0:01:46.80,Default,,0,0,0,,没错 Now Mason's. Yeah, yeah.
+Dialogue: 0,0:01:46.80,0:01:48.00,Default,,0,0,0,,同一个地方 Same place.
+Dialogue: 0,0:01:48.00,0:01:49.80,Default,,0,0,0,,然而你没有追随你父亲的脚步 CULPEPER: Yet you didn't follow in your father's footsteps.
+Dialogue: 0,0:01:49.80,0:01:51.20,Default,,0,0,0,,你选择了另一条道路 Youchose another path
+Dialogue: 0,0:01:51.20,0:01:54.20,Default,,0,0,0,,是的当我23岁时 MASON:Well,yeah,when Iwas2..
+Dialogue: 0,0:01:54.20,0:01:57.60,Default,,0,0,0,,我加入了纽约市警察局 ..IjoinedtheNew YorkCityPoliceDepartment.
+Dialogue: 0,0:01:57.60,0:02:01.40,Default,,0,0,0,,我认为这跟我爷爷 And I think that that had a lot to do withmy grandfather..
+Dialogue: 0,0:02:01.40,0:02:03.80,Default,,0,0,0,,以及他灌输给我的价值观有很大的关系 …andthevaluesthat he'd instilled inme
+Dialogue: 0,0:02:03.80,0:02:08.40,Default,,0,0,0,,因为在12岁以前 很多时间是和我爷爷一起度过的 Because for thefirst 12yearsof my life,I spent a lotof time withmy granddad.
+Dialogue: 0,0:02:08.40,0:02:11.19,Default,,0,0,0,,他总是给我留下这样的印象 He was always keen to impress upon me.
+Dialogue: 0,0:02:11.19,0:02:18.19,Default,,0,0,0,,乡下人在生活方式上比城市居民更道德 …that countryfolkweremorallyhealthier thancityfolk,thewaythey lived
+Dialogue: 0,0:02:18.19,0:02:20.40,Default,,0,0,0,,当然 在某些方面乡下人会存在竞争 Of course you were competitive in certain ways.
+Dialogue: 0,0:02:20.40,0:02:23.00,Default,,0,0,0,,但他们也会互相帮助 But you were also-- You helped each other.
+Dialogue: 0,0:02:23.00,0:02:27.20,Default,,0,0,0,,这是一种刻在我脑子里的道德观 And it was kind of a moral value that stuck with me.
+Dialogue: 0,0:02:27.20,0:02:29.80,Default,,0,0,0,,当我第一次来到这座城市 And when I first got to the city..
+Dialogue: 0,0:02:29.80,0:02:35.59,Default,,0,0,0,,看到的一些事情真的令我作呕 …there were thingsI sawthat reallyfilledmewithdisgust..
+Dialogue: 0,0:02:35.59,0:02:40.80,Default,,0,0,0,,有些事我很难接受 that I found a hard time shaking, and, you know, some really--
+Dialogue: 0,0:02:40.80,0:02:43.40,Default,,0,0,0,,有些到现在还是接受不了  Some of it I still can't.
+Dialogue: 0,0:02:54.20,0:02:57.00,Default,,0,0,0,,我爷爷教给我的东西 What my grandfather gave me.
+Dialogue: 0,0:02:57.00,0:03:00.40,Default,,0,0,0,,和我在这座城市面对的东西 …and what I was confronted with in the city-
+Dialogue: 0,0:03:00.40,0:03:04.40,Default,,0,0,0,,当它们差距太大我实在接受不了时 When the distance between those things got too great and I couldn't deal with it..
+Dialogue: 0,0:03:04.40,0:03:10.60,Default,,0,0,0,,我就会投入别的世界———流行小说的世界 then I would go to myreal other world,the world of pulp-fiction novels.
+Dialogue: 0,0:03:12.00,0:03:15.80,Default,,0,0,0,,它们描述了一个有着绝对价值观的世界 They described a world of absolute values..
+Dialogue: 0,0:03:15.80,0:03:18.80,Default,,0,0,0,,CATION 那个世界的真善美从不受怀疑 where what was goodand true was never in doubt
+Dialogue: 0,0:03:18.80,0:03:20.80,Default,,0,0,0,,而邪恶 And evil was
+Dialogue: 0,0:03:20.80,0:03:22.80,Default,,0,0,0,,总会受到应有的惩罚 An evririwas
+Dialogue: 0,0:03:22.80,0:03:24.60,Default,,0,0,0,,总会受到应有的惩罚 Well, it received its appropriate punishment
+Dialogue: 0,0:03:24.60,0:03:27.00,Default,,0,0,0,,这就是你追求的生活吗？ Is thathowyou'veledyour life, then?
+Dialogue: 0,0:03:27.00,0:03:30.00,Default,,0,0,0,,这是我一直在努力实现的 That's what I've tried to do. Um.
+Dialogue: 0,0:03:31.80,0:03:33.00,Default,,0,0,0,,没错 Yeah.
+Dialogue: 0,0:03:33.20,0:03:35.80,Default,,0,0,0,,霍利斯·梅森 理想化的年轻警察 Hollis Mason, idealizing young cop.….
+Dialogue: 0,0:03:35.80,0:03:38.80,Default,,0,0,0,,试图理解他爷爷的乡村价值观 ….trying tomake sense ofgranddad's country values..
+Dialogue: 0,0:03:38.80,0:03:42.00,Default,,0,0,0,,以及他自己居住的大城市的粗犷 …and thegritofthebigcityhefindshimself living in.
+Dialogue: 0,0:03:42.00,0:03:46.80,Default,,0,0,0,,很快警察及其代表的司法正义就无法满足年轻的梅森了 Soon enough, the police force and its brand of justice is not enough for young Mason.
+Dialogue: 0,0:03:46.80,0:03:50.80,Default,,0,0,0,,长期以来作为侦探小说和英雄主义漫画的粉丝 Long a fan of pulp detective fiction and comic-book heroics..
+Dialogue: 0,0:03:50.80,0:03:53.60,Default,,0,0,0,,梅森做了别人只会幻想的事 ..Masondidwhatothersonlyfantasizeabout
+Dialogue: 0,0:03:53.60,0:03:55.00,Default,,0,0,0,,他给自己做了套伪装 He made himself a disguise.
+Dialogue: 0,0:03:55.00,0:03:56.40,Default,,0,0,0,,并在夜间以义警的身份出没 …and setout inthenightsas a vigilante.
+Dialogue: 0,0:03:56.40,0:03:56.60,Default,,0,0,0,,in theni a vigilante. ..and set out hig
+Dialogue: 0,0:03:56.60,0:03:58.00,Default,,0,0,0,,发以义警的身份出没
+Dialogue: 0,0:03:58.00,0:04:00.80,Default,,0,0,0,,年他自己的方式维护正义
+Dialogue: 0,0:04:00.80,0:04:04.40,Default,,0,0,0,,是什么影响了梅森行为的转变？ What influenced this shift in Mason's behavior?
+Dialogue: 0,0:04:06.00,0:04:10.00,Default,,0,0,0,,当你想起这个会觉得有趣 It's funny when you think about it.
+Dialogue: 0,0:04:10.00,0:04:12.40,Default,,0,0,0,,我听说了所有的 You know, I've heard all the--
+Dialogue: 0,0:04:12.40,0:04:15.80,Default,,0,0,0,,所有的笑话、 谣言和影射 Allthejokesandalltherumorsandalltheinnuendos
+Dialogue: 0,0:04:15.80,0:04:17.80,Default,,0,0,0,,对我来说真正重要的 What it really comes down to for me.
+Dialogue: 0,0:04:17.80,0:04:18.00,Default,,0,0,0,,重要 对来说
+Dialogue: 0,0:04:18.20,0:04:18.39,Default,,0,0,0,,对我来说 正重
+Dialogue: 0,0:04:18.39,0:04:18.60,Default,,0,0,0,,What it ree comes cown forine.
+Dialogue: 0,0:04:18.60,0:04:22.00,Default,,0,0,0,,是我打扮得像一只猫头鹰打犯罪 isthat I dressed ualiko an owl and fought crime.
+Dialogue: 0,0:04:22.00,0:04:24.39,Default,,0,0,0,,是我打扮得像一只猫头鹰打击犯罪 …is that I dressed up like an owl and I fought crime..
+Dialogue: 0,0:04:24.39,0:04:27.00,Default,,0,0,0,,因为这根有趣 hecanse it was fun.
+Dialogue: 0,0:04:27.00,0:04:30.39,Default,,0,0,0,,因为这是正确的事 Andbecauseitas theriahtthingtodo
+Dialogue: 0,0:04:30.39,0:04:33.60,Default,,0,0,0,,还有就是因为我享受其中 And because I darn well enjoyed it.
+Dialogue: 0,0:04:35.19,0:04:40.19,Default,,0,0,0,,我想我在1938年就开始有了这样的想法 I suppose it really started to take shape for me in 1938.
+Dialogue: 0,0:04:40.19,0:04:42.19,Default,,0,0,0,,我发现很多孩子都在看第一期动作漫画 And onmybeatthere werealotofkidsreadingthatfirst issueof ActionComics
+Dialogue: 0,0:04:42.19,0:04:42.40,Default,,0,0,0,,我发现很多孩子都在看第 一期动作漫画 Andonmybeat therewere omics
+Dialogue: 0,0:04:42.40,0:04:42.60,Default,,0,0,0,,一期动作漫画NG 我发现很多孩子都在看第
+Dialogue: 0,0:04:42.60,0:04:43.60,Default,,0,0,0,,我发现很多孩子都在看第一期动作漫画NG AndonmybeattherewerealotofkidsreadingthatfirstissueofAction Comics.
+Dialogue: 0,0:04:43.60,0:04:43.80,Default,,0,0,0,,我发现很多孩子都在看第一期动 Andonmybeatthere Wereaot
+Dialogue: 0,0:04:43.80,0:04:44.60,Default,,0,0,0,,我发现很多孩子都在看第一期动作漫画 And onmy beat there were a lot ofkidsreadingthatfirst issue ofAction Comics.
+Dialogue: 0,0:04:44.60,0:04:46.00,Default,,0,0,0,,我发现很多孩子都在看第一期动作漫画 Andonmyb beattherewere alotofkidsreadingthatfirstissueofAction Comics.
+Dialogue: 0,0:04:46.00,0:04:48.60,Default,,0,0,0,,我完全被吸引住了 I was so drawn, I couldn't help it.
+Dialogue: 0,0:04:48.60,0:04:51.60,Default,,0,0,0,,我问了其中一个孩子能不能借我看看 asked oneofthekids ifI couldborrow it and take a look at it.
+Dialogue: 0,0:04:51.60,0:04:51.80,Default,,0,0,0,,DON笛 期超人 GET THATHIMEAPE! AS SUPERMAN Guy!Andthat first issueofSuperman.
+Dialogue: 0,0:04:51.80,0:04:52.60,Default,,0,0,0,,第一期超人 OF SHOTS.... And that first issue of Superman...
+Dialogue: 0,0:04:52.60,0:04:55.80,Default,,0,0,0,,第一期超人 And that first issue of Superman..
+Dialogue: 0,0:04:55.80,0:04:59.00,Default,,0,0,0,,哇真的震撼到我了 …wow, knocked me out.
+Dialogue: 0,0:04:59.00,0:05:03.40,Default,,0,0,0,,超人对你的影响最大对很多孩子都是 Okay, Superman was your biggest influence, and it was to a lot of kids.
+Dialogue: 0,0:05:03.40,0:05:03.60,Default,,0,0,0,,对很多孩子都是 uencearitwas tolot
+Dialogue: 0,0:05:03.60,0:05:06.00,Default,,0,0,0,,但是你把它更进一步了 But you took it even further.
+Dialogue: 0,0:05:06.00,0:05:10.00,Default,,0,0,0,,有一天我翻开报纸一切都变了 MASON: Well, it all changed when I opened the newspaper one day..
+Dialogue: 0,0:05:10.00,0:05:15.80,Default,,0,0,0,,我看到这些角色突破了他们的四色世界 and I saw that these characters had escaped from their four-color world..
+Dialogue: 0,0:05:15.80,0:05:22.19,Default,,0,0,0,,他们现在上了真正的头条新闻 …and they were now in the factual black-and-white world of the headlines.
+Dialogue: 0,0:05:24.80,0:05:28.60,Default,,0,0,0,,一场袭击与抢劫 An attempted assault and robbery was thwarted by a figure..
+Dialogue: 0,0:05:28.60,0:05:32.00,Default,,0,0,0,,被一个据说是从天而降到小巷 …who supposedly dropped into the alleyway from above..
+Dialogue: 0,0:05:32.00,0:05:34.00,Default,,0,0,0,,带着面具的人挫败了 ..with something over his face.
+Dialogue: 0,0:05:34.00,0:05:37.40,Default,,0,0,0,,他缴械了三个歹徒 And he then proceeded to disarm the three attackers..
+Dialogue: 0,0:05:37.40,0:05:41.80,Default,,0,0,0,,把他们三个人都揍到了医院 and beat them with such severity that all three were hospitalized
+Dialogue: 0,0:05:41.80,0:05:46.00,Default,,0,0,0,,报纸开始叫他兜帽判官 The newspapers started calling him Hooded Justice.
+Dialogue: 0,0:05:46.00,0:05:49.60,Default,,0,0,0,,他是第一个蒙面义警 And that was the first masked vigilante.
+Dialogue: 0,0:05:49.80,0:05:50.00,Default,,0,0,0,,他是第 个家面义
+Dialogue: 0,0:05:50.00,0:05:50.20,Default,,0,0,0,,And that wass th
+Dialogue: 0,0:05:50.20,0:05:50.40,Default,,0,0,0,,astheirs kedvigilante
+Dialogue: 0,0:05:50.40,0:05:50.60,Default,,0,0,0,,Ana inatwasthefirstm igil
+Dialogue: 0,0:05:50.60,0:05:51.00,Default,,0,0,0,,敬 wasthomistmasitedaigilnte
+Dialogue: 0,0:05:51.00,0:05:55.20,Default,,0,0,0,,当我听到这个故事的时候我就下定了决心 And when I heard that story I made up my mind right then..
+Dialogue: 0,0:05:55.20,0:05:59.00,Default,,0,0,0,,我将会是第二个 .lwas gonna be the second.
+Dialogue: 0,0:05:59.00,0:06:02.20,Default,,0,0,0,,休息一下马上回来 We have to take abreakforoursponsorsnow,butwhenwecomeback..
+Dialogue: 0,0:06:02.20,0:06:06.60,Default,,0,0,0,,我们有更多关于1975年的蒙面英雄的故事 …more from our 1975 story on masked adventurers.
+Dialogue: 0,0:06:39.40,0:06:41.00,Default,,0,0,0,,感谢收看 Thank you for staying with us.
+Dialogue: 0,0:06:41.00,0:06:44.40,Default,,0,0,0,,我们现在继续回顾《面罩之下》 We return now to our retrospective look at Under the Hood..
+Dialogue: 0,0:06:44.40,0:06:47.60,Default,,0,0,0,,以及在如今这些蒙面英雄对我们来说意味着什么 …and what these men and women mean to us today.
+Dialogue: 0,0:06:49.20,0:06:51.80,Default,,0,0,0,,为什么你会想出猫头鹰服装？ GRAPHY CULPEPER:Whydid you comeup withthe owl costume?
+Dialogue: 0,0:06:51.80,0:06:54.00,Default,,0,0,0,,gerous 这个想法的产生 and elusi MASON: It really came together...
+Dialogue: 0,0:06:54.00,0:06:55.00,Default,,0,0,0,,是因为另一个跟我一起在警局工作的警察 nd elusiv .because of another cop that I was workingwith inmystation house.
+Dialogue: 0,0:06:55.00,0:06:55.60,Default,,0,0,0,,是因为另一个跟我一起在警局工作的警察 ...because of another cop that I was working with in my station house. perf
+Dialogue: 0,0:06:55.60,0:06:56.20,Default,,0,0,0,,是因为另一个跟我一起在警局工作的警察 or with 8 fea .because of another cop that I was working with in my station house.
+Dialogue: 0,0:06:56.20,0:06:56.40,Default,,0,0,0,,是因为另一个跟我一起在警局工作的警察 crime ear in
+Dialogue: 0,0:06:56.40,0:06:57.00,Default,,0,0,0,,saypoli是因为另一个跟我一起在警局工作的警察 because of another cop that I was working with in my station house.
+Dialogue: 0,0:06:57.00,0:06:57.80,Default,,0,0,0,,是因为另一个跟我一起在警局工作的警察 only tobe because of another cop that I was working with in my station house.
+Dialogue: 0,0:06:57.80,0:07:01.20,Default,,0,0,0,,他总是叫我下班后出去喝酒 Andhekept askingme togooutfor abeer after work
+Dialogue: 0,0:07:01.20,0:07:05.20,Default,,0,0,0,,我一直拒绝因为我想在晚上训练 And I kept saying no, because, you know,I wanted to train at night..
+Dialogue: 0,0:07:05.20,0:07:05.60,Default,,0,0,0,,为我的另一份工作做好准备 and get ready formy other career.
+Dialogue: 0,0:07:05.60,0:07:05.80,Default,,0,0,0,,为拆色 nd getreadydrmylyr m
+Dialogue: 0,0:07:05.80,0:07:06.00,Default,,0,0,0,,在好准 准备 nd getready
+Dialogue: 0,0:07:06.00,0:07:06.20,Default,,0,0,0,,car
+Dialogue: 0,0:07:06.40,0:07:07.20,Default,,0,0,0,,在准备 ndgetreadydr my or
+Dialogue: 0,0:07:07.20,0:07:07.40,Default,,0,0,0,,在准备
+Dialogue: 0,0:07:07.40,0:07:07.60,Default,,0,0,0,,为我的另一份工作做好准备 …and get readyformyother career.
+Dialogue: 0,0:07:07.60,0:07:10.40,Default,,0,0,0,,然后他开始叫我“夜枭” And then he started calling me "night owl.'
+Dialogue: 0,0:07:10.40,0:07:13.20,Default,,0,0,0,,他是在讽刺我 You know, he was being sarcastic.
+Dialogue: 0,0:07:13.20,0:07:18.20,Default,,0,0,0,,我喜欢这个名字我想“好吧就是它了夜枭” And I lovedit.I thought,"Well, that's it, NiteOwl.
+Dialogue: 0,0:07:18.20,0:07:20.80,Default,,0,0,0,,没错这就是“夜枭”来源 Yeah.That's where it camefrom.
+Dialogue: 0,0:07:20.80,0:07:24.00,Default,,0,0,0,,一旦有了名字然后我就可以开始考虑服装的问题了 So once I had the name,then I could start thinking about the costume.
+Dialogue: 0,0:07:24.00,0:07:29.20,Default,,0,0,0,,是否应该有一个面罩？ BACKFOR VENGEANCE Should you have a mask or no mask?
+Dialogue: 0,0:07:29.20,0:07:30.00,Default,,0,0,0,,最终我只留下了最基本的THIS HEINOUSDEED. THE Eventually, I just boiled it down to the basics.
+Dialogue: 0,0:07:30.00,0:07:30.20,Default,,0,0,0,,最终 我只留下了最基本的
+Dialogue: 0,0:07:30.20,0:07:31.60,Default,,0,0,0,,最终我只留下了最基本的 Eventually,I justboileditdown tothebasics
+Dialogue: 0,0:07:31.60,0:07:34.00,Default,,0,0,0,,我需要一套可以自由活动的服装 I needed a costumewhere l wasfree tomove
+Dialogue: 0,0:07:34.00,0:07:39.80,Default,,0,0,0,,我需要保护我的身份 And I needed to protect my identity.
+Dialogue: 0,0:07:39.80,0:07:45.00,Default,,0,0,0,,所以我做了这个覆盖了皮革和锁子甲的紧身上衣 So I did this with a tunic that was covered in leather and mail.
+Dialogue: 0,0:07:45.00,0:07:46.60,Default,,0,0,0,,锁子甲就是一种钢丝网 …akind of steel mesh.
+Dialogue: 0,0:07:46.60,0:07:51.80,Default,,0,0,0,,我的兜帽也是皮革和铁丝网做的 And Ihad a hoodwith-- Itwas leather andsteelmesh again
+Dialogue: 0,0:07:51.80,0:07:56.00,Default,,0,0,0,,然后是三角裤它们覆盖了同样的锁子甲 Andthenbriefs. They were covered inthe same mail.
+Dialogue: 0,0:07:56.00,0:07:59.40,Default,,0,0,0,,我已经把头发遮住了我只需要一个小面罩 So I've got my hair covered and all I need is a littlemask.
+Dialogue: 0,0:07:59.40,0:08:02.00,Default,,0,0,0,,所以我做了这个面罩 SoIdid itwiththis.This is themask.
+Dialogue: 0,0:08:02.00,0:08:05.60,Default,,0,0,0,,我在面罩上粘了一层化妆胶水 I attached this mask with a spirit gum.
+Dialogue: 0,0:08:05.60,0:08:09.80,Default,,0,0,0,,这是演员带假胡子用的 whichiswhatactorsuse to putonmustachesandbeards
+Dialogue: 0,0:08:09.80,0:08:12.80,Default,,0,0,0,,结果 当时有好几个蒙面英雄 onourcity todaywhes CULPEPER: It turnedout, there were severalmaskedadventurersatthetime
+Dialogue: 0,0:08:12.80,0:08:15.20,Default,,0,0,0,,是的在我初次登场大约一个月后 MAsON: Yeah, about a month after I made my debut.
+Dialogue: 0,0:08:15.20,0:08:15.80,Default,,0,0,0,,是的在我初次登场大约一个月后 MASON: Yeah,about a month after I made my debut.loyment
+Dialogue: 0,0:08:15.80,0:08:16.20,Default,,0,0,0,,头条新闻都是关于一个叫剪影的年轻女子 loyment …the headlines were all about a young woman called the Silhouette.
+Dialogue: 0,0:08:16.20,0:08:21.40,Default,,0,0,0,,头条新闻都是关于一个叫剪影的年轻女子 ….theheadlines wereallabout ayoungwomancalledtheSilhouette
+Dialogue: 0,0:08:21.40,0:08:26.80,Default,,0,0,0,,她揭露了一个经营儿童色情制品的无耻出版商 She had exposed a crooked publisher who was dealing in child pornography.
+Dialogue: 0,0:08:26.80,0:08:33.60,Default,,0,0,0,,她还痛扁了他和他的两个摄影师对吧? And she gave him such a brutal beating. Him and his two cameramen, right?
+Dialogue: 0,0:08:33.60,0:08:36.00,Default,,0,0,0,,这是一个很好的故事 Well,that was quite a story.
+Dialogue: 0,0:08:36.40,0:08:37.20,Default,,0,0,0,,从那时起蒙面英雄数量开始迅速增加 NEW YORKFromthereitgrew prettyquickly.
+Dialogue: 0,0:08:37.20,0:08:37.40,Default,,0,0,0,,By CARO
+Dialogue: 0,0:08:37.40,0:08:38.00,Default,,0,0,0,,Watchme从那时起蒙面英雄数量开始迅速增加 Special toThe From there it grew pretty quickly.
+Dialogue: 0,0:08:38.00,0:08:38.40,Default,,0,0,0,,Special to The N nately referredto by thosewho
+Dialogue: 0,0:08:42.20,0:08:43.40,Default,,0,0,0,,ritain agreed that they would notmake concessionsto
+Dialogue: 0,0:08:43.40,0:08:43.79,Default,,0,0,0,,reed that uey wouid not make concessions lo TheAfgh snlitbadly overthe ouestion ofpnnishment upcomingGe
+Dialogue: 0,0:08:44.60,0:08:48.39,Default,,0,0,0,,有很多关于一个穿得像飞蛾的人的故事 There were stories of a man dressed like a moth..
+Dialogue: 0,0:08:48.39,0:08:51.39,Default,,0,0,0,,他可以在空中滑翔 …who could glide through the air.
+Dialogue: 0,0:08:55.00,0:08:59.39,Default,,0,0,0,,后来有一个穿着黄色连衣裤的人的故事 And then there was a story of a man in a yellow boiler suit..
+Dialogue: 0,0:08:59.39,0:09:04.20,Default,,0,0,0,,就是那个特别野蛮凶残的 who was particularly brutal and vicious.
+Dialogue: 0,0:09:04.20,0:09:10.00,Default,,0,0,0,,兜帽判官戏剧性登场的12个月内 In 12 months of Hooded Justice's dramatic entrance.
+Dialogue: 0,0:09:10.00,0:09:13.80,Default,,0,0,0,,至少有另外七个变装义警 .there were at least, oh, seven other costumed vigilantes.
+Dialogue: 0,0:09:13.80,0:09:17.20,Default,,0,0,0,,有莎莉·朱庇特人称丝魂 There was Sally Jupiter, who took the name of Silk Spectre.
+Dialogue: 0,0:09:17.20,0:09:19.39,Default,,0,0,0,,还有美钞、蛾人 Therewas DollarBillthere was Mothman..
+Dialogue: 0,0:09:19.39,0:09:22.00,Default,,0,0,0,,剪影、笑匠 ..there was the Silhouette, there was Comedian.
+Dialogue: 0,0:09:22.00,0:09:25.00,Default,,0,0,0,,当然了还有我 And, of course, there was me.
+Dialogue: 0,0:09:25.00,0:09:27.80,Default,,0,0,0,,梅森告诉我的事几乎都写在他的书里了 Little that Mason told me was not already in his book
+Dialogue: 0,0:09:27.80,0:09:32.80,Default,,0,0,0,,所以我转向他的世界里的其他人物以了解更多信息 So I turned to some of the other figures from his world to find out more.
+Dialogue: 0,0:09:32.80,0:09:33.60,Default,,0,0,0,,roTem outstanding serviceto thecon DERWOOK
+Dialogue: 0,0:09:33.60,0:09:34.60,Default,,0,0,0,,the risk of her life above and beyond the
+Dialogue: 0,0:09:34.60,0:09:35.00,Default,,0,0,0,,k of her life 她利用她的性感打击犯罪dthecallof  She used her sexuality to fight crime...
+Dialogue: 0,0:09:35.00,0:09:35.80,Default,,0,0,0,,她利用她的性感打击犯罪 CityofNew hter inandSheused her sexualitytofightcrime.
+Dialogue: 0,0:09:35.80,0:09:36.80,Default,,0,0,0,,她利用她的性感打击犯罪 Sheused hersexualitytofigtcimeA.K.A.Silk
+Dialogue: 0,0:09:36.80,0:09:37.20,Default,,0,0,0,,她利用她的性感打击犯罪 K.A.Silk Spec ual strength, She used her sexuality to fight crime...
+Dialogue: 0,0:09:37.20,0:09:40.80,Default,,0,0,0,,而且她的打击罪犯生涯延展到了大银幕上 …and her crime fighting to pursue a career on the silver screen
+Dialogue: 0,0:09:40.80,0:09:43.60,Default,,0,0,0,,现在她的女儿靠她的影像生活 the Now her daughter lives on in her image...
+Dialogue: 0,0:09:43.60,0:09:45.00,Default,,0,0,0,,生活似乎抛弃了莎莉·朱庇特 repo .and life seemingly has passed Sally Jupiter by.
+Dialogue: 0,0:09:45.00,0:09:45.20,Default,,0,0,0,,生活似乎抛弃了莎莉·朱庇特 repor of mber
+Dialogue: 0,0:09:45.20,0:09:45.39,Default,,0,0,0,,生活似乎抛弃了莎莉·朱庇特 repor nber of herand lifeseemingly has passed Sally Jupiter by.
+Dialogue: 0,0:09:45.39,0:09:45.60,Default,,0,0,0,,生活似乎抛弃了莎莉·朱庇特 repo mber
+Dialogue: 0,0:09:45.60,0:09:47.20,Default,,0,0,0,,生活似乎抛弃了莎莉·朱庇特 rep hero .and life seemingly has passed Sally Jupiter by
+Dialogue: 0,0:09:47.20,0:09:51.39,Default,,0,0,0,,1975年我们在她家和她进行了以下交流 We joined her at her home for the following exchange back in 1975
+Dialogue: 0,0:09:52.80,0:09:53.20,Default,,0,0,0,,BURGLARY RING
+Dialogue: 0,0:09:53.20,0:09:53.60,Default,,0,0,0,,GREENWICH VILLAGE
+Dialogue: 0,0:09:53.60,0:09:56.20,Default,,0,0,0,,为什么取名丝魂？ CULPEPER: Why the name Silk Spectre?
+Dialogue: 0,0:09:56.20,0:09:57.39,Default,,0,0,0,,这很有趣 JUPITER: You know, it's funny
+Dialogue: 0,0:09:57.39,0:10:01.39,Default,,0,0,0,,很多人都猜测过为什么我会想出这个名字 Many people have hypothesized about reasons why thatmight havecome up.
+Dialogue: 0,0:10:01.39,0:10:04.20,Default,,0,0,0,,而实际上 我想找到一个神秘的名字 And in truth,I wanted to find something mysterious..
+Dialogue: 0,0:10:04.20,0:10:04.60,Default,,0,0,0,,而实际上我想找到一个神秘的名字 the IRS
+Dialogue: 0,0:10:04.60,0:10:05.00,Default,,0,0,0,,而实际上 我想找到一个神秘的名字 the IRS.Hopefully om the everything in fine or wanted to find something mysterious..
+Dialogue: 0,0:10:05.00,0:10:07.39,Default,,0,0,0,,RS.Hopefully, 一个听起来很不错的名字 thing in fine order,despite the n cash and cheques which are somethingthat had a goodring to it,you know? ing held by police for the
+Dialogue: 0,0:10:07.39,0:10:12.20,Default,,0,0,0,,我觉得她应该是一个可以从你手中溜走的人 And Ifelt that she shouldbe somebodywhocouldslipoutofyourhands
+Dialogue: 0,0:10:12.20,0:10:14.80,Default,,0,0,0,,丝袜在当时非常昂贵 Silk stockings, you know, were very expensive at the time.
+Dialogue: 0,0:10:14.80,0:10:19.20,Default,,0,0,0,,我想只是因为丝魂很好听我能说的就这些了 And it just had a goodring to it,I guess, is all I canreallysay
+Dialogue: 0,0:10:19.20,0:10:23.60,Default,,0,0,0,,你成为蒙面英雄的动机是什么？ What were your motivations in becoming a masked adventurer?
+Dialogue: 0,0:10:23.60,0:10:25.20,Default,,0,0,0,,我看到了兜帽判官 I sawHoodedJustice...
+Dialogue: 0,0:10:25.20,0:10:29.80,Default,,0,0,0,,我就有了做一些不同寻常的事情的想法 .and I think the idea of doing something that was out of the normal--
+Dialogue: 0,0:10:29.80,0:10:31.20,Default,,0,0,0,,我从来都不觉得自己很合群 I never feltlike Ireallyfit in.
+Dialogue: 0,0:10:31.20,0:10:32.00,Default,,0,0,0,,Murderer llyJupiterAndIthinkthatbecomingSilkSpectrereallymademeeelactuallymoreathome released on ball
+Dialogue: 0,0:10:32.00,0:10:32.20,Default,,0,0,0,,我觉得成为丝魂让我感觉更 TheN And Ithink that becoming Silk Spectre really
+Dialogue: 0,0:10:32.20,0:10:32.40,Default,,0,0,0,,我觉得成为丝魂让我感觉更自不 Apprentieeshtp EmplomeComm
+Dialogue: 0,0:10:32.40,0:10:32.60,Default,,0,0,0,,我觉得成为丝魂让我感觉更自在tha he grieving Apprenticeship Trust at home.e and th
+Dialogue: 0,0:10:32.60,0:10:32.80,Default,,0,0,0,,Spectre HELPERS between New
+Dialogue: 0,0:10:32.80,0:10:33.00,Default,,0,0,0,,son to a gang related Mayor Safety HE betwee
+Dialogue: 0,0:10:33.00,0:10:33.20,Default,,0,0,0,,the bedroom of a lady who ha ghtthemred-hande
+Dialogue: 0,0:10:33.20,0:10:33.40,Default,,0,0,0,,Were held far death relatt 我觉得成为丝魂让我感觉更自在 vietims.She caught chemre And Ithinkthat becomingSilk Spectre reallymade me feel actually more at home.
+Dialogue: 0,0:10:33.40,0:10:33.80,Default,,0,0,0,,我觉得成为丝魂让我感觉更自在 valuable from hom
+Dialogue: 0,0:10:33.80,0:10:37.40,Default,,0,0,0,,我觉得成为丝魂让我感觉更自在  And I think that becoming Silk Spectre really made me feel actually more at home.
+Dialogue: 0,0:10:37.40,0:10:43.00,Default,,0,0,0,,如今 丝魂以相当不雅的形象出现在海报和漫画中 Now,SilkSpectre ispresented in fairlyracyimageryinpostersand in comics.
+Dialogue: 0,0:10:43.00,0:10:48.00,Default,,0,0,0,,你是如何看待这些视觉上有辱人格的图片的？ Howdoyou deal withthese,what I call, visuallydegradingpictures?
+Dialogue: 0,0:10:48.00,0:10:50.80,Default,,0,0,0,,我对那种事从来没有意见 Oh, I never had a problem with that sort of thing.
+Dialogue: 0,0:10:50.80,0:10:54.80,Default,,0,0,0,,我是说他们总是把我当作性感偶像 I mean, you know, they always referred to me as a sex symbol.
+Dialogue: 0,0:10:54.80,0:10:57.00,Default,,0,0,0,,我不得不说我宁愿成为那种象征 And Ihave to say, I'dratherbe asymbol ofthat.
+Dialogue: 0,0:10:57.00,0:11:00.20,Default,,0,0,0,,而不是其它象征 .than a symbol for other things they've got symbols of
+Dialogue: 0,0:11:00.20,0:11:02.00,Default,,0,0,0,,你明白我的意思吗？ Youknowwhat I mean?
+Dialogue: 0,0:11:02.00,0:11:05.60,Default,,0,0,0,,吉米·范图奇一个著名的暴徒你肯定听说过他 Jimmy Fantucci, a famous mobster, I'm sure you've heard of him.
+Dialogue: 0,0:11:05.60,0:11:09.40,Default,,0,0,0,,因为他不忍心向我开枪他竟然当了警察 He actually turned himself into the cops because he couldn't shoot me.
+Dialogue: 0,0:11:09.40,0:11:13.80,Default,,0,0,0,,就像我说的我从不回避我的外表 You know, as I said, I never shied away from the waythatI looked.
+Dialogue: 0,0:11:13.80,0:11:16.00,Default,,0,0,0,,事实上在这种情况下我可以利用这一点 And, in fact, itseemed in thiscase, I coulduse it.
+Dialogue: 0,0:11:16.00,0:11:20.00,Default,,0,0,0,,蒙面英雄或者随便你想叫他们什么他们都是和商业有关的 Well,maskedadventurers orwhateverwhatyouwannacallthem isallaboutcommerce
+Dialogue: 0,0:11:20.00,0:11:24.80,Default,,0,0,0,,你必须记住_这个国家是建立在娱乐的基础上的 You have to remember that this country was founded on entertainment.
+Dialogue: 0,0:11:24.80,0:11:27.40,Default,,0,0,0,,当我经营莎莉 也就是丝魂的时候  And when I managed Sally, the Silk Spectre..
+Dialogue: 0,0:11:27.40,0:11:33.60,Default,,0,0,0,,我们利用她变装英雄的身份做各种有利可图的交易 ….weusedherstatusas acostumedhero tomakelucrativedealsofeverykind
+Dialogue: 0,0:11:33.60,0:11:38.00,Default,,0,0,0,,电影交易、图片授权、漫画书等 Movie deals, image licensing for pinups, comic books, everything.
+Dialogue: 0,0:11:38.00,0:11:42.60,Default,,0,0,0,,这是一种企业几乎会立刻接受的商业策略 It was a business strategy that corporations picked up on almost immediately.
+Dialogue: 0,0:11:42.60,0:11:45.20,Default,,0,0,0,,美钞原本是堪萨斯大学的明星运动员 DollarBill was originally astarcollegeathlete fromKansas.
+Dialogue: 0,0:11:45.20,0:11:47.20,Default,,0,0,0,,当他们意识到拥有自己的超级英雄 who is hiredby amajordepartment store..
+Dialogue: 0,0:11:47.20,0:11:50.00,Default,,0,0,0,,是一个有趣的宣传前景时 when theyrealizedthat havingtheirownsuperhero..
+Dialogue: 0,0:11:50.00,0:11:53.20,Default,,0,0,0,,一家大型百货公司雇用了美钞 was an interesting publicity prospect
+Dialogue: 0,0:11:53.20,0:11:57.00,Default,,0,0,0,,尽管如此我还是认为我和莎莉是这个概念的先驱  Still, I like to think that Sally and I pioneered the concept.
+Dialogue: 0,0:11:57.00,0:11:59.60,Default,,0,0,0,,当你试图在世界上留下印记时你需要帮助 When you're trying to make a mark in the world, you need help
+Dialogue: 0,0:11:59.60,0:12:04.20,Default,,0,0,0,,你需要一个有凝聚力的人 heroes You need someone who can be sort of the cohesive factor..
+Dialogue: 0,0:12:04.20,0:12:05.00,Default,,0,0,0,,让公众意识到这一点 他确实做到了 nosepurin .in bringing the awareness to the public, and he definitely did that.
+Dialogue: 0,0:12:05.00,0:12:05.60,Default,,0,0,0,,thnothin 让公众意识到这一点他确实做到了LR
+Dialogue: 0,0:12:05.60,0:12:07.00,Default,,0,0,0,,让公众意识到这一点他确实做到了刀D Vhobetter …in bringing the awareness to the public,and he definitely did that.
+Dialogue: 0,0:12:07.00,0:12:07.20,Default,,0,0,0,,pupthe让公众意识到这一点他确实做到了LD ….in bringing the awareness to the public, and he definitely did that.
+Dialogue: 0,0:12:07.20,0:12:07.40,Default,,0,0,0,,Heis 让公众意识到这一点他确实做到了
+Dialogue: 0,0:12:07.40,0:12:07.60,Default,,0,0,0,,让公众意识到这一点他确实做到了D day ne in bringingthe awareness to the public,and he definitely did that
+Dialogue: 0,0:12:07.60,0:12:08.00,Default,,0,0,0,,atatime. 让公众意识到这一点他确实做到了1001
+Dialogue: 0,0:12:08.00,0:12:08.20,Default,,0,0,0,,我认为事实上可能是以牺牲许多人的议题为代价真的 ned And I think, in fact,probably at the expense ofmany people's agendas, really.
+Dialogue: 0,0:12:08.20,0:12:08.80,Default,,0,0,0,,scue我认为事实上可能是以牺牲许多人的议题为代价真的
+Dialogue: 0,0:12:08.80,0:12:09.20,Default,,0,0,0,,1th我认为事实上可能是以牺牲许多人的议题为代价真的 And I think, in fact, probably at theexpense ofmany people's agendas,really
+Dialogue: 0,0:12:09.20,0:12:12.20,Default,,0,0,0,,我认为事实上可能是以牺牲许多人的议题为代价真的 And I think, in fact, probably at the expense of many people's agendas, really.
+Dialogue: 0,0:12:12.20,0:12:14.20,Default,,0,0,0,,我认为你无法做出 I don't think you can make value judgments..
+Dialogue: 0,0:12:14.20,0:12:19.20,Default,,0,0,0,,关于变装英雄对社会是好是坏的价值判断 ..on whether or not costumed heroes are good or bad for society
+Dialogue: 0,0:12:19.20,0:12:22.20,Default,,0,0,0,,这就像问电视是好是坏一样 That's like asking if television is good or bad.
+Dialogue: 0,0:12:22.20,0:12:24.20,Default,,0,0,0,,答案是两者都存在 The answer is that it's both
+Dialogue: 0,0:12:24.20,0:12:28.80,Default,,0,0,0,,直到我们聚在一起时 It was onlyreally when we got together..
+Dialogue: 0,0:12:28.80,0:12:33.00,Default,,0,0,0,,问题才开始出现 ...that the problems started
+Dialogue: 0,0:12:33.00,0:12:35.20,Default,,0,0,0,,民兵组织 没错 The Minutemen, yeah.
+Dialogue: 0,0:12:35.20,0:12:36.80,Default,,0,0,0,,真是个好主意 What a great idea.
+Dialogue: 0,0:12:36.80,0:12:41.20,Default,,0,0,0,,我希望我能把这个功劳占为己有但凭良心讲我不能 I wish I can take credit for it, but I can't in good conscience.
+Dialogue: 0,0:12:41.20,0:12:42.80,Default,,0,0,0,,事情的经过是这样的： The way it happened was...
+Dialogue: 0,0:12:42.80,0:12:44.20,Default,,0,0,0,,有一天，我收到了一封大都会队长给莎莉的信 ….one day I got a letter for Sally from Captain Metropolis
+Dialogue: 0,0:12:44.20,0:12:44.40,Default,,0,0,0,,有一天， ther
+Dialogue: 0,0:12:44.40,0:12:46.60,Default,,0,0,0,,有一天，我收到了一封大都会队长给莎莉的信 Amorleaone dayIgota letterfor Sallyfrom CaptainMetropolismanby
+Dialogue: 0,0:12:46.60,0:12:47.20,Default,,0,0,0,,他说他想聚在一起讨论 mrlea,Hesaidhewantedtogettogetherto discusstheidea.an
+Dialogue: 0,0:12:47.20,0:12:47.40,Default,,0,0,0,,他说他想聚在一起讨论 and by na Hesaio
+Dialogue: 0,0:12:47.40,0:12:48.80,Default,,0,0,0,,lea， and， bo他说他想聚在一起讨论 man by natu He said he wanted to get together to discuss the idea..
+Dialogue: 0,0:12:48.80,0:12:49.40,Default,,0,0,0,,组建一个蒙面英雄团队的想法 natuze naskedadvcnturers
+Dialogue: 0,0:12:49.40,0:12:50.00,Default,,0,0,0,,组建一个蒙面英雄团队的想法 it might b of farminga group oi masked adventurers gie advan
+Dialogue: 0,0:12:50.00,0:12:50.40,Default,,0,0,0,,组建一个蒙面英雄团队的想法 m1ght bof fming aoup oimasked adventurersgie advanta
+Dialogue: 0,0:12:50.40,0:12:51.60,Default,,0,0,0,,1ght 组建一个蒙面英雄团队的想法 advantage af formiing a grsup of masked adventurers.
+Dialogue: 0,0:12:51.60,0:12:55.60,Default,,0,0,0,,起初我以为他是想利用这个主意把她骗上床 first, I thought he was using the idea as a means to get her into bed
+Dialogue: 0,0:12:55.60,0:12:57.60,Default,,0,0,0,,Mot然后我做了一点调查 pta1n Then I did a little research...
+Dialogue: 0,0:12:57.60,0:13:01.00,Default,,0,0,0,,区 我意识到我的担忧 and I learned that my concerns..
+Dialogue: 0,0:13:01.00,0:13:04.80,Default,,0,0,0,,是无稽之谈 .were, yeah, unfounded..
+Dialogue: 0,0:13:04.80,0:13:08.20,Default,,0,0,0,,如果你明白我的意思（ (大都会队长与兜帽判官是同性恋关系) .if youget mymeaning.
+Dialogue: 0,0:13:08.20,0:13:11.20,Default,,0,0,0,,劳伦斯成就了民兵组织 Lawrencemadethe Minutemen.
+Dialogue: 0,0:13:11.20,0:13:14.00,Default,,0,0,0,,如果不是因为他和他的宣传技巧 If it wasn't for him and his knack for publicity
+Dialogue: 0,0:13:14.00,0:13:17.20,Default,,0,0,0,,我是说我认为作为你这个行业的人 你可能会理解 Imean I think as someone in your profession,you could probably understand..
+Dialogue: 0,0:13:17.20,0:13:20.00,Default,,0,0,0,,如果我们做了这个采访 但是没有人看到 that if wedid this interview and no one saw it.
+Dialogue: 0,0:13:20.00,0:13:22.00,Default,,0,0,0,,那么噗这就不重要了 then, poof, it doesn't matter.
+Dialogue: 0,0:13:22.00,0:13:24.80,Default,,0,0,0,,我意识到如果没有偶尔的花招 SHEXNAYDER: I realized that withoutthe occasionalgimmick..
+Dialogue: 0,0:13:24.80,0:13:27.40,Default,,0,0,0,,来重振萎靡不振的公众兴趣 .to revitalize flagging public interest..
+Dialogue: 0,0:13:27.40,0:13:30.20,Default,,0,0,0,,即使是那些穿得像莎莉的变装英雄 ...the fad of costumed heroes...
+Dialogue: 0,0:13:30.20,0:13:33.00,Default,,0,0,0,,公众对他们的一时狂热最终也会消退 …would eventually fade, even the ones dressed like Sally.
+Dialogue: 0,0:13:33.00,0:13:37.00,Default,,0,0,0,,经过一番考虑我建议他们在公报上刊登一个大广告 After some consideration I suggested they take a large ad out in the Gazette..
+Dialogue: 0,0:13:37.00,0:13:40.00,Default,,0,0,0,,请求更多的神秘人站出来 asking for more mystery men to come forward.
+Dialogue: 0,0:13:40.00,0:13:44.20,Default,,0,0,0,,这就是民兵组织的由来 Andthat's howtheMinutemen came tobe.
+Dialogue: 0,0:13:44.20,0:13:46.20,Default,,0,0,0,,你第一次见到笑匠 CULPEPER: Now, when you first met The Comedian..
+Dialogue: 0,0:13:46.20,0:13:48.20,Default,,0,0,0,,夜枭、剪影和其他人时 .Nite Owl, Silhouette and the others..
+Dialogue: 0,0:13:48.20,0:13:52.00,Default,,0,0,0,,你是怎么想的？ 你害怕吗？ …what were your thoughts? Were you intimidated?
+Dialogue: 0,0:13:52.00,0:13:53.60,Default,,0,0,0,,有一种解脱的感觉吗？ Was there a sense of relief?
+Dialogue: 0,0:13:53.60,0:13:57.80,Default,,0,0,0,,我不得不说那是一段令人无比振奋的时光 Oh, it was an incredibly exhilarating time, I have to say.
+Dialogue: 0,0:13:57.80,0:14:01.20,Default,,0,0,0,,我想我们找到了一个 I think we all felt like we were partof a family.
+Dialogue: 0,0:14:01.20,0:14:04.20,Default,,0,0,0,,我们都觉得自己是这个家庭的一部分 ..that we had found sort of a place...
+Dialogue: 0,0:14:04.20,0:14:07.00,Default,,0,0,0,,让我们觉得自己是有价值的地方 where we could feel like we actually were of value.
+Dialogue: 0,0:14:07.00,0:14:09.40,Default,,0,0,0,,每个人都给民兵组织带来了不同的东西 Everyone brought something different to the Minutemen.
+Dialogue: 0,0:14:09.40,0:14:13.20,Default,,0,0,0,,但不知何故 当我们在一起的时候我们都相信自己在做的事情 But somehow when we were together there was a bonding feeling..
+Dialogue: 0,0:14:13.20,0:14:15.40,Default,,0,0,0,,这让我们产生了一种亲密感 …that we all believed in what we were doing.
+Dialogue: 0,0:14:15.40,0:14:20.00,Default,,0,0,0,,现在我说 “解脱”的原因是 Now, the reason I say "relief" is because many ofthe people back in those days..
+Dialogue: 0,0:14:20.00,0:14:23.80,Default,,0,0,0,,那时候许多人认为你们都是很奇怪的、不正常的人 thought that you were all rather bizarre, abnormal individuals..
+Dialogue: 0,0:14:23.80,0:14:27.00,Default,,0,0,0,,穿着儿童服装到处跑VS GOLD .running around in children's costumes.
+Dialogue: 0,0:14:27.00,0:14:28.20,Default,,0,0,0,,GOLD& 我们只是普通人STVSs JUPITER: We were just people.
+Dialogue: 0,0:14:28.20,0:14:28.80,Default,,0,0,0,,每个人都有完全不同的政治目的 GOLD And everyone did have absolutely different politics.
+Dialogue: 0,0:14:28.80,0:14:30.60,Default,,0,0,0,,每 人都有完全不同的政治目的 And everyone did have absolutelydifferent politics.
+Dialogue: 0,0:14:30.60,0:14:31.40,Default,,0,0,0,,每个人都有完全不同的政治目的 treated Hikea queen by Eddie 每 ing trustedwithlowlevel drug thatW etions and courier work,she And everyone did have absolutely different politics. am forced Into proetitution. have comp
+Dialogue: 0,0:14:31.40,0:14:31.60,Default,,0,0,0,,helping wo 每个人都有完全不同的政治目的 fter a month of queen by Eddie Lsolntion and ith low level drug defenceless.More
+Dialogue: 0,0:14:31.60,0:14:34.60,Default,,0,0,0,,我们中有些人是为了出名 有些人是为了权力 Some of us were in it for fame. Some for power.
+Dialogue: 0,0:14:34.60,0:14:38.60,Default,,0,0,0,,有些是为了躲避世界上的其他人 Some to possibly hide from the rest of the world.
+Dialogue: 0,0:14:38.60,0:14:42.60,Default,,0,0,0,,但最终 我们的政治目的对我们想在那里做的事情 But in the end ofthe day,our politicsreallydidn't get inthe waytoomuch..
+Dialogue: 0,0:14:42.60,0:14:45.60,Default,,0,0,0,,并没有太多的阻碍这是好事 …of what we wanted to be there to do, which was good
+Dialogue: 0,0:14:45.60,0:14:50.60,Default,,0,0,0,,我们在各自的社区里做了很多好事结果却一败涂地 We did too much good in our respective communities just to be written off.
+Dialogue: 0,0:14:50.60,0:14:53.40,Default,,0,0,0,,我们都试图通过自己的努力 Wewereall attemptingthroughourpersonalefforts..
+Dialogue: 0,0:14:53.40,0:14:59.20,Default,,0,0,0,,使我们的国家成为一个更好、更安全的居住地 …to make our country a better and a safer place to live
+Dialogue: 0,0:14:59.20,0:15:02.40,Default,,0,0,0,,很明显霍利斯·梅森是一个从不为自己的生活 Clearly, Hollis Mason is a man who makes no apologies.
+Dialogue: 0,0:15:02.40,0:15:05.20,Default,,0,0,0,,和所做的决定道歉的人 …for the life he's livedor thedecisions he's made
+Dialogue: 0,0:15:05.20,0:15:08.80,Default,,0,0,0,,但他的个人道德准则 But is his own personal moral code enough justification.
+Dialogue: 0,0:15:08.80,0:15:12.20,Default,,0,0,0,,是否足以成为他戴上面具、主持治安的正当理由？ for donning a mask and dispensing vigilante justice?
+Dialogue: 0,0:15:12.20,0:15:15.00,Default,,0,0,0,,我走出去四处打听以便更好地了解 I went out and asked around to get a better sense
+Dialogue: 0,0:15:15.00,0:15:18.80,Default,,0,0,0,,你们这些普通人对蒙面英雄的看法 …of how you, the people, felt about masked heroes
+Dialogue: 0,0:15:25.20,0:15:26.80,Default,,0,0,0,,我不知道 MAN 1: I don't know.
+Dialogue: 0,0:15:26.80,0:15:28.80,Default,,0,0,0,,我有很多顾客都是警察 I get a lot of customers that are cops.
+Dialogue: 0,0:15:28.80,0:15:31.40,Default,,0,0,0,,那些从我这里买了一包烟的家伙 Guys that comeby and pay for a pack of smokes from me everyday.
+Dialogue: 0,0:15:31.40,0:15:35.40,Default,,0,0,0,,他们告诉我这些蒙面英雄 …and they tell me that these masked adventurers..
+Dialogue: 0,0:15:35.40,0:15:37.20,Default,,0,0,0,,他们让工作变得更困难了 ….they'remaking the job more difficult
+Dialogue: 0,0:15:39.60,0:15:41.20,Default,,0,0,0,,我觉得他们怎么样？ MAN 2:What do Ithink of them?
+Dialogue: 0,0:15:41.20,0:15:45.80,Default,,0,0,0,,我可以告诉你他们几乎毁了我的生意 They've just aboutdestroyedmybusiness, I can tell youthat.
+Dialogue: 0,0:15:45.80,0:15:48.80,Default,,0,0,0,,他们伤害了我的顾客 They maim my customers.
+Dialogue: 0,0:15:48.80,0:15:50.80,Default,,0,0,0,,他们喜欢折断手指 他们认为这很有趣 They like to break fingers. They think it's funny.
+Dialogue: 0,0:15:50.80,0:15:53.60,Default,,0,0,0,,没错他们很危险 Yeah. They're dangerous.
+Dialogue: 0,0:15:53.60,0:15:55.80,Default,,0,0,0,,但另一方面如果我们没有 But then on the other hand, what if we hadn't had..
+Dialogue: 0,0:15:55.80,0:15:59.60,Default,,0,0,0,,曼哈顿博士那样的人站在我们这边呢？ …that Dr. Manhattan guy on our side, huh?
+Dialogue: 0,0:15:59.60,0:16:02.60,Default,,0,0,0,,我是说我知道这对我们来说是不可思议的 I mean, I know it's inconceivable tous, now knowing what we know.
+Dialogue: 0,0:16:02.60,0:16:07.00,Default,,0,0,0,,但谁能说没有他们 ….but who's to say that things wouldn't have gone the same in Vietnam.
+Dialogue: 0,0:16:07.00,0:16:08.40,Default,,0,0,0,,越南的情况就不会一样呢？ ...without them?
+Dialogue: 0,0:16:08.40,0:16:10.40,Default,,0,0,0,,如果在这场战争中战败 Losing that war.
+Dialogue: 0,0:16:10.40,0:16:12.20,Default,,0,0,0,,那会毁了我们的国家 That would've destroyed our country.
+Dialogue: 0,0:16:13.00,0:16:16.60,Default,,0,0,0,,更多关于变装英雄和围绕他们的争议的话题 More on costumed adventurers and the controversy surrounding them..
+Dialogue: 0,0:16:16.60,0:16:19.20,Default,,0,0,0,,将在赞助商的广告后播出 …after this word from our sponsors.
+Dialogue: 0,0:16:20.60,0:16:25.20,Default,,0,0,0,,精工宣布世界上第一款数字石英表——液晶计时表 ANNOUNCER: Seiko announces the world's firstdigitalquartx, liquidcrystal chronograph
+Dialogue: 0,0:16:25.20,0:16:27.00,Default,,0,0,0,,它可以显示时间、日期 It gives the time, the date..
+Dialogue: 0,0:16:27.00,0:16:29.60,Default,,0,0,0,,只要按下一个按钮它就能变成一个秒表 …and with a push of a button, turns into a stopwatch
+Dialogue: 0,0:16:29.60,0:16:34.00,Default,,0,0,0,,可以在十分之一秒内记录两次时间 ..that records lap times and one-two finishes in tenths of seconds.
+Dialogue: 0,0:16:34.00,0:16:38.80,Default,,0,0,0,,当你再次按下按钮时保存在电子存储器中的时间就会重新出现  The time of day, kept in electronic memory, reappears when you push the button again.
+Dialogue: 0,0:16:38.80,0:16:41.20,Default,,0,0,0,,精工液晶计时表 mm The Seiko liquid crystal chronograph
+Dialogue: 0,0:16:41.20,0:16:45.00,Default,,0,0,0,,唯一的精工超凡数字石英表 Only one of Seiko's superb digital quartx watches
+Dialogue: 0,0:16:51.00,0:16:53.60,Default,,0,0,0,,欢迎回来感谢大家的收看 Welcome back, and thank you for watching.
+Dialogue: 0,0:16:53.60,0:16:58.40,Default,,0,0,0,,在目前的情况下与蒙面英雄也就是守望者 In our current climate, the relevance of masked adventurers, the Watchmen…
+Dialogue: 0,0:16:58.40,0:17:00.80,Default,,0,0,0,,相关联的问题比以往任何时候都多 …is more in question than ever before.
+Dialogue: 0,0:17:00.80,0:17:03.00,Default,,0,0,0,,我们现在继续回顾我们的节目 We continue now with our look back at a show.
+Dialogue: 0,0:17:03.00,0:17:05.40,Default,,0,0,0,,在节目中我们讨论了 …in which we discussed Under the Hood.
+Dialogue: 0,0:17:05.40,0:17:10.20,Default,,0,0,0,,前任蒙面英雄夜枭———霍利斯·梅森的回忆录《面罩之下》 …a memoir of original masked hero The Nite Owl, née Hollis Mason.
+Dialogue: 0,0:17:10.20,0:17:13.40,Default,,0,0,0,,，这本书引发了我们今天关于 A book which precipitated many of the questions we have today.….
+Dialogue: 0,0:17:13.40,0:17:19.00,Default,,0,0,0,,违反我们规定的法律行动的这些蒙面英雄的许多疑问 ….about these men and women who act apart from our prescribed laws of justice
+Dialogue: 0,0:17:30.20,0:17:31.00,Default,,0,0,0,,STORIES ON PAGE3 We are on the brink of a war that will undoubtedly be disastrous for
+Dialogue: 0,0:17:31.00,0:17:31.20,Default,,0,0,0,,STORIES ON PAGE 3 commies.But how exactly is Gorbachev that will undoubtedly be disastrous for threatening us? What exactly are we
+Dialogue: 0,0:17:31.20,0:17:31.40,Default,,0,0,0,,STORIES ON PAGE 3 commies.But how exaetly is Gorbachev
+Dialogue: 0,0:17:31.40,0:17:31.79,Default,,0,0,0,,当然也有许多变装英雄值得研究 Certainly there are many costumed heroewhowouid oeswhowouldmakeforfascinatingstudy
+Dialogue: 0,0:17:31.79,0:17:32.00,Default,,0,0,0,,oftro当然也有许多变装英雄值得研究
+Dialogue: 0,0:17:32.00,0:17:32.60,Default,,0,0,0,,of troo当然也有许多变装英雄值得研究 aid Certainly there are many costumed heroes who would make for fascinating study.
+Dialogue: 0,0:17:32.60,0:17:33.20,Default,,0,0,0,,innumbe 当然也有许多变装英雄值得研究
+Dialogue: 0,0:17:33.20,0:17:34.00,Default,,0,0,0,,number 也有许多变装英雄值得研究jardcalled 当然 Certainly there are many costumed heroes who would make for fascinating study.
+Dialogue: 0,0:17:34.00,0:17:35.40,Default,,0,0,0,,ation 当然也有许多变装英雄值得研究fonal
+Dialogue: 0,0:17:35.40,0:17:35.79,Default,,0,0,0,,tion 当然。也有许多变装英雄值得研究tional Certainly there aremany costumed heroes who wouldmake for fascinatingstudy.
+Dialogue: 0,0:17:35.79,0:17:36.00,Default,,0,0,0,,当然也有许多变装英雄值得研究tional ion
+Dialogue: 0,0:17:36.00,0:17:36.20,Default,,0,0,0,,变装英雄 Massive National on inly eswhowol
+Dialogue: 0,0:17:36.20,0:17:37.20,Default,,0,0,0,,为了获得 些专业的见解 M National on
+Dialogue: 0,0:17:37.20,0:17:39.00,Default,,0,0,0,,为了获得一些专业的见解 I spoke with psychiatrist William Long.
+Dialogue: 0,0:17:39.00,0:17:41.20,Default,,0,0,0,,我和精神病学家威廉·朗进行了交谈 …to gain some professional insight.
+Dialogue: 0,0:17:41.20,0:17:44.60,Default,,0,0,0,,这是一个有趣的问题 You know, it's an interesting question
+Dialogue: 0,0:17:44.60,0:17:48.00,Default,,0,0,0,,大多数时候我在监狱里和罪犯一起工作 Mostly, in the prison, I work with criminals.
+Dialogue: 0,0:17:48.00,0:17:52.20,Default,,0,0,0,,所以我的看法有点偏颇 So my perception is slightly skewed.
+Dialogue: 0,0:17:52.20,0:17:55.20,Default,,0,0,0,,我认为肯定有蒙面英雄 necity either I think certainlytherearemaskedheroes..
+Dialogue: 0,0:17:55.20,0:17:57.79,Default,,0,0,0,,还有超人类比如曼哈顿博士 and superhumans, like Dr. Manhattan...
+Dialogue: 0,0:17:57.79,0:18:00.79,Default,,0,0,0,,他们只是想 The move by P Manhattan as a secret seeks to place criticisn iplomatic channelshave the US after he had ear .that justwant to dogood.en the super powers. ruled out a public prob the super man's orig
+Dialogue: 0,0:18:00.79,0:18:01.20,Default,,0,0,0,,他们只是想 The move by P 做好事peManhattanasasecret seeks to place criticisn apoieDiplomaticchannelshave the US after he had ear that justwant to do·goodveen the super powers. ruled outa publicprob the super man's orig
+Dialogue: 0,0:18:01.20,0:18:02.00,Default,,0,0,0,,RCOTICS 我认为还有一些人只 不过是罪犯nasasecret lomination The move by P seeks to place criticisn weapon.Diplomatic channels have the US after he had ear I thinkthereare others that arenothing morethan criminals.. ruled outapublicprob the super man's orig
+Dialogue: 0,0:18:02.00,0:18:02.60,Default,,0,0,0,,NARCOTICS 我认为还有一些人只不 ntoapoliticasho ead, The move by Pu agon seeks to place criticisn are weaponDiplomatic channels have think there are others that are nothing more than criminals.ers. theUSafter hehad ear olicy. ruled out a public prob you the super man's origi
+Dialogue: 0,0:18:02.60,0:18:02.79,Default,,0,0,0,,NARCOTICS 我认为还有一些人只不过是 TxUS domination intoapoliticalsho nahead, The move by Pu ntagon 是EBattanasasecret seeksto place criticism rs, are weapon.Diplomatic chanpels have the US after he had ear y policy. ot think there areothersthat are nothingmore than criminals.ers. ruled out a public prob tellyou the super man's origi
+Dialogue: 0,0:18:02.79,0:18:03.00,Default,,0,0,0,,ith and NARCOTICS XUS domination into a political sho Dennahead, The move by Pu e Pentagon seeks to placecriticisn ealers, are weapon.Diplomatic channelshave hthink there areothersthat are nothing more than criminalsers. the US after he had ear crecy policy. ruled out a public prob on't tell you the suber man's origi
+Dialogue: 0,0:18:03.00,0:18:03.20,Default,,0,0,0,,ksmith and NARCOTICS 我认为还有一些人只不过 mx er US domination, into a political sho Id Dennahead, 定Bnhattanaasecret The move by Pu th the Pentagon seeks to place criticism s dealers, are werpon.Diploaati channels have the US after he had ear cahthink there areothersthat are nothingmor tissecrecy policy. re.thancriminalSpowers. ruledouta publieprob y won't tell you the super man's origi
+Dialogue: 0,0:18:03.20,0:18:03.79,Default,,0,0,0,,Locksmith and NARCOT我认为还有一些人只不过是 clares that his government McDonald Dennahead, over US domination, into a political sho The move by Pu along with thePentagon seeks to place criticism and arms dealers, are J think there are others that are nothing more the US after he had ear pushing this secrecy policy. thancriminals.ppowers. ruled out a public probe What they won't tell you the super man's origi
+Dialogue: 0,0:18:03.79,0:18:04.20,Default,,0,0,0,,cause he NARCC我认为还有一些人只不过是 eclares thathis goverment Locksmith and Jet over US domination, into a political sho McDonald Dennahead, The move by Pu viets Manhattan as a secret along with the Pentagon seeks to place criticism d for Dr. and arms dealers, are think thereareothersthatare nothingmoreth the US after he had ear leave pushing this secrecy policy. ncriminalsppowers. ruled outa publieprobe that"the What they won't tellyou
+Dialogue: 0,0:18:04.20,0:18:04.79,Default,,0,0,0,,.我认为还有一些人只不过是罪 declares that his government idea by sayingitmigh his part because he Locksmith and apset over US domination, into "a political sho eability. McDonald Dennahead, mDzManhattan as asecret The move by Pu soviets along with the Pontagon seeks to place criticism ically called for Dr. and arms dealepth here are othersthatarenothing moretha lchannelshave the US after he had ear attan leave pushingthissecrecypll lale aper powers. ruled outa publicprobe r saying that "the What they won't tell you the super man's origi
+Dialogue: 0,0:18:04.79,0:18:05.00,Default,,0,0,0,,N我认为还有一些人只不过是罪犯 dea by sayingit mightt his part because he Locksmithand declares that his government pset over US domination, into "a political sho eability McDonald Dennahead, The move by Pu soviets along with the Pentagon Dr Manhattan as a secret seeks to place criticism ically called for Dr. the US after he had ear attan to leave ruledouta public probe am saying that "the What they won't tell yo the super man's origi
+Dialogue: 0,0:18:05.00,0:18:05.20,Default,,0,0,0,,esthe need for him 我认为还有一些人只不过是罪犯 his part because he Locksmithand into "a political sho e ability. McDonald Dennahead. soviets move by Pu along with the Pentagon seeks to place criticism ically called for Dr. hannels have the US after he had earl attan to leave ruled outa public probe  saying that "the What they won't tell yo
+Dialogue: 0,0:18:05.20,0:18:05.40,Default,,0,0,0,,我认为还有一些人只不过是罪犯 his part becanse he Locksmith and eabilit McDonaldDennahead along with he Pentago eally called for Dr. and arms deal I think there are others that are nothing more than criminals elshate theUS afer he had es alian leave pushingthissecre ruled outa public prob
+Dialogue: 0,0:18:05.40,0:18:06.00,Default,,0,0,0,,我认为还有一些人只不过是罪犯 I think there are others that are nothing more than criminals…
+Dialogue: 0,0:18:06.00,0:18:08.79,Default,,0,0,0,,以此为手段 .who used this as a means..
+Dialogue: 0,0:18:08.79,0:18:13.40,Default,,0,0,0,,为他们的暴力倾向辩护 ..to justify their violent tendencies.
+Dialogue: 0,0:18:13.40,0:18:19.79,Default,,0,0,0,,唯一构成真正威胁的蒙面英雄 The only masked heroes that pose an actual threat..
+Dialogue: 0,0:18:19.79,0:18:24.60,Default,,0,0,0,,是少数真的相信自己在做好事的 …aretherelatively fewborderline sociopaths..
+Dialogue: 0,0:18:24.60,0:18:28.40,Default,,0,0,0,,边缘反社会者 .that actually believe that they are doing good
+Dialogue: 0,0:18:28.40,0:18:31.40,Default,,0,0,0,,在面罩之下 Beneaththatmask..
+Dialogue: 0,0:18:31.40,0:18:34.20,Default,,0,0,0,,他们就像你和我 .….they're just like you and me..
+Dialogue: 0,0:18:34.20,0:18:38.79,Default,,0,0,0,,充满希望、谷 欲望、恐惧 with hopes and desires, fears...
+Dialogue: 0,0:18:38.79,0:18:41.79,Default,,0,0,0,,还有爱 ...love.
+Dialogue: 0,0:18:41.79,0:18:44.40,Default,,0,0,0,,我希望有一天 I hope that one day.….
+Dialogue: 0,0:18:44.40,0:18:50.20,Default,,0,0,0,,我可以对其中一位蒙面英雄进行心理分析 .I can psychoanalyze one of these masked heroes.
+Dialogue: 0,0:18:50.20,0:18:52.00,Default,,0,0,0,,那将是一件了不起的事 That would be something.
+Dialogue: 0,0:18:52.79,0:18:55.00,Default,,0,0,0,,对我们来说这似乎是一个过去的时代 It seems a bygone era to us now.
+Dialogue: 0,0:18:55.00,0:18:57.60,Default,,0,0,0,,咆哮的40年代令人振奋的日子 The heady days of the roaring '40s.
+Dialogue: 0,0:18:57.60,0:19:01.20,Default,,0,0,0,,人们渴望消遣 渴望戏剧 People were eager fordistraction, hungry for a fix of drama.
+Dialogue: 0,0:19:01.20,0:19:04.20,Default,,0,0,0,,还有什么比一群自己设计的超级英雄 What better than a group of self-designed superheroes..
+Dialogue: 0,0:19:04.20,0:19:07.79,Default,,0,0,0,,表演一出夸张的街头打击犯罪的戏剧更棒的呢？ …to act out an exaggerated street theater of crime fighting
+Dialogue: 0,0:19:07.79,0:19:11.40,Default,,0,0,0,,在一个超级恶棍横行的世界里 And in a world populated by supervillains..
+Dialogue: 0,0:19:11.40,0:19:13.00,Default,,0,0,0,,为什么不呢？ ..why not?
+Dialogue: 0,0:19:13.00,0:19:16.00,Default,,0,0,0,,有臭名昭著的神秘主义者摩洛克 There was the notorious Moloch the Mystic..
+Dialogue: 0,0:19:16.00,0:19:21.00,Default,,0,0,0,,使用杂耍新奇的魔术表演来面对他一个人的恐怖浪潮 ...usingthe sideshow novelty of the magic show tofront his one-man wave of terror.
+Dialogue: 0,0:19:21.00,0:19:21.40,Default,,0,0,0,,使用杂耍新奇的魔术表演来面对他一个人的恐怖浪潮 ein centaBa.usingthesideshownoveltyofthemagic showtofronthisone-manwaveofterroryenturism w
+Dialogue: 0,0:19:21.40,0:19:22.60,Default,,0,0,0,,当然后来出现了像大块头这样的现代超级反派 nLry.Full of beatu Americ De  membets ol the evident everywhere acroas good thatcruhed theJokhater re that zo may of u call home Ministe
+Dialogue: 0,0:19:21.60,0:19:21.79,Default,,0,0,0,,当然 后来出现了像大块头这样的现代超级反派 自然 earthguake incentalTibettopped6ooon The Auake struck at 50o m., touriat adveaturism were pro Saturdayasrcuerearched foaLaterotcoursecame modernsupervillainslike Big Figureproft last spring It's evident everywhere
+Dialogue: 0,0:19:21.79,0:19:22.40,Default,,0,0,0,,tomeet the 当然 后来出现了像大块头这样的现代超级反派 of beautifu reproduced lastspring. It's evident everywhere acroas vinced.The
+Dialogue: 0,0:19:22.60,0:19:22.79,Default,,0,0,0,,然后来出现了像大块头这样的现代超级反派 Minister ericans are making money fot the
+Dialogue: 0,0:19:22.79,0:19:23.00,Default,,0,0,0,,了像大块头 见代超级反 Despite al good trade ze countries,the call home. MInister Dess for the
+Dialogue: 0,0:19:23.00,0:19:25.00,Default,,0,0,0,,后来出现了像大块头这样的现代超级反派
+Dialogue: 0,0:19:25.00,0:19:29.60,Default,,0,0,0,,那个身材矮小的犯罪大师正在市监狱服无期徒刑 …the diminutive master criminal now serving a life sentence in the city jail.
+Dialogue: 0,0:19:36.40,0:19:38.40,Default,,0,0,0,,你认为我是威胁 You think I'm the menace.
+Dialogue: 0,0:19:39.00,0:19:43.00,Default,,0,0,0,,我不是戴着面具的人我没什么好隐瞒的 I'm not theone wearing amask. I got nothing to hide.
+Dialogue: 0,0:19:43.00,0:19:46.00,Default,,0,0,0,,那种戴着面具的是什么样的人？ What kind of person is that? Wear a mask?
+Dialogue: 0,0:19:49.00,0:19:52.40,Default,,0,0,0,,我是个受人尊敬的商人 l'm a respectablebusinessman.
+Dialogue: 0,0:19:53.20,0:19:55.79,Default,,0,0,0,,找到神秘主义者摩洛克并不容易 CULPEPER: It wasn't easy finding Moloch the Mystic
+Dialogue: 0,0:19:55.79,0:19:58.40,Default,,0,0,0,,不过话说回来 也不是太难 But thenagain,well, it wasn't too dificult.
+Dialogue: 0,0:19:58.40,0:20:02.79,Default,,0,0,0,,摩洛克就像战后许多声名狼藉的人物一样 You see, Moloch, like so many infamous figures of our postwar past.
+Dialogue: 0,0:20:02.79,0:20:06.00,Default,,0,0,0,,他们仅仅是进入了平民生活 ….had simply gone into civilian life.
+Dialogue: 0,0:20:06.00,0:20:07.79,Default,,0,0,0,,我那时比较年轻 MOLOcH: I was a younger man then.
+Dialogue: 0,0:20:07.79,0:20:10.00,Default,,0,0,0,,我很叛逆 I was rebellious.
+Dialogue: 0,0:20:10.00,0:20:14.20,Default,,0,0,0,,就像你在附近看到的这些帮派一样 Knot Tops黑帮 Like these gangs you see around, the Knot Tops.
+Dialogue: 0,0:20:14.20,0:20:17.60,Default,,0,0,0,,当你生活在一个有着超人类权威人物的世界里 When you live in a world with superhuman authority figures.
+Dialogue: 0,0:20:17.60,0:20:21.79,Default,,0,0,0,,如果你想反抗你必须进行更大规模的反抗 …and you wanna rebel, you have to rebel on a larger scale
+Dialogue: 0,0:20:21.79,0:20:23.79,Default,,0,0,0,,你得把事件升级 You have to escalate things, you see
+Dialogue: 0,0:20:24.60,0:20:26.60,Default,,0,0,0,,所以 So...
+Dialogue: 0,0:20:26.60,0:20:30.20,Default,,0,0,0,,如果你成长在一个有超级英雄的世界里你想要反抗 …if you grow up in a world with superheroes and you wanna rebel..
+Dialogue: 0,0:20:30.20,0:20:34.40,Default,,0,0,0,,你必须成为一个超级反派 …you have to become a supervillain.
+Dialogue: 0,0:20:36.79,0:20:41.20,Default,,0,0,0,,所以没错我认为没有超级英雄的社会会更好 So, yeah, I think society is better off without the superheroes..
+Dialogue: 0,0:20:41.20,0:20:46.60,Default,,0,0,0,,因为这也意味着不需要超级反派 .because that means there's no need for any supervillains either.
+Dialogue: 0,0:20:50.00,0:20:51.80,Default,,0,0,0,,谢谢 MASON: Thank you. Thanks.
+Dialogue: 0,0:20:53.40,0:20:58.40,Default,,0,0,0,,这种狂热持续了不到10年 You know, it didn't last, oh, 10 years.
+Dialogue: 0,0:20:58.40,0:21:03.40,Default,,0,0,0,,当50年代到来的时候人们对变装英雄的看法 When the '50s came, the whole perception of costumed adventurers.
+Dialogue: 0,0:21:03.40,0:21:06.40,Default,,0,0,0,,完全改变了 你知道吗？ …you know, changed, you know?
+Dialogue: 0,0:21:06.40,0:21:08.00,Default,,0,0,0,,那只是一时流行的狂热 It was a fad,yeah.
+Dialogue: 0,0:21:08.00,0:21:12.60,Default,,0,0,0,,这种狂热正在消失而我们也在随之消亡 And the fad was dying out and we were dying with i.
+Dialogue: 0,0:21:14.20,0:21:16.00,Default,,0,0,0,,莎莉 Sally.
+Dialogue: 0,0:21:16.00,0:21:18.60,Default,,0,0,0,,她怀孕后就离开了 …well, shegot pregnant and she left.
+Dialogue: 0,0:21:18.60,0:21:22.00,Default,,0,0,0,,我们其余的人被迫 The rest of us, we were forced to testify.
+Dialogue: 0,0:21:22.00,0:21:24.60,Default,,0,0,0,,在众议院非美活动委员会面前作证 .before the House Un-American Activities Committee.
+Dialogue: 0,0:21:24.60,0:21:26.60,Default,,0,0,0,,这是一场政治迫害 It was a witch hunt.
+Dialogue: 0,0:21:26.60,0:21:31.00,Default,,0,0,0,,我们都被迫向其中一位众议院议员 We were all forced to reveal our identities..
+Dialogue: 0,0:21:31.00,0:21:33.40,Default,,0,0,0,,透露自己的身份 to one of its representatives.
+Dialogue: 0,0:21:33.40,0:21:36.40,Default,,0,0,0,,我是民兵组织的大都会队长 I am CaptainMetropolis fromtheMinutemen
+Dialogue: 0,0:21:36.40,0:21:41.00,Default,,0,0,0,,幸运的是大都会队长有着杰出的军事履历 MASON: Now, luckily, with Captain Metropolis having such an outstanding military record.
+Dialogue: 0,0:21:41.00,0:21:43.20,Default,,0,0,0,,以及我在警察部门的工作 .and with my own service in the police force..
+Dialogue: 0,0:21:43.20,0:21:47.80,Default,,0,0,0,,我们都或多或少很快就消除了怀疑 …we both were more or less cleared of suspicion right away.
+Dialogue: 0,0:21:47.80,0:21:49.80,Default,,0,0,0,,蛾人遇到了更多的困难 Mothman met with more difficulty..
+Dialogue: 0,0:21:49.80,0:21:56.20,Default,,0,0,0,,主要是因为他在学生时代结交的左翼朋友们 …mostly because of the left-wing friends that he'd cultivated during his student days.
+Dialogue: 0,0:21:56.20,0:21:58.20,Default,,0,0,0,,现在他终于被澄清了 Now,he's eventually cleared.
+Dialogue: 0,0:21:58.20,0:22:02.80,Default,,0,0,0,,但是调查过程漫长残酷 ….but the investigations,they were so lengthy and so ruthless…
+Dialogue: 0,0:22:02.80,0:22:05.20,Default,,0,0,0,,我认为他因此承受的压力 ….that I think that the pressure he was under.
+Dialogue: 0,0:22:05.20,0:22:08.00,Default,,0,0,0,,加剧了他的酗酒问题 …it exacerbated his drinking problem…
+Dialogue: 0,0:22:08.00,0:22:11.60,Default,,0,0,0,,最终导致他精神崩溃 .anditcausedhiseventualmental breakdown
+Dialogue: 0,0:22:19.40,0:22:21.60,Default,,0,0,0,,兜帽判官 HoodedJustice
+Dialogue: 0,0:22:21.80,0:22:23.20,Default,,0,0,0,,拒绝作证 .refused to testify.
+Dialogue: 0,0:22:23.20,0:22:27.40,Default,,0,0,0,,因为他不准备向任何人透露他的真实身份 on the grounds that he was not prepared to reveal his true identity to anybody
+Dialogue: 0,0:22:27.40,0:22:29.60,Default,,0,0,0,,当他们向他施压时 And when they pressed him.
+Dialogue: 0,0:22:30.40,0:22:32.60,Default,,0,0,0,,他消失了 .he disappeared.
+Dialogue: 0,0:22:32.60,0:22:35.60,Default,,0,0,0,,我对他的这一行为充满了敬意 And Ireallyrespect himfor that.
+Dialogue: 0,0:22:35.60,0:22:37.40,Default,,0,0,0,,他是我成为夜枭的原因 Hewasthereason IbecametheNiteOwl.
+Dialogue: 0,0:22:37.40,0:22:42.40,Default,,0,0,0,,直到今天我都不知道面罩后的那个人是谁 and I don't know to thisday who he was behind that mask
+Dialogue: 0,0:22:42.40,0:22:43.20,Default,,0,0,0,,直到今大我都不知道面罩后的那个人是道
+Dialogue: 0,0:22:43.20,0:22:43.40,Default,,0,0,0,,盲到今大我都不知道面罩后的那个人是道 anli don't know to thslay who he was behind tha
+Dialogue: 0,0:22:43.40,0:22:45.20,Default,,0,0,0,,很有趣 不是吗？  Isn't that something?
+Dialogue: 0,0:22:46.40,0:22:49.80,Default,,0,0,0,,我明白你想离开民兵组织是因为你怀孕了 Iunderstand that you wanted to leave the Minutemen because you got pregnant
+Dialogue: 0,0:22:49.80,0:22:50.80,Default,,0,0,0,,但这是唯一的原因吗？ But is thatthe onlyreason?
+Dialogue: 0,0:22:50.80,0:22:55.20,Default,,0,0,0,,你从民兵组织退休还有其他原因吗？ Was there any other reasons that you retired from the Minutemen?
+Dialogue: 0,0:22:56.60,0:22:58.80,Default,,0,0,0,,有时候是时候往前看了 JUPITER: You know, sometimes it's just time to move on.
+Dialogue: 0,0:22:58.80,0:23:02.60,Default,,0,0,0,,如果我没有怀孕的话 我想我会呆得更久 I think I would've stayed longer,had I not gotten pregnant
+Dialogue: 0,0:23:02.60,0:23:02.80,Default,,0,0,0,,/ou tlose littlesignsofwhento take th
+Dialogue: 0,0:23:03.60,0:23:04.00,Default,,0,0,0,,was
+Dialogue: 0,0:23:04.00,0:23:04.20,Default,,0,0,0,,信号 itwas givesyouthpselitti
+Dialogue: 0,0:23:04.20,0:23:04.80,Default,,0,0,0,,的信号 Ltitwas
+Dialogue: 0,0:23:06.40,0:23:06.60,Default,,0,0,0,,t.
+Dialogue: 0,0:23:08.00,0:23:09.20,Default,,0,0,0,,这就是其中一个原因 You know, and that seemed to be the one
+Dialogue: 0,0:23:09.20,0:23:14.00,Default,,0,0,0,,在霍利斯的传记中 他声称你被笑匠性侵了 In his biography, Hollis alleged thatyou were sexually assaulted by The Comedian.
+Dialogue: 0,0:23:14.00,0:23:16.40,Default,,0,0,0,,但你从来没提过这件事 Yet you've never said anything about this
+Dialogue: 0,0:23:19.60,0:23:23.80,Default,,0,0,0,,为什么我现在要打破一生的习惯呢？ Well,whyshould I break a lifetime'shabitnow,right?
+Dialogue: 0,0:23:23.80,0:23:26.20,Default,,0,0,0,,你作为一个记者问这个问题我不会指责你 I can't blame you for asking as a reporter.
+Dialogue: 0,0:23:26.20,0:23:30.40,Default,,0,0,0,,但是无可奉告 but, yes, it's-- No comment
+Dialogue: 0,0:23:30.40,0:23:36.60,Default,,0,0,0,,莎莉·朱庇特和笑匠之间的那件事 Howmuch did the incident between Sally Jupiterand TheComedian…
+Dialogue: 0,0:23:36.60,0:23:39.00,Default,,0,0,0,,对你决定挂起面罩有多大影响？ …affect your decision to hang up the mask?
+Dialogue: 0,0:23:39.00,0:23:44.60,Default,,0,0,0,,有很大的关系 没错 Well, that had lot to do with it, yeah.
+Dialogue: 0,0:23:44.60,0:23:47.60,Default,,0,0,0,,我认为一旦你意识到你的一些队友 I think once you realize that some of your teammates..
+Dialogue: 0,0:23:47.60,0:23:55.60,Default,,0,0,0,,和你要追捕的罪犯一样堕落扭曲 …are just as depraved and twisted as the criminals you're going after..
+Dialogue: 0,0:23:57.40,0:23:58.80,Default,,0,0,0,,没错 Yeah.
+Dialogue: 0,0:23:59.60,0:24:02.40,Default,,0,0,0,,这和我退出有很大关系 That had a lot to do with why I quit
+Dialogue: 0,0:24:02.40,0:24:04.80,Default,,0,0,0,,那就是个谣言 There's no truthtothatrumor
+Dialogue: 0,0:24:04.80,0:24:06.40,Default,,0,0,0,,如果发生了像这样的事 If something like that had happened..
+Dialogue: 0,0:24:06.40,0:24:12.40,Default,,0,0,0,,你不认为我会建议莎莉提出刑事指控吗？ ….don't you think I would have advised Sally to have pressed criminal charges?
+Dialogue: 0,0:24:12.40,0:24:15.60,Default,,0,0,0,,她是我最好的客户我最大的收入来源 She was my best client. My biggest earner.
+Dialogue: 0,0:24:15.60,0:24:18.80,Default,,0,0,0,,我绝不会让那样的事情逍遥法外 I wouldnever allowsomethinglikethattogounpunished
+Dialogue: 0,0:24:18.80,0:24:23.00,Default,,0,0,0,,这不过是哗众取宠、 自我推销罢了 It's nothing more than sensationalism, self-promotion.
+Dialogue: 0,0:24:23.00,0:24:25.60,Default,,0,0,0,,霍利斯·梅森想卖出更多的书 HollisMason wantstosellmorebooks.
+Dialogue: 0,0:24:25.80,0:24:28.40,Default,,0,0,0,,笑匠拒绝谈论此事 CULPEPER:TheComedian declined tocomment.
+Dialogue: 0,0:24:28.40,0:24:32.60,Default,,0,0,0,,在我把雪茄塞进你眼睛之前把那东西从我脸上拿开 Get that thing out ofmy face before I put my cigar out in youreye.
+Dialogue: 0,0:24:33.40,0:24:36.00,Default,,0,0,0,,《面罩之下》是一本很棒的书 Under the Hood is a fantastic book
+Dialogue: 0,0:24:36.00,0:24:38.40,Default,,0,0,0,,他是我的一个顾客 You know, he's one of my customers, you know.
+Dialogue: 0,0:24:38.40,0:24:40.80,Default,,0,0,0,,我经常见到他 I see him all the time.
+Dialogue: 0,0:24:40.80,0:24:45.80,Default,,0,0,0,,关于超级英雄的这个问题很有趣这是一个非常微妙的界限 It's funny about this superhero thing, youknow, it's a very fine line
+Dialogue: 0,0:24:45.80,0:24:50.20,Default,,0,0,0,,当你遇到像夜枭这样在你心目中是超级英雄的人 And when you got somebody like the Nite Owl who is your quintessential superhero
+Dialogue: 0,0:24:50.20,0:24:52.00,Default,,0,0,0,,因为外面的这个家伙 because outside you get this guy
+Dialogue: 0,0:24:52.00,0:24:54.60,Default,,0,0,0,,他变装后做各种各样爆炸之类的事 …who dresses up and does all the kaboom-kabang stuff
+Dialogue: 0,0:24:54.60,0:24:57.80,Default,,0,0,0,,但他内心是个警察 member of the ...but inside he's a cop.
+Dialogue: 0,0:24:57.80,0:24:59.40,Default,,0,0,0,,所以他知道什么是忠诚守信你明白我的意思吗？ DWL  So he's a guy who knows what's true blue. You know what I mean?
+Dialogue: 0,0:24:59.40,0:25:01.00,Default,,0,0,0,,所以他知道什么是忠诚守信你明白我的意思吗? So he'sa guy who knowswhat's trueblue.Youknowwhat I mean?
+Dialogue: 0,0:25:01.00,0:25:03.40,Default,,0,0,0,,他不喜欢这些附庸风雅的东西 He's not into these kind of artsy-fartsy things
+Dialogue: 0,0:25:03.40,0:25:05.80,Default,,0,0,0,,他是个了不起的人 He's a great man.
+Dialogue: 0,0:25:05.80,0:25:07.20,Default,,0,0,0,,所以 So...
+Dialogue: 0,0:25:07.20,0:25:09.00,Default,,0,0,0,,我不知道 ...Idon't know.
+Dialogue: 0,0:25:09.00,0:25:15.00,Default,,0,0,0,,归根结底 Hard to say whether these masked-hero types are a good or a bad thing
+Dialogue: 0,0:25:15.00,0:25:18.60,Default,,0,0,0,,很难说这些蒙面英雄是好是坏 …you know, in the final analysis.
+Dialogue: 0,0:25:18.60,0:25:21.80,Default,,0,0,0,,值得注意的是 早在1975年 It's interesting to note that back in 1975..
+Dialogue: 0,0:25:21.80,0:25:24.80,Default,,0,0,0,,人们对于这些所谓的变装英雄对社会是利是弊 people were still very much divided as to whether or not.
+Dialogue: 0,0:25:24.80,0:25:29.80,Default,,0,0,0,,仍然有很大的分歧 .the so-called costumed adventurers were a benefit or a detriment to society.
+Dialogue: 0,0:25:29.80,0:25:32.00,Default,,0,0,0,,鉴于这次采访播出后的事件 Giventheeventsafterthisinterviewaired..
+Dialogue: 0,0:25:32.00,0:25:35.60,Default,,0,0,0,,或许霍利斯·梅森的退休来得正是时候 …perhaps Hollis Mason's retirement came at the perfect time.
+Dialogue: 0,0:25:35.60,0:25:38.80,Default,,0,0,0,,在这次广告时间后我们会听到更多来自霍利斯·梅森的消息 We'll hearmorefromHollisMasonafter thiscommercial break
+Dialogue: 0,0:25:40.80,0:25:42.80,Default,,0,0,0,,为什么这么多人选择萨尼清洁剂 ANNOUNCER: Why do so many choose Sani-Flush..
+Dialogue: 0,0:25:42.80,0:25:45.40,Default,,0,0,0,,而不是其它领先的马桶清洁剂? .instead of the other leading bathroom-bowl cleaner?
+Dialogue: 0,0:25:45.40,0:25:47.20,Default,,0,0,0,,萨尼清洁剂有额外的功能 Sani-Flush has extra power.
+Dialogue: 0,0:25:47.20,0:25:50.60,Default,,0,0,0,,可以清洁马桶内部 并把马桶拐弯处清洁干净 Cleans inside the bowl and cleans right round the bend.
+Dialogue: 0,0:25:50.60,0:25:51.00,Default,,0,0,0,,DLET BOWLS
+Dialogue: 0,0:25:51.80,0:25:54.60,Default,,0,0,0,,延时摄影显示萨尼清洁剂与它额外的功能 Time-lapseshowsSani-Flush,with itsextrapower
+Dialogue: 0,0:25:54.60,0:25:56.60,Default,,0,0,0,,可以在马桶内部以及拐弯处 …cleans away rust stains and deposits..
+Dialogue: 0,0:25:56.60,0:25:59.20,Default,,0,0,0,,清除锈迹和沉积物 …inside the bowl and right round the bend
+Dialogue: 0,0:25:59.20,0:26:02.40,Default,,0,0,0,,萨尼清洁剂具有杀死数百万细菌的能力 Sani-Flush, with the power to kill germs by the millions.
+Dialogue: 0,0:26:02.40,0:26:06.40,Default,,0,0,0,,萨尼清洁剂 清洁马桶内部和拐弯处 Sani-Flush. Cleans inside the bowl and cleans right round the bend.
+Dialogue: 0,0:26:06.40,0:26:08.80,Default,,0,0,0,,购买粉末或液体的萨尼清洁剂 Get Sani-Flush, powder or liquid
+Dialogue: 0,0:26:11.00,0:26:14.20,Default,,0,0,0,,现在继续我对霍利斯·梅森的采访  Continuing now with my interview of Hollis Mason.
+Dialogue: 0,0:26:14.20,0:26:16.60,Default,,0,0,0,,我们正在谈论变装英雄 We'retalkingaboutcostumedadventurers
+Dialogue: 0,0:26:16.60,0:26:19.40,Default,,0,0,0,,他被称为世界第八大奇迹 He's been called the Eighth Wonder of the World.
+Dialogue: 0,0:26:16.80,0:26:17.20,Default,,0,0,0,,被称为世界第八大奇迹
+Dialogue: 0,0:26:17.40,0:26:17.60,Default,,0,0,0,,他被称为世界第八大奇迹 for the imapoachment of a judi Today, the jury head closing officer had arlsen in the histor nementsfrom representatlvesof New York. Today, the jury head clo He's beencalled the EighthWonder of the Worldeorge Martin arguementsfrom representative the Lehman trial Judge Geo
+Dialogue: 0,0:26:17.60,0:26:17.80,Default,,0,0,0,,他被称为世界第八大奇迹 ByJAMEESLEWIS The New York Gazette time in seventy years th He's been called theEighth Wonderofthe World ury hdin for tho fmpeachmento offieer had arison in th
+Dialogue: 0,0:26:19.40,0:26:22.20,Default,,0,0,0,,我们的国宝我们最大的希望 Our national treasure. Our greatest hope.
+Dialogue: 0,0:26:22.20,0:26:25.60,Default,,0,0,0,,但是曼哈顿博士也被视为一个怪胎 But Dr.Manhattan is also viewed as a freak ofnature
+Dialogue: 0,0:26:25.60,0:26:28.00,Default,,0,0,0,,他的力量是如此之大 His power is so great as to illicit fear….
+Dialogue: 0,0:26:28.00,0:26:31.40,Default,,0,0,0,,以至于不仅使我们的敌人而且使我们自己都感到恐惧 not only in our enemies but in ourselves.
+Dialogue: 0,0:26:31.40,0:26:34.60,Default,,0,0,0,,在他成为今天这个散发着光芒的蓝色超人类之前 Before he was the radiating blue superbeing he is today..
+Dialogue: 0,0:26:34.60,0:26:38.60,Default,,0,0,0,,他是乔恩·奥斯特曼物理学家一个钟表匠的儿子 he was Jon Osterman, physicist, son of a watchmaker.
+Dialogue: 0,0:26:38.60,0:26:43.40,Default,,0,0,0,,一个有着友谊、爱情和普通家庭价值观的人 A man with friendships, loves, common family values
+Dialogue: 0,0:26:43.40,0:26:46.00,Default,,0,0,0,,他的一个朋友 实际上是同事 One of his friends and, in fact, colleagues..
+Dialogue: 0,0:26:46.00,0:26:48.80,Default,,0,0,0,,如今仍在和曼哈顿博士一起工作 …who continues to work with Dr. Manhattan today.
+Dialogue: 0,0:26:48.80,0:26:51.40,Default,,0,0,0,,他本身就是一位受人尊敬的物理学家 …is an esteemed physicist in his own right.
+Dialogue: 0,0:26:51.40,0:26:52.60,Default,,0,0,0,,沃利·韦弗 ..Wally Weaver.
+Dialogue: 0,0:26:52.80,0:26:55.40,Default,,0,0,0,,我们去了韦弗的实验室 进行了以下交谈 We went to Weaver's lab and had the following conversation
+Dialogue: 0,0:26:55.40,0:26:58.80,Default,,0,0,0,,我认为 Well, I think...
+Dialogue: 0,0:26:58.80,0:27:01.20,Default,,0,0,0,,各种各样的英雄都是好的 …heroes of all kinds are a good thing.
+Dialogue: 0,0:27:01.20,0:27:05.80,Default,,0,0,0,,我说的是我们军队中英勇的男男女女 And I'm talking about the brave men and women of our Armed Forces.
+Dialogue: 0,0:27:05.80,0:27:14.60,Default,,0,0,0,,我说的是科学家和医生 I'm talking about the scientists and the doctors. And, uh..
+Dialogue: 0,0:27:15.40,0:27:18.40,Default,,0,0,0,,我会把蒙面英雄也算在 Yeah, I'd include masked heroes.
+Dialogue: 0,0:27:18.40,0:27:21.00,Default,,0,0,0,,对社会有益的群体里 in thatgroup that's a benefit to society too
+Dialogue: 0,0:27:21.00,0:27:21.20,Default,,0,0,0,,too
+Dialogue: 0,0:27:21.20,0:27:22.60,Default,,0,0,0,,乔恩 Jon is--
+Dialogue: 0,0:27:22.60,0:27:24.80,Default,,0,0,0,,抱歉曼哈顿博士 I'm sorry. Dr. Manhattan..
+Dialogue: 0,0:27:24.80,0:27:29.60,Default,,0,0,0,,完全是另一回事 …is something else entirely.
+Dialogue: 0,0:27:29.60,0:27:36.20,Default,,0,0,0,,我正在写一本关于他如何永远改变地缘政治格局的书 I'm writing a book about how he's changed the geopolitical landscape forever.
+Dialogue: 0,0:27:36.20,0:27:42.80,Default,,0,0,0,,从本质上来说 战争的概念已经过时了 essentiallymaking the very idea of war obsolete.
+Dialogue: 0,0:27:43.60,0:27:43.80,Default,,0,0,0,,to the
+Dialogue: 0,0:27:43.80,0:27:44.80,Default,,0,0,0,,their team."Th last night was th
+Dialogue: 0,0:27:44.80,0:27:46.60,Default,,0,0,0,,第一反应就是完全不相信 MASoN:You know,thefirstthing was absolute disbelief
+Dialogue: 0,0:27:46.60,0:27:47.00,Default,,0,0,0,,第一反应就是完全不相信 MASON:You know,the first thing was absolute disbeliefa's Speakerof
+Dialogue: 0,0:27:47.00,0:27:49.80,Default,,0,0,0,,第一反应就是完全不相信 theseuse Dead at61
+Dialogue: 0,0:27:49.80,0:27:50.60,Default,,0,0,0,,第一反应就是完全不相 MASoN:Youknow,thefirstthingwasabsolutedisbelie
+Dialogue: 0,0:27:50.60,0:27:51.00,Default,,0,0,0,,当然我也很高兴 theBean to support and enccurage Well, of course,asyouknow,therewas elationtoopi.s
+Dialogue: 0,0:27:51.00,0:27:51.20,Default,,0,0,0,,当然我也很高兴 That's why they all came out the Bears Well,of course,asyouknow,therewaselationtoo wather weariag the Gianta blue
+Dialogue: 0,0:27:51.20,0:27:51.40,Default,,0,0,0,,当然我也很高兴 gantacreen TV replay of hopethiwilnot be their bst Well, of course, as youknow, there was elation toocourage the Bears "The weather
+Dialogue: 0,0:27:51.40,0:27:51.80,Default,,0,0,0,,当然我也很高兴 welcomed them home, thing.Bob Regis of New cheering them on for their Jerseysadwhilewatchinga gant-screen TV replay of Well, of course,asyouknow,therewaselationtootheir hast the Bears
+Dialogue: 0,0:27:51.80,0:27:52.20,Default,,0,0,0,,当然我也很高兴 welcomed them home, thingBob Regis of New Well, of course,asyouknow,there waselationtoofor their Jerey d whiwattchng
+Dialogue: 0,0:27:52.20,0:27:52.40,Default,,0,0,0,,当然我也很高兴 ander way late beause the Stadium two weeks earlier Well, of course, as you know, there was elation too m heme. thing.Bob Regis of New cheenng them on for their
+Dialogue: 0,0:27:52.40,0:27:52.60,Default,,0,0,0,,我也很高兴 might bea once ina hfetine thing.Bob Regis of New
+Dialogue: 0,0:27:52.60,0:27:52.80,Default,,0,0,0,,当然我也很高兴 wae delayed No matterIt might bea onceina bfetine
+Dialogue: 0,0:27:52.80,0:27:53.20,Default,,0,0,0,,当然我也很高兴 stadium far raucous celebratios with their fana under way late because the
+Dialogue: 0,0:27:53.20,0:27:54.40,Default,,0,0,0,,我是说这就像圣诞老人不仅活着 而 Most ofthe fas had been Imean,it waslikeSantaClauswasaliveand thrivingved at the there for about five hous, stadium wating for the tamtoarnve
+Dialogue: 0,0:27:54.40,0:27:57.00,Default,,0,0,0,,我是说这就像圣诞老人不仅活着 dium,shouted Fran kenton, the Giants Imean,itwaslikeSantaClauswasaliveand
+Dialogue: 0,0:27:57.00,0:27:59.40,Default,,0,0,0,,但恐惧 inDeaverthenightbefore and Tarkenton the Giants then a frigid,bone-numbing Quarterback On behalf of But the fear.
+Dialogue: 0,0:27:59.40,0:28:00.20,Default,,0,0,0,,但恐惧 But the fear..
+Dialogue: 0,0:28:00.20,0:28:02.20,Default,,0,0,0,,那是一种可怕的恐惧 It was a terrible fear.
+Dialogue: 0,0:28:02.20,0:28:08.20,Default,,0,0,0,,以及一种直达你内心深处的不确定性 …and an uncertainty that went right to your core.
+Dialogue: 0,0:28:08.20,0:28:10.40,Default,,0,0,0,,我当然理解一辆旧车 certainly understood how an old car feels..
+Dialogue: 0,0:28:10.40,0:28:14.80,Default,,0,0,0,,看到一款新车推出时的感受 …when it sees a new car, a new model come rolling out
+Dialogue: 0,0:28:15.80,0:28:17.80,Default,,0,0,0,,但还不止这些 But it was more than that.
+Dialogue: 0,0:28:17.80,0:28:24.20,Default,,0,0,0,,我想我可以把这种感觉归结为三个单词 You know, I think I can boil the feeling down to three words, really. It's
+Dialogue: 0,0:28:24.20,0:28:25.80,Default,,0,0,0,,我们已经被取代了 We'vebeenreplaced.
+Dialogue: 0,0:28:26.60,0:28:29.80,Default,,0,0,0,,我不只是指蒙面英雄 And Idon't justmean themaskedadventurers
+Dialogue: 0,0:28:29.80,0:28:33.20,Default,,0,0,0,,我指的是人类 I mean, humanity.
+Dialogue: 0,0:28:34.00,0:28:35.80,Default,,0,0,0,,我们已经被取代了 We've been replaced.
+Dialogue: 0,0:28:39.20,0:28:42.60,Default,,0,0,0,,霍利斯总是有戏剧天赋 Hollis alwaysdidhave a flairforthe dramatic
+Dialogue: 0,0:28:42.60,0:28:43.60,Default,,0,0,0,,毫无疑问这件事震惊了我们所有人 There is no doubtthat it was an absolute shock toall ofus.
+Dialogue: 0,0:28:43.60,0:28:44.00,Default,,0,0,0,,毫无疑问 这件事震惊了我们所有人
+Dialogue: 0,0:28:44.00,0:28:44.60,Default,,0,0,0,,teitselfwittn 毫无疑问这件事震惊了我们所有人 There is no doubt that it was an absolute shock to all of us
+Dialogue: 0,0:28:44.60,0:28:44.80,Default,,0,0,0,,fwith mutes: 毫无疑问这件事震惊了我们所有人
+Dialogue: 0,0:28:44.80,0:28:45.00,Default,,0,0,0,,毫无疑问这件事震惊了我们所有人 virtually stopne There isnodoubtthat it wasanabsolute shock toall ofus.
+Dialogue: 0,0:28:45.00,0:28:45.60,Default,,0,0,0,,rpowe 毫无疑问这件事震惊了我们所有人
+Dialogue: 0,0:28:45.60,0:28:45.80,Default,,0,0,0,,ntheir Bulletin, 毫无疑问 这件事震惊了我们所有人 There is no doubt that it was an absolute shock to all of us.
+Dialogue: 0,0:28:45.80,0:28:48.60,Default,,0,0,0,,任何事物都可以像曼哈顿博士一样存在 The fact that anything could exist like Dr. Manhattan.
+Dialogue: 0,0:28:48.60,0:28:49.80,Default,,0,0,0,,我是说这对我们来说是超出理解范围的事物 Wo are on the brink of the people of the ussR,ond I mean,this was something out of the realm of concept for us.
+Dialogue: 0,0:28:49.80,0:28:52.40,Default,,0,0,0,,我是说这对我们来说是超出理解范围的事物 We are on the brink of a war that wi undoubtedly be disantrous for But how exactly is Gorbachev
+Dialogue: 0,0:28:52.40,0:28:53.20,Default,,0,0,0,,我是说这对我们来说是超出理解范围的事物 I mean, this was something out of the realm of concept for us.
+Dialogue: 0,0:28:53.20,0:28:55.80,Default,,0,0,0,,但是我们永远需要人类 Hactor GodfreyEditor But we will always have a need for humanity..
+Dialogue: 0,0:28:55.80,0:29:02.00,Default,,0,0,0,,就像我们在技术上的扩张和发展一样 and as much as we expand and grow technologically, it's-
+Dialogue: 0,0:29:02.00,0:29:04.20,Default,,0,0,0,,我们仍然需要人与人之间的接触你明白吗？ We still need human contact, you know?
+Dialogue: 0,0:29:04.80,0:29:08.60,Default,,0,0,0,,人们总是曲解我对乔恩的评价 People have always misinterpreted what I said about Jon.
+Dialogue: 0,0:29:08.60,0:29:14.20,Default,,0,0,0,,我没有把他比作上帝 我不是说他是神 I wasn't comparing him to God. I wasn't saying he was a god.
+Dialogue: 0,0:29:14.20,0:29:19.60,Default,,0,0,0,,我真希望我没说过那样的话 I just-- Just wish I wouldn't have ever said that.
+Dialogue: 0,0:29:19.60,0:29:23.60,Default,,0,0,0,,底线是：乔恩仍然是乔恩 Bottom line is this: Jon is still Jon.
+Dialogue: 0,0:29:23.60,0:29:28.80,Default,,0,0,0,,他骨子里仍然是个人类 At his core he's still a man.
+Dialogue: 0,0:29:29.40,0:29:34.60,Default,,0,0,0,,就拿我说的超级反派是对超级英雄的出现 Well, take what I said about supervillains being a direct response..
+Dialogue: 0,0:29:34.60,0:29:36.80,Default,,0,0,0,,的直接回应 …to the appearance of superheroes..
+Dialogue: 0,0:29:36.80,0:29:40.40,Default,,0,0,0,,并将其应用到当前的情况中 …and apply that to the current scenario.
+Dialogue: 0,0:29:40.40,0:29:46.20,Default,,0,0,0,,如果有一个仅凭一个想法就能摧毁万物的存在 If you have a being that can destroy with a single thought…
+Dialogue: 0,0:29:46.20,0:29:48.40,Default,,0,0,0,,可怕的是 ….then the terrifying thing is that there is..
+Dialogue: 0,0:29:48.40,0:29:54.00,Default,,0,0,0,,很快就会有一个与之相对立的对手 …or there soonwill be, a counterpoint or an adversary to that being.
+Dialogue: 0,0:29:54.00,0:29:59.20,Default,,0,0,0,,宇宙有办法找到它自己的平衡 The universe has a way of finding its own equilibrium, its own level.
+Dialogue: 0,0:30:00.60,0:30:05.80,Default,,0,0,0,,让我担心的是 是曼哈顿博士的死敌很快就会到来 What worries me is that Dr. Manhattan's nemesis will be arriving soon
+Dialogue: 0,0:30:10.80,0:30:13.40,Default,,0,0,0,,当然其中一些蒙面英雄 Ofcourse, someof thesemaskedadventurers..
+Dialogue: 0,0:30:13.40,0:30:16.40,Default,,0,0,0,,从未停止练习他们独特的技艺 …never stopped practicing their unique craft.
+Dialogue: 0,0:30:16.40,0:30:20.40,Default,,0,0,0,,最终随着时间流逝他们的出现再次受到欢迎 Eventually time moved forward to a point where their presence was again welcomed..
+Dialogue: 0,0:30:20.40,0:30:23.20,Default,,0,0,0,,有些人会说这是迫切需要的 …and some would say sorely needed.
+Dialogue: 0,0:30:23.20,0:30:27.80,Default,,0,0,0,,大城市的街道充斥着暴力、恐吓和猖獗的犯罪 Big city streets festered with violence intimidation and rampant crime
+Dialogue: 0,0:30:27.80,0:30:32.00,Default,,0,0,0,,一个新一代的蒙面英雄出现的完美环境 A perfect environment for a new breed of masked hero to emerge.
+Dialogue: 0,0:30:32.00,0:30:34.80,Default,,0,0,0,,当然我说的是守望者 Ofcourse, I speak ofthe Watchmen.
+Dialogue: 0,0:30:34.80,0:30:38.80,Default,,0,0,0,,现在随着冷战的升级和一个真正超人类的存在 Now, with the Cold War escalating and the presence of a truly super being..
+Dialogue: 0,0:30:38.80,0:30:41.00,Default,,0,0,0,,出现在我们的国防前沿 atthe forefront of our nationaldefense
+Dialogue: 0,0:30:41.00,0:30:46.00,Default,,0,0,0,,越来越多的恐惧和不安情绪似乎弥漫在人群中 …a growing fear and restlessness seems to permeate the population.
+Dialogue: 0,0:30:46.00,0:30:48.60,Default,,0,0,0,,只是这一次我们害怕的不是罪犯 Only this time, the fear is not of the criminals..
+Dialogue: 0,0:30:48.60,0:30:50.80,Default,,0,0,0,,而是打击犯罪分子本身 .but of the crime fighters themselves
+Dialogue: 0,0:30:50.80,0:30:51.20,Default,,0,0,0,,而是打击犯罪分子本身 everythingto dowithmoney When police departmentsrun butof thecrimefighters themselves.a deficitthen the Senators
+Dialogue: 0,0:30:51.20,0:30:51.40,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面行动了parmntrun
+Dialogue: 0,0:30:51.40,0:30:51.60,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面行动了artmentsrun aCSenator Keene surelythinksthatthetimehascometo put anend tomaskedadventuing
+Dialogue: 0,0:30:51.60,0:30:51.80,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面行动了theSenator's Paae When askedwhether or
+Dialogue: 0,0:30:51.80,0:30:53.20,Default,,0,0,0,,Page 基恩参议员肯定认为是时候结束蒙面行动了theSenators Panisimoresympathetie. Senator Keene surely thinks that the time has come to put an end to masked adventuring.
+Dialogue: 0,0:30:52.00,0:30:52.20,Default,,0,0,0,,Page基恩参议员肯定认为是时候结束蒙面行动了ympathetic. not yigilante grouns should
+Dialogue: 0,0:30:52.20,0:30:52.40,Default,,0,0,0,,Page 基恩参议员肯定认为是时候结束蒙面行动了mpathetic When asked whetheror SenatorKeene surely thinks that thetime has come to put an end to masked adventuring.
+Dialogue: 0,0:30:52.40,0:30:52.60,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙 ympathetie." 面行动 Jed whetheror ing. be allowed to help law
+Dialogue: 0,0:30:53.20,0:30:53.40,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面 chief O Rvansaid only.let
+Dialogue: 0,0:30:53.40,0:30:53.60,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面 行动力enby roundingup Senator Keene surely thinks that the time has come toputan end tolmaskedadventuring. them do it.please"
+Dialogue: 0,0:30:53.60,0:30:53.80,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面 yrounding up 何云nalforthem，Police Enief ORan said only."let If Senator Keene has his
+Dialogue: 0,0:30:53.80,0:30:56.20,Default,,0,0,0,,基恩参议员肯定认为是时候结束蒙面行动了 Senator Keene surely thinks that the time has come to put an end to masked adventuring.
+Dialogue: 0,0:30:56.20,0:31:01.00,Default,,0,0,0,,他提出的新法律将有效地限制这些变装英雄们 His suggested new laws would effectively clip the wings of these costumed heroes.
+Dialogue: 0,0:31:01.00,0:31:02.60,Default,,0,0,0,,迫使他们挂起面罩 ….making them hang up their masks..
+Dialogue: 0,0:31:02.60,0:31:06.80,Default,,0,0,0,,阻止他们在我们美丽的街道执行治安维护 …and preventing them from practicing vigilante justice in our fair streets
+Dialogue: 0,0:31:07.20,0:31:12.60,Default,,0,0,0,,基恩参议员是一个机会主义者 Senator Keene is an opportunistic.
+Dialogue: 0,0:31:12.60,0:31:14.20,Default,,0,0,0,,一个无足轻重的人 ...cipher.
+Dialogue: 0,0:31:14.20,0:31:14.40,Default,,0,0,0,,一个无足轻重的人 the billcoul McFlancake, .cipher
+Dialogue: 0,0:31:14.40,0:31:17.20,Default,,0,0,0,,他根本不知道自己在说什么ersinthejudicial sy He has no idea what he's talking aboute already wondering
+Dialogue: 0,0:31:15.40,0:31:16.40,Default,,0,0,0,,o他根本不知道自己在说什么oup He has no idea what he's talking about.
+Dialogue: 0,0:31:17.20,0:31:19.80,Default,,0,0,0,,真正的问题是警察部门 Thereal problemare the policedepartments
+Dialogue: 0,0:31:19.80,0:31:24.80,Default,,0,0,0,,如果他们能像这些蒙面英雄一样 Ifthey wouldtake a little bit more of what these masked heroes have.
+Dialogue: 0,0:31:24.80,0:31:27.80,Default,,0,0,0,,那我们一开始就不需要 .then we wouldn't need people like Senator Keene..
+Dialogue: 0,0:31:27.80,0:31:29.40,Default,,0,0,0,,像基恩参议员这样的人了 …in the Senate in the first place.
+Dialogue: 0,0:31:30.60,0:31:32.60,Default,,0,0,0,,我对基恩参议员有什么看法？ Whatdo I thinkaboutSenatorKeene?
+Dialogue: 0,0:31:32.60,0:31:34.80,Default,,0,0,0,,听着我每天都在这里工作 Listen, I work down here every day
+Dialogue: 0,0:31:34.80,0:31:38.00,Default,,0,0,0,,每当我遇到麻烦或者有人在这里打我时 Whenever I'm in trouble, whenever somebody's down here beating me up
+Dialogue: 0,0:31:38.00,0:31:41.20,Default,,0,0,0,,我大喊救命 我不在乎谁来救我 …and I yell for help, I don't care who comes to save my butt
+Dialogue: 0,0:31:41.20,0:31:44.80,Default,,0,0,0,,我不在乎他是超级英雄还是警察 I don't care if it's asuperhero.I don't care if it's a cop
+Dialogue: 0,0:31:44.80,0:31:48.40,Default,,0,0,0,,只要我喊救命的时候有人来就行 As long as somebody comes when lI'm yelling "help.
+Dialogue: 0,0:31:48.40,0:31:49.60,Default,,0,0,0,,你明白吗？ You understand?
+Dialogue: 0,0:31:49.60,0:31:52.00,Default,,0,0,0,,人们 People have...
+Dialogue: 0,0:31:52.00,0:31:54.60,Default,,0,0,0,,需要 ..a need for..
+Dialogue: 0,0:31:54.60,0:31:57.00,Default,,0,0,0,,一个平凡的英雄 …an everyday hero.
+Dialogue: 0,0:31:57.00,0:31:59.40,Default,,0,0,0,,无论是蒙面英雄还是其他的 Masked or otherwise.
+Dialogue: 0,0:31:59.40,0:32:01.00,Default,,0,0,0,,而且 And, uh...
+Dialogue: 0,0:32:03.40,0:32:07.60,Default,,0,0,0,,一个能够明辨是非的人 ..people who know right from wrong.
+Dialogue: 0,0:32:07.60,0:32:11.60,Default,,0,0,0,,永远都是被需要的 …willalways be in demand.
+Dialogue: 0,0:32:12.80,0:32:13.00,Default,,0,0,0,,NEW
+Dialogue: 0,0:32:13.00,0:32:13.40,Default,,0,0,0,,NEWYORK Amicnthe
+Dialogue: 0,0:32:13.60,0:32:14.00,Default,,0,0,0,,NEW YoRk.Amidst the amili due to deat a山hirmost
+Dialogue: 0,0:32:14.00,0:32:14.20,Default,,0,0,0,,oftentimes supp thad boen targeting grleving iamilles NEW YoRKAmida thre famili du to dea
+Dialogue: 0,0:32:14.20,0:32:14.60,Default,,0,0,0,,rack dont the neaky thieves who The NewYork Gazette oftentimes sup adIeel tageting grieving famllies
+Dialogue: 0,0:32:15.20,0:32:15.40,Default,,0,0,0,,"There is hope, Inasuingoperarton orchest citizens of New York NYPD Chie atnnding bank bandits havebeen wonths.was conducted
+Dialogue: 0,0:32:15.40,0:32:15.60,Default,,0,0,0,,"There is hope,"re-assure nditshavebeen captu conducted na stingopprattonorchestr Hivens of NewYork
+Dialogue: 0,0:32:15.60,0:32:15.80,Default,,0,0,0,,the time been captured took ration orehestratedby There is hope,re-assured ucted NewYork.
+Dialogue: 0,0:32:15.80,0:32:16.00,Default,,0,0,0,,took the time to Mimutemen'. ration orchestrate "There is hopere-assure ndlts have been captured
+Dialogue: 0,0:32:16.00,0:32:16.20,Default,,0,0,0,,to the The took the time to help re-assur Minutemen tiouorchestrated by Ita have been captured. "There is hope,"
+Dialogue: 0,0:32:16.20,0:32:16.40,Default,,0,0,0,,took the thne to help the v orchestrated byThe hope,"re-assu Mlnntemen', have been captured.
+Dialogue: 0,0:32:16.40,0:32:17.00,Default,,0,0,0,,theefforts apprehending the tured. rook the time to help
+Dialogue: 0,0:32:17.20,0:32:17.40,Default,,0,0,0,,didMoth
+Dialogue: 0,0:32:17.40,0:32:18.40,Default,,0,0,0,,lends The Mimutemen of'Mothman' andhis
+Dialogue: 0,0:32:18.40,0:32:18.60,Default,,0,0,0,,elriends of'Mothman'and h 'The Minutemen!
+Dialogue: 0,0:32:18.60,0:32:19.40,Default,,0,0,0,,nte friendsThe Mi ne efforts of'Mothman! inally
+Dialogue: 0,0:32:19.40,0:32:20.00,Default,,0,0,0,,to the efforts of Moth have finally tefriends
+Dialogue: 0,0:32:20.00,0:32:20.60,Default,,0,0,0,,ankstotheefforts of Ring have finally
+Dialogue: 0,0:32:21.00,0:32:21.20,Default,,0,0,0,,Changes in Ral
+Dialogue: 0,0:32:21.20,0:32:24.60,Default,,0,0,0,,me Police inventory weapons at heada aro and
+Dialogue: 0,0:32:25.00,0:32:29.60,Default,,0,0,0,,我想在这里说点私人的话题 So Iwant to get a littlepersonalhereforthemoment
+Dialogue: 0,0:32:29.60,0:32:31.20,Default,,0,0,0,,你从没结过婚 这是为什么? You nevermarried.Why is that?
+Dialogue: 0,0:32:33.80,0:32:35.00,Default,,0,0,0,,呃 Um...
+Dialogue: 0,0:32:35.40,0:32:36.40,Default,,0,0,0,,谢谢 Thank you.
+Dialogue: 0,0:32:37.00,0:32:40.80,Default,,0,0,0,,我想如果有什么原因导致我没有结婚的话 Well, I suppose if there's any one reason why I never got married..
+Dialogue: 0,0:32:40.80,0:32:43.60,Default,,0,0,0,,是因为 …it was because.
+Dialogue: 0,0:32:43.60,0:32:47.60,Default,,0,0,0,,莎莉·朱庇特和别人结婚了 well, Sally Jupiter was taken.
+Dialogue: 0,0:32:47.60,0:32:52.00,Default,,0,0,0,,我不认为我对她有感觉是什么天大的秘密 I don't think it's any great secret that I had a thing for her.
+Dialogue: 0,0:32:52.00,0:32:52.80,Default,,0,0,0,,我不认为我对他有感觉是什么天大的秘密
+Dialogue: 0,0:32:52.80,0:32:55.00,Default,,0,0,0,,有一半的男人喜欢她 Half the male population did.
+Dialogue: 0,0:32:55.00,0:33:00.20,Default,,0,0,0,,等我鼓足勇气约她出去的时候 Bythe time l'd rustled up the courage to ask herout on a proper date….
+Dialogue: 0,0:33:00.40,0:33:03.80,Default,,0,0,0,,她已经和她的经纪人结婚了 …she was already married to her manager.
+Dialogue: 0,0:33:05.60,0:33:08.40,Default,,0,0,0,,每当我想到这件事的时候都会觉得很有趣 It's kind of funny when you think of it.
+Dialogue: 0,0:33:08.40,0:33:12.20,Default,,0,0,0,,我打扮成猫头鹰 每天冒着生命危险 I dress up as an owl and risk my life on a daily basis.
+Dialogue: 0,0:33:12.20,0:33:18.20,Default,,0,0,0,,但说到约女孩出去 …but when itcame toasking a girl out…
+Dialogue: 0,0:33:18.20,0:33:21.00,Default,,0,0,0,,这超出了我的能力范围 ..it was more than I could manage.
+Dialogue: 0,0:33:21.00,0:33:25.40,Default,,0,0,0,,可悲的是我认为我们的婚姻从一开始就注定要失败 Sadly, I think our marriage was doomed from the start.
+Dialogue: 0,0:33:25.40,0:33:30.00,Default,,0,0,0,,我在莎莉生活中的职业地位使我很难成为一个好丈夫 My professional position in Sally's life made it very difficult to be a good husband
+Dialogue: 0,0:33:30.00,0:33:32.00,Default,,0,0,0,,作为她的经纪人 It was my job as her manager..
+Dialogue: 0,0:33:32.00,0:33:35.60,Default,,0,0,0,,我的工作不仅要接受男人被她吸引这一事实 …to not only accept the fact that men were attracted to her….
+Dialogue: 0,0:33:35.60,0:33:39.00,Default,,0,0,0,,而且还要依赖这种吸引力 ..but to build on that attraction...
+Dialogue: 0,0:33:39.00,0:33:41.80,Default,,0,0,0,,来赚取利益 ..to prey upon it.
+Dialogue: 0,0:33:48.00,0:33:49.80,Default,,0,0,0,,霍利斯对你来说非常重要 Hollis was very important to you.
+Dialogue: 0,0:33:49.80,0:33:52.00,Default,,0,0,0,,他是你生命中非常重要的人对吗? He was a very important person in your life, correct?
+Dialogue: 0,0:33:52.00,0:33:53.00,Default,,0,0,0,,绝对的 Absolutely.
+Dialogue: 0,0:33:53.00,0:33:54.60,Default,,0,0,0,,你们如今还保持联系吗？ You stay in contact with each other today?
+Dialogue: 0,0:33:54.60,0:33:56.40,Default,,0,0,0,,没错我们还在联系 We do. We do.
+Dialogue: 0,0:33:56.40,0:33:59.00,Default,,0,0,0,,我得说没有我想要的那么多  Not as much as I would like, I must say.
+Dialogue: 0,0:33:59.00,0:34:01.20,Default,,0,0,0,,你的生活把你引向不同的方向 Youknow,your life takes youindifferentdirections..
+Dialogue: 0,0:34:01.20,0:34:04.80,Default,,0,0,0,,但那确实是一段奇妙的时光 ..but that was really a magical, magical time..
+Dialogue: 0,0:34:04.80,0:34:08.40,Default,,0,0,0,,当我们聚在一起的时候我们喜欢谈论过去的时光 .andwedoliketotalk abouttheoldtimes whenwegettogether.
+Dialogue: 0,0:34:09.00,0:34:13.80,Default,,0,0,0,,我认为我还有一些 You know, I think--I think I still have some kind of.
+Dialogue: 0,0:34:13.80,0:34:17.40,Default,,0,0,0,,夜枭和丝魂总有一天会在一起 ..half-baked idea that...
+Dialogue: 0,0:34:17.40,0:34:27.00,Default,,0,0,0,,这种不成熟的想法 .Nite Owl and, uh. Silk Spectre are gonna end up together one day.
+Dialogue: 0,0:34:37.80,0:34:40.20,Default,,0,0,0,,当我们最初与霍利斯·梅森交谈时 When we originally spoke with Hollis Mason..
+Dialogue: 0,0:34:40.20,0:34:43.80,Default,,0,0,0,,他相信他作为夜枭 ….he believed that the legacy he'd begun as the Nite Owl.
+Dialogue: 0,0:34:43.80,0:34:46.20,Default,,0,0,0,,以及和蒙面英雄团体的其他成员一起留下的遗产 …along with other members of the masked-hero community..
+Dialogue: 0,0:34:46.20,0:34:48.40,Default,,0,0,0,,将会持续很多年 …would live on for years to come.
+Dialogue: 0,0:34:48.40,0:34:51.20,Default,,0,0,0,,他不知道自己错得有多离谱 He could not have known how wrong he was.
+Dialogue: 0,0:34:55.20,0:34:59.80,Default,,0,0,0,,这是当我们出于我们的道德观 This has been a nostalgic look back at a colorful time in this nation's past..
+Dialogue: 0,0:34:59.80,0:35:03.20,Default,,0,0,0,,转向穿着卡通服装的华丽英雄时 …when we turned to flamboyant heroes with cartoonish outfits.
+Dialogue: 0,0:35:03.20,0:35:04.59,Default,,0,0,0,,对这个国家过去丰富多彩的时光的怀旧回顾 ..for our moral outlook.
+Dialogue: 0,0:35:04.59,0:35:07.20,Default,,0,0,0,,在后基恩法案时代我们现在生活在一个 In the post-Keene Act world we now live in.
+Dialogue: 0,0:35:07.20,0:35:10.20,Default,,0,0,0,,蒙面英雄已经过时且无关紧要的世界 ….the masked heroes are as outdated and irrelevant….
+Dialogue: 0,0:35:10.20,0:35:14.00,Default,,0,0,0,,就像霍利斯·梅森在他的汽修店里修理的旧的破烂车一样 …as the old beat-up wrecks that Hollis Mason works on in his garage.
+Dialogue: 0,0:35:14.00,0:35:18.20,Default,,0,0,0,,我们希望你会发现这次回顾的变装英雄的历史 We hope that you have found this look back at the history of costumed adventurers.….
+Dialogue: 0,0:35:18.20,0:35:20.80,Default,,0,0,0,,既有启发性又有教育意义 ..both enlightening and informative.
+Dialogue: 0,0:35:20.80,0:35:23.80,Default,,0,0,0,,我是拉里·卡尔佩珀这里是The Culpeper Minute I'm Larry Culpeper for The Culpeper Minute.
